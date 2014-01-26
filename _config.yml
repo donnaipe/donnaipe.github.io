@@ -3,17 +3,37 @@
 # ----------------------- #
 
 url: http://donnaipe.github.io
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
+title: Producciones Don Naipe
+subtitle: Juegos de cartas para Android
+author: Don Naipe
 simple_search: http://google.com/search
-description:
+description: Producciones Don Naipe se dedica al desarrollo de juegos de cartas con baraja española para Android. El primero de estos juegos es "Tute a Cuatro" y ¡ya está disponible en Google Play!
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
 # You can customize the format as defined in
 # http://www.ruby-doc.org/core-1.9.2/Time.html#method-i-strftime
 # Additionally, %o will give you the ordinal representation of the day
-date_format: "ordinal"
+# date_format: "ordinal"
+
+# extraído de http://alanwsmith.com/jekyll-liquid-date-formatting-examples
+date_format: 
+{% assign m = page.date | date: "%-m" %}
+{{ page.date | date: "%-d" }}
+{% case m %}
+  {% when '1' %}Enero
+  {% when '2' %}Febrero
+  {% when '3' %}Marzo
+  {% when '4' %}Abril
+  {% when '5' %}Mayo
+  {% when '6' %}Junio
+  {% when '7' %}Julio
+  {% when '8' %}Agosto
+  {% when '9' %}Septiembre
+  {% when '10' %}Octubre
+  {% when '11' %}Noviembre
+  {% when '12' %}Diciembre
+{% endcase %}
+{{ page.date | date: "%Y" }}
 
 # RSS / Email (optional) subscription links (change if using something like Feedburner)
 subscribe_rss: /atom.xml
