@@ -4,7 +4,7 @@
   <title><![CDATA[Producciones Don Naipe]]></title>
   <link href="http://donnaipe.github.io/atom.xml" rel="self"/>
   <link href="http://donnaipe.github.io/"/>
-  <updated>2014-01-27T14:43:00+01:00</updated>
+  <updated>2014-01-27T14:46:32+01:00</updated>
   <id>http://donnaipe.github.io/</id>
   <author>
     <name><![CDATA[Don Naipe]]></name>
@@ -16,7 +16,7 @@
   <entry>
     <title type="html"><![CDATA[Prueba]]></title>
     <link href="http://donnaipe.github.io/blog/2014/01/27/Prueba/"/>
-    <updated>2014-01-27T00:00:00+01:00</updated>
+    <updated>2014-01-27T14:44:59+01:00</updated>
     <id>http://donnaipe.github.io/blog/2014/01/27/Prueba</id>
     <content type="html"><![CDATA[<p>Probando, probando&hellip;</p>
 ]]></content>
