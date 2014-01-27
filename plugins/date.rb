@@ -1,6 +1,24 @@
 module Octopress
   module Date
 
+# Añadido para poner fechas en castellano, según http://www.hazteonline.es/blog/press/2012/08/17/las-fechas-en-octopress/
+MONTHNAMES_TR = [nil,
+  "Enero", "Febrero", "Marzo", "Abril", "Mayo", "Junio",
+  "Julio", "Agosto", "Septiembre", "Octubre", "Noviembre", "Diciembre"
+]
+ABBR_MONTHNAMES_TR = [nil,
+  "Ene", "Feb", "Mar", "Abr", "May", "Jun",
+  "Jul", "Ago", "Sep", "Oct", "Nov", "Dic"
+]
+DAYNAMES_TR = [
+  "Domingo", "Lunes", "Martes", "Mi&eacute;rcoles",
+  "Jueves", "Viernes", "S&aacute;bado"
+]
+ABBR_DAYNAMES_TR = [
+  "Dom", "Lun", "Mar", "Mi&eacute;",
+   "Jue", "Vie", "S&aacute;b"
+]
+
     # Returns a datetime if the input is a string
     def datetime(date)
       if date.class == String
@@ -36,8 +54,14 @@ module Octopress
       if format.nil? || format.empty? || format == "ordinal"
         date_formatted = ordinalize(date)
       else
-        date_formatted = date.strftime(format)
-        date_formatted.gsub!(/%o/, ordinal(date.strftime('%e').to_i))
+	date_formatted = format.gsub(/%a/, ABBR_DAYNAMES_TR[date.wday])
+	date_formatted = date_formatted.gsub(/%A/, DAYNAMES_TR[date.wday])
+	date_formatted = date_formatted.gsub(/%b/, ABBR_MONTHNAMES_TR[date.mon])
+    	date_formatted = date_formatted.gsub(/%B/, MONTHNAMES_TR[date.mon])
+    	date_formatted = date.strftime(date_formatted)
+# antiguo formato
+#        date_formatted = date.strftime(format)
+#        date_formatted.gsub!(/%o/, ordinal(date.strftime('%e').to_i))
       end
       date_formatted
     end
