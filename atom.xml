@@ -4,7 +4,7 @@
   <title><![CDATA[Producciones Don Naipe]]></title>
   <link href="http://donnaipe.github.io/atom.xml" rel="self"/>
   <link href="http://donnaipe.github.io/"/>
-  <updated>2014-01-27T15:02:43+01:00</updated>
+  <updated>2014-01-27T15:03:32+01:00</updated>
   <id>http://donnaipe.github.io/</id>
   <author>
     <name><![CDATA[Don Naipe]]></name>
@@ -12,14 +12,5 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
-  
-  <entry>
-    <title type="html"><![CDATA[Prueba]]></title>
-    <link href="http://donnaipe.github.io/blog/2014/01/02/Prueba/"/>
-    <updated>2014-01-02T14:44:59+01:00</updated>
-    <id>http://donnaipe.github.io/blog/2014/01/02/Prueba</id>
-    <content type="html"><![CDATA[<p>Probando, probando&hellip;</p>
-]]></content>
-  </entry>
   
 </feed>
