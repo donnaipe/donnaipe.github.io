@@ -1,7 +1,17 @@
 module Octopress
   module Date
 
-# Añadido para poner fechas en castellano, según http://www.hazteonline.es/blog/press/2012/08/17/las-fechas-en-octopress/
+# modificado según http://www.hazteonline.es/blog/press/2013/04/05/las-fechas-en-octopress-%28archivo%29/
+# para mostrar las fechas del archivo en español
+
+def format_date_archive(date)
+  "<span class='day'>#{date.day}</span> <span class='month'>#{ABBR_MONTHNAMES_TR[date.mon]}</span> <span class='year'>#{date.year}</span>"
+end
+
+
+# modificado según http://www.hazteonline.es/blog/press/2012/08/17/las-fechas-en-octopress/
+# para mostrar las fechas en español
+
 MONTHNAMES_TR = [nil,
   "Enero", "Febrero", "Marzo", "Abril", "Mayo", "Junio",
   "Julio", "Agosto", "Septiembre", "Octubre", "Noviembre", "Diciembre"
@@ -49,22 +59,31 @@ ABBR_DAYNAMES_TR = [
 
     # Formats date either as ordinal or by given date format
     # Adds %o as ordinal representation of the day
-    def format_date(date, format)
-      date = datetime(date)
-      if format.nil? || format.empty? || format == "ordinal"
-        date_formatted = ordinalize(date)
-      else
-	date_formatted = format.gsub(/%a/, ABBR_DAYNAMES_TR[date.wday])
-	date_formatted = date_formatted.gsub(/%A/, DAYNAMES_TR[date.wday])
-	date_formatted = date_formatted.gsub(/%b/, ABBR_MONTHNAMES_TR[date.mon])
-    	date_formatted = date_formatted.gsub(/%B/, MONTHNAMES_TR[date.mon])
-    	date_formatted = date.strftime(date_formatted)
-# antiguo formato
-#        date_formatted = date.strftime(format)
-#        date_formatted.gsub!(/%o/, ordinal(date.strftime('%e').to_i))
-      end
-      date_formatted
-    end
+    #def format_date(date, format)
+    #  date = datetime(date)
+    #  if format.nil? || format.empty? || format == "ordinal"
+    #    date_formatted = ordinalize(date)
+    #  else
+    #    date_formatted = date.strftime(format)
+    #    date_formatted.gsub!(/%o/, ordinal(date.strftime('%e').to_i))
+    #  end
+    #  date_formatted
+    #end
+
+def format_date(date, format)
+  date = datetime(date)
+  if format.nil? || format.empty? || format == "ordinal"
+    date_formatted = ordinalize(date)
+  else
+    date_formatted = format.gsub(/%a/, ABBR_DAYNAMES_TR[date.wday])
+    date_formatted = date_formatted.gsub(/%A/, DAYNAMES_TR[date.wday])
+    date_formatted = date_formatted.gsub(/%b/, ABBR_MONTHNAMES_TR[date.mon])
+    date_formatted = date_formatted.gsub(/%B/, MONTHNAMES_TR[date.mon])
+    date_formatted = date.strftime(date_formatted)
+  end
+  date_formatted
+end
+
     
     # Returns the date-specific liquid attributes
     def liquid_date_attributes
@@ -72,6 +91,9 @@ ABBR_DAYNAMES_TR = [
       date_attributes = {}
       date_attributes['date_formatted']    = format_date(self.data['date'], date_format)    if self.data.has_key?('date')
       date_attributes['updated_formatted'] = format_date(self.data['updated'], date_format) if self.data.has_key?('updated')
+
+      date_attributes['date_archive']      = format_date_archive(self.data['date'])	    if self.data.has_key?('date')
+
       date_attributes
     end
 

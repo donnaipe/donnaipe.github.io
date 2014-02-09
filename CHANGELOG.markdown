@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Octopress Changelog
 
 ## 2.0
@@ -27,3 +28,12 @@
 - **No longer supported.**
 - Jekyll Matured, but Henrik's Jekyll fork did not.
 - Thanks for all your pull requests, I learned a lot.
+=======
+octopress-facebook-like-box's change log
+========================================
+
+0.0.1
+-----
+
+- Initial release
+>>>>>>> hoatle-octopress-facebook-like-box/master
