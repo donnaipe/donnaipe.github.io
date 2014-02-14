@@ -2,26 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Producciones Don Naipe]]></title>
-  <link href="http://donnaipe.github.io/atom.xml" rel="self"/>
-  <link href="http://donnaipe.github.io/"/>
-  <updated>2014-02-14T15:17:30+01:00</updated>
-  <id>http://donnaipe.github.io/</id>
+  <link href="http://donnaipe.com/atom.xml" rel="self"/>
+  <link href="http://donnaipe.com/"/>
+  <updated>2014-02-14T15:19:19+01:00</updated>
+  <id>http://donnaipe.com/</id>
   <author>
     <name><![CDATA[Don Naipe]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
-  
-  <entry>
-    <title type="html"><![CDATA[El Lanzamiento]]></title>
-    <link href="http://donnaipe.github.io/blog/2014/02/14/el-lanzamiento/"/>
-    <updated>2014-02-14T11:22:29+01:00</updated>
-    <id>http://donnaipe.github.io/blog/2014/02/14/el-lanzamiento</id>
-    <content type="html"><![CDATA[<p><strong>¡Y tras unos cuantos meses de gestación, por fin llegó el día de salir a la luz!</strong> Producciones Don Naipe nace con el propósito de crear juegos de cartas para la plataforma Android. El primer título de la factoría es el <a href="http://donnaipe.github.io/juegos">Tute a Cuatro</a>, posiblemente el juego de baraja española más emblemático. Si tienes un móvil o tableta Android ya puedes descargarte <a href="https://play.google.com/store/apps/details?id=donnaipe.tutegratis">la versión gratis</a> o la <a href="https://play.google.com/store/apps/details?id=donnaipe.tutepro">alucinante versión PRO</a>.</p>
-
-<p><a href="http://donnaipe.github.io/donnaipe">Don Naipe</a> ha dedicado tanto esfuerzo e ilusión en desarrollar el Tute a Cuatro que se encuentra literalmente agotado y necesita recuperar energías antes de embarcarse en un nuevo proyecto. Permaneced a la escucha&hellip;</p>
-]]></content>
-  </entry>
   
 </feed>

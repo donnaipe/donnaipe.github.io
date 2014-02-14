@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://donnaipe.github.io/sitemap.xml 
+Sitemap: http://donnaipe.com/sitemap.xml 

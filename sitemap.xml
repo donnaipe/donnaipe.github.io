@@ -1,31 +1,27 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
-        <loc>http://donnaipe.github.io/blog/2014/02/14/el-lanzamiento/</loc>
-        <lastmod>2014-02-14T12:21:11+01:00</lastmod>
+        <loc>http://donnaipe.com/blog/archivos/</loc>
+        <lastmod>2014-02-09T11:36:44+01:00</lastmod>
     </url>
     <url>
-        <loc>http://donnaipe.github.io/blog/archivos/</loc>
-        <lastmod>2014-02-14T12:21:11+01:00</lastmod>
+        <loc>http://donnaipe.com/contacta/</loc>
+        <lastmod>2014-02-09T11:36:44+01:00</lastmod>
     </url>
     <url>
-        <loc>http://donnaipe.github.io/contacta/</loc>
-        <lastmod>2014-02-14T12:21:11+01:00</lastmod>
+        <loc>http://donnaipe.com/donnaipe/</loc>
+        <lastmod>2014-02-09T11:36:44+01:00</lastmod>
     </url>
     <url>
-        <loc>http://donnaipe.github.io/donnaipe/</loc>
-        <lastmod>2014-02-14T12:21:11+01:00</lastmod>
+        <loc>http://donnaipe.com/</loc>
+        <lastmod>2014-02-09T11:36:44+01:00</lastmod>
     </url>
     <url>
-        <loc>http://donnaipe.github.io/</loc>
-        <lastmod>2014-02-14T12:21:11+01:00</lastmod>
+        <loc>http://donnaipe.com/juegos/</loc>
+        <lastmod>2014-02-09T11:36:44+01:00</lastmod>
     </url>
     <url>
-        <loc>http://donnaipe.github.io/juegos/</loc>
-        <lastmod>2014-02-14T12:21:11+01:00</lastmod>
-    </url>
-    <url>
-        <loc>http://donnaipe.github.io/robots.txt</loc>
+        <loc>http://donnaipe.com/robots.txt</loc>
         <lastmod>2014-01-26T14:40:35+01:00</lastmod>
     </url>
 </urlset>
