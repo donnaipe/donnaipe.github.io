@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Tute | Producciones Don Naipe]]></title>
   <link href="http://donnaipe.com/blog/categorias/tute/atom.xml" rel="self"/>
   <link href="http://donnaipe.com/"/>
-  <updated>2014-02-27T19:09:51+01:00</updated>
+  <updated>2014-03-06T20:52:04+01:00</updated>
   <id>http://donnaipe.com/</id>
   <author>
     <name><![CDATA[Don Naipe]]></name>
@@ -12,6 +12,35 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Estrenamos Ranking]]></title>
+    <link href="http://donnaipe.com/blog/2014/03/06/estrenamos-ranking/"/>
+    <updated>2014-03-06T19:44:04+01:00</updated>
+    <id>http://donnaipe.com/blog/2014/03/06/estrenamos-ranking</id>
+    <content type="html"><![CDATA[<p>Acabo de publicar la primera actualización del <a href="/juegos">Tute a Cuatro</a> en Google Play. Se trata de una nueva funcionalidad, un servicio de ranking entre los jugadores del Tute a Cuatro. Para ello, he creado un algoritmo de puntuación muy sencillo:</p>
+
+<ul>
+<li>En caso de victoria se consigue un número de puntos igual al número de juegos de la partida multiplicado por un factor de dificultad (1 para el nivel <em>Principiante</em>, 2 para el <em>Amateur</em>, 3 para el <em>Avanzado</em> y 4 para el <em>Profesional</em>).</li>
+<li>En caso de derrota se resta el doble de puntos del número de juegos de la partida.</li>
+</ul>
+
+
+<p>Por ejemplo, en una partida a 6 juegos en el nivel <em>Avanzado</em> se conseguirían 18 puntos en caso de victoria y se restarían 12 en caso de derrota.</p>
+
+<p>Con los puntos se obtiene el ranking para cada jugador y además el juego ofrece unas estadísticas básicas del número de juegos ganados, perdidos y el ratio. En la imagen adjunta podéis ver qué pinta tiene el ranking.</p>
+
+<p><img src="/images/ranking.png" alt="Ranking" /></p>
+
+<p>En cuanto a los cambios necesarios, la funcionalidad en sí es muy sencilla, pero ha necesitado cierto trabajo. Para los más curiosos os explico a grandes rasgos la arquitectura del sistema.</p>
+
+<p>La aplicación de tute almacena localmente las victorias/derrotas y el número de puntos. Tras el fin de una partida, se envía esta información al servidor de tute. El servidor se encarga de devolver el ranking cuando una aplicación de tute lo solicita.</p>
+
+<p>El servidor está alojado en <a href="https://www.openshift.com/">Openshift</a>, la nube de Red Hat. Estoy utilizando un MySQL para la persistencia, mientras que la aplicación está desarrollada con Restlet y desplegada en un contenedor de servlets Tomcat. Además, utilizo autenticación HTTP y JSON como formato de intercambio.</p>
+
+<p>Como veis, ha llevado cierto trabajo. Espero que haya merecido la pena y que disfrutéis mucho del ranking. ¿Conseguirás ser el primero?</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[¡Ya Somos 1000!]]></title>
