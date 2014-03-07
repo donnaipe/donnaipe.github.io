@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Ranking | Producciones Don Naipe]]></title>
   <link href="http://donnaipe.com/blog/categorias/ranking/atom.xml" rel="self"/>
   <link href="http://donnaipe.com/"/>
-  <updated>2014-03-07T11:56:24+01:00</updated>
+  <updated>2014-03-07T11:59:44+01:00</updated>
   <id>http://donnaipe.com/</id>
   <author>
     <name><![CDATA[Don Naipe]]></name>
@@ -36,9 +36,9 @@
 
 <p>La aplicación de tute almacena localmente las victorias/derrotas y el número de puntos. Tras el fin de una partida, se envía esta información al servidor de tute. El servidor se encarga de devolver el ranking cuando una aplicación de tute lo solicita.</p>
 
-<p>El servidor está alojado en <a href="https://www.openshift.com/">Openshift</a>, la nube de Red Hat. Estoy utilizando un MySQL para la persistencia, mientras que la aplicación está desarrollada con Restlet y desplegada en un contenedor de servlets Tomcat. Además, utilizo autenticación HTTP y JSON como formato de intercambio.</p>
+<p>El servidor está alojado en <a href="https://www.openshift.com/">Openshift</a>, la nube de Red Hat. Estoy utilizando un <a href="http://www.mysql.com/">MySQL</a> para la persistencia, mientras que la aplicación está desarrollada con <a href="http://restlet.org/">Restlet</a> y desplegada en un contenedor de servlets <a href="http://tomcat.apache.org/">Tomcat</a>. Además, utilizo autenticación HTTP y JSON como formato de intercambio.</p>
 
-<p>Como veis, ha llevado cierto trabajo. Espero que haya merecido la pena y que disfrutéis mucho del ranking. ¿Conseguirás ser el primero?</p>
+<p>Como veis, ha llevado cierto trabajo. Espero que haya merecido la pena y que disfrutéis mucho del ranking. <strong>¿Conseguirás ser el primero?</strong></p>
 ]]></content>
   </entry>
   
