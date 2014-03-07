@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Tute | Producciones Don Naipe]]></title>
   <link href="http://donnaipe.com/blog/categorias/tute/atom.xml" rel="self"/>
   <link href="http://donnaipe.com/"/>
-  <updated>2014-03-06T20:52:04+01:00</updated>
+  <updated>2014-03-07T11:56:24+01:00</updated>
   <id>http://donnaipe.com/</id>
   <author>
     <name><![CDATA[Don Naipe]]></name>
@@ -21,7 +21,7 @@
     <content type="html"><![CDATA[<p>Acabo de publicar la primera actualización del <a href="/juegos">Tute a Cuatro</a> en Google Play. Se trata de una nueva funcionalidad, un servicio de ranking entre los jugadores del Tute a Cuatro. Para ello, he creado un algoritmo de puntuación muy sencillo:</p>
 
 <ul>
-<li>En caso de victoria se consigue un número de puntos igual al número de juegos de la partida multiplicado por un factor de dificultad (1 para el nivel <em>Principiante</em>, 2 para el <em>Amateur</em>, 3 para el <em>Avanzado</em> y 4 para el <em>Profesional</em>).</li>
+<li>En caso de victoria se consigue un número de puntos igual al número de juegos de la partida multiplicado por el factor de dificultad (1 para el nivel <em>Principiante</em>, 2 para el <em>Amateur</em>, 3 para el <em>Avanzado</em> y 4 para el <em>Profesional</em>).</li>
 <li>En caso de derrota se resta el doble de puntos del número de juegos de la partida.</li>
 </ul>
 
