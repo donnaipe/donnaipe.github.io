@@ -4,7 +4,7 @@
   <title><![CDATA[Producciones Don Naipe]]></title>
   <link href="http://donnaipe.com/atom.xml" rel="self"/>
   <link href="http://donnaipe.com/"/>
-  <updated>2014-04-01T19:06:59+02:00</updated>
+  <updated>2014-04-01T19:16:36+02:00</updated>
   <id>http://donnaipe.com/</id>
   <author>
     <name><![CDATA[Don Naipe]]></name>
@@ -18,7 +18,7 @@
     <link href="http://donnaipe.com/blog/2014/04/01/ampliando-horizontes/"/>
     <updated>2014-04-01T18:20:50+02:00</updated>
     <id>http://donnaipe.com/blog/2014/04/01/ampliando-horizontes</id>
-    <content type="html"><![CDATA[<p>He cambiado el lema de la página de <em>Juegos de cartas para Android</em> a <em>Juegos de cartas para móviles y tabletas</em>. Creo que así queda más claro qué ofrece <strong>Producciones Don Naipe</strong>, puesto que no todo el mundo tiene claro qué es Android.</p>
+    <content type="html"><![CDATA[<p>He cambiado el lema de la página de <em>Juegos de cartas para Android</em> a <em>Juegos de cartas para móviles y tabletas</em>. Creo que así queda más claro qué ofrece <strong>Producciones Don Naipe</strong>, puesto que no todo el mundo tiene claro <a href="http://www.gcfaprendelibre.org/files/course/aprende_android/image/infografiaandroid-01_l.png">qué es Android</a>.</p>
 
 <p>Este cambio en el título no es meramente cosmético, sino que he estado trabajando en portar el <a href="http://donnaipe.com/juegos">Tute a Cuatro</a> a la plataforma iOS (teléfonos iPhone, tabletas iPad y iPods). Ha sido &ldquo;durillo&rdquo; ya que no tenía experiencia con iOS ni conocía Objective C (el lenguaje de programación empleado en esta plataforma).</p>
 
