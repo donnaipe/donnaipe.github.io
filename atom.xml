@@ -4,7 +4,7 @@
   <title><![CDATA[Producciones Don Naipe]]></title>
   <link href="http://donnaipe.com/atom.xml" rel="self"/>
   <link href="http://donnaipe.com/"/>
-  <updated>2014-04-01T21:37:55+02:00</updated>
+  <updated>2014-04-10T12:45:05+02:00</updated>
   <id>http://donnaipe.com/</id>
   <author>
     <name><![CDATA[Don Naipe]]></name>
@@ -12,6 +12,19 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Llega El Tute Para iPhone Y iPad]]></title>
+    <link href="http://donnaipe.com/blog/2014/04/09/llega-el-tute-para-iphone-y-ipad/"/>
+    <updated>2014-04-09T10:39:48+02:00</updated>
+    <id>http://donnaipe.com/blog/2014/04/09/llega-el-tute-para-iphone-y-ipad</id>
+    <content type="html"><![CDATA[<p>¡Ya está disponible el <a href="https://itunes.apple.com/us/app/tute/id853010761?l=es&amp;ls=1&amp;mt=8">Tute en el App Store</a>! Al final la aplicación ha sido aprobada por los de Apple, con lo que ya está disponible para cualquier iPhone, iPad o iPod con sistema operativo iOS 7.x.</p>
+
+<p><img src="http://donnaipe.com/images/TuteIOS/capturaTuteIOS.jpg" alt="Tute en iPhone" /></p>
+
+<p>¡A disfrutarlo!</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Ampliando Horizontes]]></title>
