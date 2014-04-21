@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Tute | Producciones Don Naipe]]></title>
   <link href="http://donnaipe.com/blog/categorias/tute/atom.xml" rel="self"/>
   <link href="http://donnaipe.com/"/>
-  <updated>2014-04-10T12:54:41+02:00</updated>
+  <updated>2014-04-21T18:41:12+02:00</updated>
   <id>http://donnaipe.com/</id>
   <author>
     <name><![CDATA[Don Naipe]]></name>
@@ -12,6 +12,19 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Tute PRO Para iPhone Y iPad]]></title>
+    <link href="http://donnaipe.com/blog/2014/04/21/tute-pro-para-iphone-y-ipad/"/>
+    <updated>2014-04-21T18:23:38+02:00</updated>
+    <id>http://donnaipe.com/blog/2014/04/21/tute-pro-para-iphone-y-ipad</id>
+    <content type="html"><![CDATA[<p>¡Y por fin está disponible <a href="https://itunes.apple.com/us/app/tute-pro/id859901243?l=es&amp;ls=1&amp;mt=8">Tute PRO en el App Store</a>! Tenía mis reservas con que me la aceptaran porque había leído que a Apple no le gusta el modelo &ldquo;freemium&rdquo; que estoy utilizando y que consiste en lanzar una aplicación gratis y la versión premium de pago con funcionalidad adicional o sin publicidad. Tenía guardado un as en la manga habilitando las compras en la aplicación, pero mucho mejor así, claro.</p>
+
+<p>Por otra parte, he aprovechado para hacer una ligera reestructuración de la web. Si os fijáis, ahora hay una sección de <a href="/juegos">juegos Android</a> y otra de <a href="/juegosIOS">juegos iOS</a>.</p>
+
+<p>Y tras este <em>sprint</em> toca parar y reflexionar sobre los siguientes pasos de Producciones Don Naipe. Eso sí, que no falte una partida de tute para entretener la espera.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Llega El Tute Para iPhone Y iPad]]></title>
@@ -78,17 +91,6 @@
     <content type="html"><![CDATA[<p>¡Más de 1000 descargas del <a href="/juegos">Tute a Cuatro</a>! No está mal, teniendo en cuenta que no hace ni dos semanas que publiqué el juego en Google Play y que nadie conocía a Producciones Don Naipe.</p>
 
 <p>Estoy muy contento con el arranque de este proyecto; me hace mucha ilusión que la gente utilice mi juego y que lo valore tan positivamente. Espero sacar una actualización en las próximas semanas con una nueva funcionalidad. Hasta entonces a seguir jugando al tute: <strong>¡arrastro!</strong></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[El Lanzamiento]]></title>
-    <link href="http://donnaipe.com/blog/2014/02/14/el-lanzamiento/"/>
-    <updated>2014-02-14T11:22:29+01:00</updated>
-    <id>http://donnaipe.com/blog/2014/02/14/el-lanzamiento</id>
-    <content type="html"><![CDATA[<p><strong>¡Y tras unos cuantos meses de gestación, por fin llegó el día de salir a la luz!</strong> Producciones Don Naipe nace con el propósito de crear juegos de cartas para la plataforma Android. El primer título de la factoría es el <a href="/juegos">Tute a Cuatro</a>, posiblemente el juego de baraja española más emblemático. Si tienes un móvil o tableta Android ya puedes descargarte <a href="https://play.google.com/store/apps/details?id=donnaipe.tutegratis">la versión gratis</a> o la <a href="https://play.google.com/store/apps/details?id=donnaipe.tutepro">alucinante versión PRO</a>.</p>
-
-<p><a href="/donnaipe">Don Naipe</a> ha dedicado tanto esfuerzo e ilusión en desarrollar el Tute a Cuatro que se encuentra literalmente agotado y necesita recuperar energías antes de embarcarse en un nuevo proyecto. Permaneced a la escucha&hellip;</p>
 ]]></content>
   </entry>
   
