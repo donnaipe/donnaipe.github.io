@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Pocha | Producciones Don Naipe]]></title>
+  <link href="http://donnaipe.com/blog/categorias/pocha/atom.xml" rel="self"/>
+  <link href="http://donnaipe.com/"/>
+  <updated>2014-05-17T17:52:29+02:00</updated>
+  <id>http://donnaipe.com/</id>
+  <author>
+    <name><![CDATA[Don Naipe]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Lanzamos La Pocha Para Android]]></title>
+    <link href="http://donnaipe.com/blog/2014/05/17/lanzamos-la-pocha-para-android/"/>
+    <updated>2014-05-17T17:21:46+02:00</updated>
+    <id>http://donnaipe.com/blog/2014/05/17/lanzamos-la-pocha-para-android</id>
+    <content type="html"><![CDATA[<p>Tras una temporada en silencio estoy muy orgulloso de presentaros el nuevo juego de Producciones Don Naipe: <strong>La Pocha</strong>. La pocha es mi juego de cartas preferido, por lo que me he esforzado especialmente para que sea memorable.</p>
+
+<p>La Pocha ofrece la versión de 5 jugadores, el número ideal para disfrutar de este juego. Además he incluido 10 tipos de rondas diferentes (<em>UNO, SUBIENDO, BAJANDO, ÚLTIMA PINTA, SUBASTA, SIN PALO, OROS, COPAS, ESPADAS</em> y <em>BASTOS</em>), con lo que la variedad y entretenimiento están más que asegurados. La versión PRO permite crear una partida al gusto combinando las rondas anteriores. En cuanto a la inteligencia artificial he invertido mucho esfuerzo en que jueguen bien y estoy muy muy satisfecho del resultado final (¡comprobadlo vosotros mismos!).</p>
+
+<p>De momento, está disponible la versión de <a href="/juegos">La Pocha para Android</a>. Podéis instalar <a href="http://play.google.com/store/apps/details?id=donnaipe.pocha">la versión gratuita</a> y <a href="http://play.google.com/store/apps/details?id=donnaipe.pochapro">la versión de pago</a> en cualquier móvil o tableta Android 2.2 o superior. Y en unos meses espero lanzar en unos meses La Pocha para iPhone y iPad.</p>
+
+<p>Os dejo algunas capturas de pantalla para que os hagáis una idea del resultado.</p>
+
+<p>¡Espero que disfrutéis mucho del juego!</p>
+
+<p><img src="/images/pocha/pocha1.jpg" alt="La Pocha para Android" />
+<img src="/images/pocha/pocha2.jpg" alt="La Pocha para Android" /></p>
+]]></content>
+  </entry>
+  
+</feed>
