@@ -19,36 +19,3 @@
 //$sidebar-pad-medium: 15px;
 //$sidebar-pad-wide: 20px;
 //$sidebar-width-wide: 300px;
-
-body > header h1 {
-      padding-left:2.5em;
-}
-
-body > header h2 {
-      padding-left:5.5em;
-}
-
-body > header h1:before {
-      content:"";
-      position:absolute;
-      height:110px;
-      width:110px;
-      top:.25em;
-      left:.15em;
-      overflow:hidden;
-      text-align:right;
-      background-image:url('/images/logo.png');
-      background-repeat:no-repeat;
-      @media only screen and (min-width: 432px) {
-	top:.25em;
-	left:.2em;
-      }
-      @media only screen and (min-width: 768px) {
-	top:.6em;
- 	left:.7em;
-      }
-
-}
-
-
-
