@@ -4,7 +4,7 @@
   <title><![CDATA[Category: General | Producciones Don Naipe]]></title>
   <link href="http://donnaipe.com/blog/categorias/general/atom.xml" rel="self"/>
   <link href="http://donnaipe.com/"/>
-  <updated>2014-05-19T17:10:32+02:00</updated>
+  <updated>2014-06-18T08:45:04+02:00</updated>
   <id>http://donnaipe.com/</id>
   <author>
     <name><![CDATA[Don Naipe]]></name>
@@ -12,6 +12,24 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Ya Está Aquí La Pocha Para iPhone Y iPad]]></title>
+    <link href="http://donnaipe.com/blog/2014/06/18/ya-esta-aqui-la-pocha-para-iphone-y-ipad/"/>
+    <updated>2014-06-18T08:17:09+02:00</updated>
+    <id>http://donnaipe.com/blog/2014/06/18/ya-esta-aqui-la-pocha-para-iphone-y-ipad</id>
+    <content type="html"><![CDATA[<p>La noticia de la semana es que ya está disponible <a href="https://itunes.apple.com/es/app/la-pocha/id887838722?mt=8">La Pocha en el App Store</a>. Con la sobrecarga de fútbol y realeza que llevamos, qué mejor que una partida de pocha para pasar la canícula.</p>
+
+<p>Esta versión es similar a la que saqué para Android hace un mes, por lo que podéis ver los detalles <a href="/blog/2014/05/17/lanzamos-la-pocha-para-android/">en este post</a>. Si tienes un iPhone, iPad o iPod con sistema operativo iOS 7.x. ya estás tardando en descargártela&hellip;</p>
+
+<p>Os dejo un par de capturas de pantalla de <strong>La Pocha</strong> para iPhone 4.</p>
+
+<p><img src="/images/pochaIOS/pochaIOS1.jpg" alt="La Pocha en iPhone" />
+<img src="/images/pochaIOS/pochaIOS2.jpg" alt="La Pocha en iPhone" /></p>
+
+<p>Espero que la versión PRO (sin anuncios) esté próximamente disponible; os mantendré puntualmente informados.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[¡Lanzamos La Pocha Para Android!]]></title>
@@ -85,17 +103,6 @@
     <content type="html"><![CDATA[<p>¡Más de 1000 descargas del <a href="/juegos">Tute a Cuatro</a>! No está mal, teniendo en cuenta que no hace ni dos semanas que publiqué el juego en Google Play y que nadie conocía a Producciones Don Naipe.</p>
 
 <p>Estoy muy contento con el arranque de este proyecto; me hace mucha ilusión que la gente utilice mi juego y que lo valore tan positivamente. Espero sacar una actualización en las próximas semanas con una nueva funcionalidad. Hasta entonces a seguir jugando al tute: <strong>¡arrastro!</strong></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[El Lanzamiento]]></title>
-    <link href="http://donnaipe.com/blog/2014/02/14/el-lanzamiento/"/>
-    <updated>2014-02-14T11:22:29+01:00</updated>
-    <id>http://donnaipe.com/blog/2014/02/14/el-lanzamiento</id>
-    <content type="html"><![CDATA[<p><strong>¡Y tras unos cuantos meses de gestación, por fin llegó el día de salir a la luz!</strong> Producciones Don Naipe nace con el propósito de crear juegos de cartas para la plataforma Android. El primer título de la factoría es el <a href="/juegos">Tute a Cuatro</a>, posiblemente el juego de baraja española más emblemático. Si tienes un móvil o tableta Android ya puedes descargarte <a href="https://play.google.com/store/apps/details?id=donnaipe.tutegratis">la versión gratis</a> o la <a href="https://play.google.com/store/apps/details?id=donnaipe.tutepro">alucinante versión PRO</a>.</p>
-
-<p><a href="/donnaipe">Don Naipe</a> ha dedicado tanto esfuerzo e ilusión en desarrollar el Tute a Cuatro que se encuentra literalmente agotado y necesita recuperar energías antes de embarcarse en un nuevo proyecto. Permaneced a la escucha&hellip;</p>
 ]]></content>
   </entry>
   

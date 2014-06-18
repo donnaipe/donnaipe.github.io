@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Pocha | Producciones Don Naipe]]></title>
   <link href="http://donnaipe.com/blog/categorias/pocha/atom.xml" rel="self"/>
   <link href="http://donnaipe.com/"/>
-  <updated>2014-05-19T17:10:32+02:00</updated>
+  <updated>2014-06-18T08:45:04+02:00</updated>
   <id>http://donnaipe.com/</id>
   <author>
     <name><![CDATA[Don Naipe]]></name>
@@ -12,6 +12,24 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Ya Está Aquí La Pocha Para iPhone Y iPad]]></title>
+    <link href="http://donnaipe.com/blog/2014/06/18/ya-esta-aqui-la-pocha-para-iphone-y-ipad/"/>
+    <updated>2014-06-18T08:17:09+02:00</updated>
+    <id>http://donnaipe.com/blog/2014/06/18/ya-esta-aqui-la-pocha-para-iphone-y-ipad</id>
+    <content type="html"><![CDATA[<p>La noticia de la semana es que ya está disponible <a href="https://itunes.apple.com/es/app/la-pocha/id887838722?mt=8">La Pocha en el App Store</a>. Con la sobrecarga de fútbol y realeza que llevamos, qué mejor que una partida de pocha para pasar la canícula.</p>
+
+<p>Esta versión es similar a la que saqué para Android hace un mes, por lo que podéis ver los detalles <a href="/blog/2014/05/17/lanzamos-la-pocha-para-android/">en este post</a>. Si tienes un iPhone, iPad o iPod con sistema operativo iOS 7.x. ya estás tardando en descargártela&hellip;</p>
+
+<p>Os dejo un par de capturas de pantalla de <strong>La Pocha</strong> para iPhone 4.</p>
+
+<p><img src="/images/pochaIOS/pochaIOS1.jpg" alt="La Pocha en iPhone" />
+<img src="/images/pochaIOS/pochaIOS2.jpg" alt="La Pocha en iPhone" /></p>
+
+<p>Espero que la versión PRO (sin anuncios) esté próximamente disponible; os mantendré puntualmente informados.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[¡Lanzamos La Pocha Para Android!]]></title>
