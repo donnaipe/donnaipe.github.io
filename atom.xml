@@ -4,7 +4,7 @@
   <title><![CDATA[Producciones Don Naipe]]></title>
   <link href="http://donnaipe.com/atom.xml" rel="self"/>
   <link href="http://donnaipe.com/"/>
-  <updated>2014-06-25T21:43:18+02:00</updated>
+  <updated>2014-06-28T09:28:47+02:00</updated>
   <id>http://donnaipe.com/</id>
   <author>
     <name><![CDATA[Don Naipe]]></name>
@@ -12,6 +12,22 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[La Pocha PRO Disponible en El App Store]]></title>
+    <link href="http://donnaipe.com/blog/2014/06/28/la-pocha-pro-disponible-en-el-app-store/"/>
+    <updated>2014-06-28T09:13:24+02:00</updated>
+    <id>http://donnaipe.com/blog/2014/06/28/la-pocha-pro-disponible-en-el-app-store</id>
+    <content type="html"><![CDATA[<p>Y tras unos días de espera los de Apple han aprobado la versión PRO de La Pocha. Si tienes un iPhone, iPad o iPod con sistema operativo iOS 7.x ya puedes comprar <a href="https://itunes.apple.com/es/app/la-pocha-pro/id890431122?mt=8">La Pocha PRO en el App Store</a>.</p>
+
+<p>(Echad un vistazo al editor de pochas de La Pocha PRO)
+<img src="http://donnaipe.com/images/pochaIOS/pochaproIOS6.jpg" alt="La Pocha PRO en iPhone" /></p>
+
+<p>Con este <em>sprint</em> cerramos el curso y damos la bienvenida a las vacaciones. No os quejéis, que tenéis la pocha y el tute para los ratos de ocio.</p>
+
+<p>¡Disfrutad del verano!</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Ya Está Aquí La Pocha Para iPhone Y iPad]]></title>

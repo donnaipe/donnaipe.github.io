@@ -4,7 +4,7 @@
   <title><![CDATA[Category: General | Producciones Don Naipe]]></title>
   <link href="http://donnaipe.com/blog/categorias/general/atom.xml" rel="self"/>
   <link href="http://donnaipe.com/"/>
-  <updated>2014-06-25T21:43:18+02:00</updated>
+  <updated>2014-06-28T09:28:47+02:00</updated>
   <id>http://donnaipe.com/</id>
   <author>
     <name><![CDATA[Don Naipe]]></name>
@@ -12,6 +12,22 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[La Pocha PRO Disponible en El App Store]]></title>
+    <link href="http://donnaipe.com/blog/2014/06/28/la-pocha-pro-disponible-en-el-app-store/"/>
+    <updated>2014-06-28T09:13:24+02:00</updated>
+    <id>http://donnaipe.com/blog/2014/06/28/la-pocha-pro-disponible-en-el-app-store</id>
+    <content type="html"><![CDATA[<p>Y tras unos días de espera los de Apple han aprobado la versión PRO de La Pocha. Si tienes un iPhone, iPad o iPod con sistema operativo iOS 7.x ya puedes comprar <a href="https://itunes.apple.com/es/app/la-pocha-pro/id890431122?mt=8">La Pocha PRO en el App Store</a>.</p>
+
+<p>(Echad un vistazo al editor de pochas de La Pocha PRO)
+<img src="/images/pochaIOS/pochaproIOS6.jpg" alt="La Pocha PRO en iPhone" /></p>
+
+<p>Con este <em>sprint</em> cerramos el curso y damos la bienvenida a las vacaciones. No os quejéis, que tenéis la pocha y el tute para los ratos de ocio.</p>
+
+<p>¡Disfrutad del verano!</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Ya Está Aquí La Pocha Para iPhone Y iPad]]></title>
@@ -92,17 +108,6 @@
 <p>El servidor está alojado en <a href="https://www.openshift.com/">Openshift</a>, la nube de Red Hat. Estoy utilizando un <a href="http://www.mysql.com/">MySQL</a> para la persistencia, mientras que la aplicación está desarrollada con <a href="http://restlet.org/">Restlet</a> y desplegada en un contenedor de servlets <a href="http://tomcat.apache.org/">Tomcat</a>. Además, utilizo autenticación HTTP y JSON como formato de intercambio.</p>
 
 <p>Como veis, ha llevado cierto trabajo. Espero que haya merecido la pena y que disfrutéis mucho del ranking. <strong>¿Conseguirás ser el primero?</strong></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[¡Ya Somos 1000!]]></title>
-    <link href="http://donnaipe.com/blog/2014/02/27/ya-somos-1000/"/>
-    <updated>2014-02-27T18:47:38+01:00</updated>
-    <id>http://donnaipe.com/blog/2014/02/27/ya-somos-1000</id>
-    <content type="html"><![CDATA[<p>¡Más de 1000 descargas del <a href="/juegos">Tute a Cuatro</a>! No está mal, teniendo en cuenta que no hace ni dos semanas que publiqué el juego en Google Play y que nadie conocía a Producciones Don Naipe.</p>
-
-<p>Estoy muy contento con el arranque de este proyecto; me hace mucha ilusión que la gente utilice mi juego y que lo valore tan positivamente. Espero sacar una actualización en las próximas semanas con una nueva funcionalidad. Hasta entonces a seguir jugando al tute: <strong>¡arrastro!</strong></p>
 ]]></content>
   </entry>
   
