@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Tute | Producciones Don Naipe]]></title>
   <link href="http://donnaipe.com/blog/categorias/tute/atom.xml" rel="self"/>
   <link href="http://donnaipe.com/"/>
-  <updated>2014-06-28T09:28:47+02:00</updated>
+  <updated>2014-08-23T12:55:07+02:00</updated>
   <id>http://donnaipe.com/</id>
   <author>
     <name><![CDATA[Don Naipe]]></name>
@@ -12,6 +12,33 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Vuelven Los Buenos Y Los Malos]]></title>
+    <link href="http://donnaipe.com/blog/2014/08/23/vuelven-los-buenos-y-los-malos/"/>
+    <updated>2014-08-23T10:22:20+02:00</updated>
+    <id>http://donnaipe.com/blog/2014/08/23/vuelven-los-buenos-y-los-malos</id>
+    <content type="html"><![CDATA[<p>¡Por fin está aquí la largamente esperada <strong>Versión 2.0 del Tute a Cuatro para Android</strong>! El cambio fundamental es el modo multijugador, pero hay muchas más novedades incluidas como los logros y las 6 nuevas clasificaciones. Todas estas funcionalidades requieren iniciar sesión con Google+, con lo que basta con pulsar el botón rojo (fijaos en la figura con la pantalla de inicio) para que empiece la &ldquo;magia&rdquo;.</p>
+
+<p><img src="/images/TuteGratis/inicioTute.jpg" alt="Inicio Tute a Cuatro" /></p>
+
+<p>Respecto al modo multijugador, pueden jugarse partidas rápidas o invitar a amigos en Google+ a jugar. En el primer caso se forma una mesa con otros jugadores y juegan una partida de manera anónima. Para jugar con amigos se manda una invitación a los amigos seleccionados y en cuanto acepten se empieza a jugar. Para que las partidas sean ágiles cada jugador tiene un tiempo limitado para jugar (podéis ver el reloj en la figura de abajo), pasado el cual el juego entra en modo automático y echa las cartas solo. Y si alguien se desconecta, un bot toma el control de ese jugador para que se pueda seguir disputando la partida.</p>
+
+<p><img src="/images/TuteGratis/tuteRed.jpg" alt="Tute a Cuatro en red" /></p>
+
+<p>Por otra parte, he preparado 18 logros diferentes como el de <em>Los Dos Tenores</em> de la figura adjunta. A ver si conseguís desbloquearlos todos&hellip;</p>
+
+<p><img src="/images/TuteGratis/logroTute.jpg" alt="Logro Tute a Cuatro" /></p>
+
+<p>Con cierto pesar desaparece <a href="/blog/2014/03/06/estrenamos-ranking/">el ranking actual del Tute a Cuatro</a>, aunque he incluido 6 nuevas clasificaciones (ver imagen) que aportan más variedad y son mejores visualmente. A ver qué tal funcionan.</p>
+
+<p><img src="/images/TuteGratis/clasificacionesTute.jpg" alt="Clasificaciones Tute a Cuatro" /></p>
+
+<p>Además de todo lo anterior hay muchos más cambios, aunque de menor calado. Por ejemplo, hay una animación de barajeo, se pulsa en una carta para echarla (en vez de arrastrarla con el dedo), opcionalmente pueden verse las puntuaciones durante el juego (ver la segunda figura de esta entrada), etc.</p>
+
+<p>El esfuerzo no ha sido pequeño, pero espero que haya merecido la pena. Así que vuelven con más fuerza que nunca los Buenos y los Malos, ¿quién será el ganador?</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Tute PRO Para iPhone Y iPad]]></title>
@@ -80,17 +107,6 @@
 <p>El servidor está alojado en <a href="https://www.openshift.com/">Openshift</a>, la nube de Red Hat. Estoy utilizando un <a href="http://www.mysql.com/">MySQL</a> para la persistencia, mientras que la aplicación está desarrollada con <a href="http://restlet.org/">Restlet</a> y desplegada en un contenedor de servlets <a href="http://tomcat.apache.org/">Tomcat</a>. Además, utilizo autenticación HTTP y JSON como formato de intercambio.</p>
 
 <p>Como veis, ha llevado cierto trabajo. Espero que haya merecido la pena y que disfrutéis mucho del ranking. <strong>¿Conseguirás ser el primero?</strong></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[¡Ya Somos 1000!]]></title>
-    <link href="http://donnaipe.com/blog/2014/02/27/ya-somos-1000/"/>
-    <updated>2014-02-27T18:47:38+01:00</updated>
-    <id>http://donnaipe.com/blog/2014/02/27/ya-somos-1000</id>
-    <content type="html"><![CDATA[<p>¡Más de 1000 descargas del <a href="/juegos">Tute a Cuatro</a>! No está mal, teniendo en cuenta que no hace ni dos semanas que publiqué el juego en Google Play y que nadie conocía a Producciones Don Naipe.</p>
-
-<p>Estoy muy contento con el arranque de este proyecto; me hace mucha ilusión que la gente utilice mi juego y que lo valore tan positivamente. Espero sacar una actualización en las próximas semanas con una nueva funcionalidad. Hasta entonces a seguir jugando al tute: <strong>¡arrastro!</strong></p>
 ]]></content>
   </entry>
   
