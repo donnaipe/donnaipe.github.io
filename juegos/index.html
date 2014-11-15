@@ -9,7 +9,7 @@
   <meta name="author" content="Don Naipe">
 
   
-  <meta name="description" content="La Pocha La pocha es un juego de baraja española en el que se enfrentan 5 jugadores. Las reglas de carteo son iguales a las del tute, pero en la &hellip;">
+  <meta name="description" content="El Mus El mus es posiblemente el juego de baraja española más popular y esta adaptación de Producciones Don Naipe promete&#8230; El Mus ofrece la &hellip;">
   
 
   <!-- http://t.co/dKP3o1e -->
@@ -86,8 +86,64 @@
   <link rel="stylesheet" href="/juegos/css/blueimp-gallery.css">
 <link rel="stylesheet" href="/juegos/css/blueimp-gallery-indicator.css">
 
+<h1>El Mus<a name="mus"></a></h1>
 
-<h1>La Pocha<a name="pocha"></a></h1>
+<p>El mus es posiblemente el juego de baraja española más popular y esta adaptación de Producciones Don Naipe promete&#8230;</p>
+
+<p>El Mus ofrece la variante más popular de este juego: ocho reyes, ocho ases y sin la Real. 
+Aunque en esta versión sólo es posible el juego individual, se incluyen 7 divertidos personajes 
+con personalidades diferentes. Hemos trabajado con esmero la Inteligencia Artificial de los bots 
+para que jueguen bien al mus y a la vez se comporten de manera diferente, de acuerdo con sus características:</p>
+
+<div style="float:right;clear:right;margin-left:30px">
+<a href="https://play.google.com/store/apps/details?id=donnaipe.mus"><img alt="Disponible en Google Play"
+       src="https://developer.android.com/images/brand/es_generic_rgb_wo_60.png" /></a>
+</div>
+
+<ul>
+<li>Osadía: disposición para envidar y aceptar envites</li>
+<li>Faroleo: más o menos proclive a tirarse faroles</li>
+<li>Caza señas: capacidad para detectar las señas del compañero y de los rivales</li>
+<li>Corta mus: más o menos dispuesto a cortar el mus</li>
+<li>Descartes: reglas de descarte más básicas o más refinadas</li>
+</ul>
+
+<div id="mus-carousel" class="blueimp-gallery blueimp-gallery-carousel">
+    <div class="slides"></div>
+    <h3 class="title"></h3>
+    <a class="prev">‹</a>
+    <a class="next">›</a>
+    <a class="play-pause"></a>
+    <ol class="indicator"></ol>
+</div>
+
+<p>Estáte atento, porque los bots pasan señas y si cazan alguna se comportarán de manera diferente; 
+por ejemplo, si haces la seña de ciego, es más probable que tu compañero se de mus; otro ejemplo, si tu rival 
+te pilla haciendo la seña de treinta y una, no entrará al juego si le superas.
+La visión panorámica de los bots es limitada, por lo que detectan más fácilmente las señas de su compañero 
+y tienen más dificultades para ver las señas de los rivales. Además, algunos bots tienen mayor habilidad 
+para cazar señas (ver las características de los bots).</p>
+
+<p>El Mus es bastante configurable, permitiendo:</p>
+<ul>
+<li>Jugar con 7 bots diferentes</li>
+<li>Elegir un avatar hombre o mujer</li>
+<li>Ajustar la velocidad del juego</li>
+<li>Seleccionar el número de juegos para ganar</li>
+<li>Elegir entre 30 o 40 piedras por juego</li>
+<li>Con o sin sonido</li>
+<li>Activar el &#8220;Modo graciosillo&#8221; con frases del mus apropiadas a la situación</li>
+</ul>
+
+<p>El Mus está disponible para cualquier móvil o tableta Android (2.3 o superior). 
+Si tienes un dispositivo Android descárgate El Mus en 
+<a href="http://play.google.com/store/apps/details?id=donnaipe.mus">Google Play</a>.</p>
+
+
+<br><br>
+
+
+<h2></h2><h1>La Pocha<a name="pocha"></a></h1>
 
 <p>La pocha es un juego de baraja española en el que se enfrentan 5 jugadores. Las reglas de carteo son iguales a las del tute, 
 pero en la pocha el objetivo es acertar el número de bazas. También se conoce a la pocha como &#8220;La Podrida&#8221; en Latinoamérica y 
@@ -267,6 +323,17 @@ móviles y tabletas Android (2.2 o superior). Si tienes un dispositivo Android d
     <a href="/images/pocha/pochapro10.jpeg"></a>
 </div>
 
+<div id="enlaces_mus">
+    <a href="/images/mus/mus1.jpeg"></a>
+    <a href="/images/mus/mus2.jpeg"></a>
+    <a href="/images/mus/mus3.jpeg"></a>
+    <a href="/images/mus/mus4.jpeg"></a>
+    <a href="/images/mus/mus5.jpeg"></a>
+    <a href="/images/mus/mus6.jpeg"></a>
+    <a href="/images/mus/mus7.jpeg"></a>
+    <a href="/images/mus/mus8.jpeg"></a>    
+</div>
+
 
 <script src="/juegos/js/blueimp-helper.js"></script>
 <script src="/juegos/js/blueimp-gallery.js"></script>
@@ -309,6 +376,15 @@ blueimp.Gallery(
         carousel: true
     }
 );
+
+
+blueimp.Gallery(
+    document.getElementById('enlaces_mus').getElementsByTagName('a'),
+    {
+        container: '#mus-carousel',
+        carousel: true
+    }
+);
 </script>
 
 <script>
@@ -316,6 +392,7 @@ blueimp.Gallery(
   $("#enlaces_pro").hide();
   $("#enlaces_pocha").hide();
   $("#enlaces_pocha_pro").hide();
+  $("#enlaces_mus").hide();  
 </script>
 
   
@@ -368,6 +445,10 @@ blueimp.Gallery(
   <ul id="recent_posts">
     
       <li class="post">
+        <a href="/blog/2014/11/15/lanzamos-el-mus-en-android/">Lanzamos El Mus en Android</a>
+      </li>
+    
+      <li class="post">
         <a href="/blog/2014/08/23/vuelven-los-buenos-y-los-malos/">Vuelven Los Buenos Y Los Malos</a>
       </li>
     
@@ -381,10 +462,6 @@ blueimp.Gallery(
     
       <li class="post">
         <a href="/blog/2014/05/17/lanzamos-la-pocha-para-android/">¡Lanzamos La Pocha Para Android!</a>
-      </li>
-    
-      <li class="post">
-        <a href="/blog/2014/04/21/tute-pro-para-iphone-y-ipad/">Tute PRO Para iPhone Y iPad</a>
       </li>
     
   </ul>

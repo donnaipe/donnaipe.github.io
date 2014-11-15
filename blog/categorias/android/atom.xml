@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Android | Producciones Don Naipe]]></title>
   <link href="http://donnaipe.com/blog/categorias/android/atom.xml" rel="self"/>
   <link href="http://donnaipe.com/"/>
-  <updated>2014-08-23T12:55:07+02:00</updated>
+  <updated>2014-11-15T15:40:03+01:00</updated>
   <id>http://donnaipe.com/</id>
   <author>
     <name><![CDATA[Don Naipe]]></name>
@@ -12,6 +12,31 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Lanzamos El Mus en Android]]></title>
+    <link href="http://donnaipe.com/blog/2014/11/15/lanzamos-el-mus-en-android/"/>
+    <updated>2014-11-15T09:56:32+01:00</updated>
+    <id>http://donnaipe.com/blog/2014/11/15/lanzamos-el-mus-en-android</id>
+    <content type="html"><![CDATA[<p>Y tras una intensa temporada de desarrollo y pruebas, estoy orgulloso de anunciar el lanzamiento de <strong>El Mus para Android</strong>. Ya lo podéis  descargar de <a href="https://play.google.com/store/apps/details?id=donnaipe.mus">Google Store</a>, mientras que en la sección de <a href="/juegos">juegos para Android</a> podéis encontrar una descripción.</p>
+
+<p><img src="/images/mus/mus2.jpeg" alt="El Mus para Android" /></p>
+
+<p>En esta primera versión de El Mus sólo es posible el juego individual, pero he incluido 7 personajes que además juegan de manera diferente, según sus características. Como siempre, he trabajado con esmero la Inteligencia Artificial para que jueguen bien y no resulten aburridos. Y creo que el resultado es bastante satisfactorio: cortan el mus con criterio, farolean, se achantan&hellip;</p>
+
+<p><img src="/images/mus/mus4.jpeg" alt="El Mus para Android" /></p>
+
+<p>Por primera vez he incluido avatares en un juego. Ha sido muy divertido dibujarlos, aunque me ha llevado cierto trabajo. Además, ¡los avatares hacen señas! Y no sólo eso, sino que además se comportan de manera diferente según las señas detectadas al compañero y rivales.</p>
+
+<p><img src="/images/mus/mus3.jpeg" alt="El Mus para Android" /></p>
+
+<p>También he incluido unas cuantas frases populares del mus (bueno, algunas no tan populares), que se muestran según la situación. Algunas de estas frases se muestran en los pantallazos adjuntos a esta entrada.</p>
+
+<p><img src="/images/mus/mus8.jpeg" alt="El Mus para Android" /></p>
+
+<p>Y eso es todo por hoy, espero que paséis buenos ratos con El Mus.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Vuelven Los Buenos Y Los Malos]]></title>
