@@ -4,7 +4,7 @@
   <title><![CDATA[Category: General | Producciones Don Naipe]]></title>
   <link href="http://donnaipe.com/blog/categorias/general/atom.xml" rel="self"/>
   <link href="http://donnaipe.com/"/>
-  <updated>2014-11-15T15:40:03+01:00</updated>
+  <updated>2014-11-16T18:58:16+01:00</updated>
   <id>http://donnaipe.com/</id>
   <author>
     <name><![CDATA[Don Naipe]]></name>
@@ -12,6 +12,19 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Androidizados Reseña El Mus]]></title>
+    <link href="http://donnaipe.com/blog/2014/11/16/androidizados-resena-el-mus/"/>
+    <updated>2014-11-16T18:47:16+01:00</updated>
+    <id>http://donnaipe.com/blog/2014/11/16/androidizados-resena-el-mus</id>
+    <content type="html"><![CDATA[<p>El portal <a href="http://www.androidizados.com/">Androidizados</a>
+ha publicado una <a href="http://www.androidizados.com/juegos/2014/11/16/mus-android/">reseña estupenda de El Mus para Android</a>. La verdad es que se han dado prisa en probar el juego, ya que <a href="/blog/2014/11/15/lanzamos-el-mus-en-android/">el lanzamiento de El Mus para Android</a> fue ayer por la tarde.</p>
+
+<p>Muchísimas gracias a <a href="https://plus.google.com/106725688899407484281?rel=author">Raúl Núñez</a> de
+<a href="http://www.androidizados.com/">Androidizados</a> por un trabajo tan profesional (¡y en domingo!)</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Lanzamos El Mus en Android]]></title>
@@ -96,26 +109,6 @@
 <img src="/images/pochaIOS/pochaIOS2.jpg" alt="La Pocha en iPhone" /></p>
 
 <p>Espero que la versión PRO (sin anuncios) esté próximamente disponible; os mantendré puntualmente informados.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[¡Lanzamos La Pocha Para Android!]]></title>
-    <link href="http://donnaipe.com/blog/2014/05/17/lanzamos-la-pocha-para-android/"/>
-    <updated>2014-05-17T17:21:46+02:00</updated>
-    <id>http://donnaipe.com/blog/2014/05/17/lanzamos-la-pocha-para-android</id>
-    <content type="html"><![CDATA[<p>Tras una temporada en silencio estoy muy orgulloso de presentaros el nuevo juego de Producciones Don Naipe: <strong>La Pocha</strong>. La pocha es mi juego de cartas preferido, por lo que me he esforzado especialmente para que sea memorable.</p>
-
-<p>La Pocha ofrece la versión de 5 jugadores, el número ideal para disfrutar de este juego. Además he incluido 10 tipos de rondas diferentes (<em>UNO, SUBIENDO, BAJANDO, ÚLTIMA PINTA, SUBASTA, SIN PALO, OROS, COPAS, ESPADAS</em> y <em>BASTOS</em>), con lo que la variedad y entretenimiento están más que asegurados. La versión PRO permite crear una partida al gusto combinando las rondas anteriores. En cuanto a la inteligencia artificial he invertido mucho esfuerzo en que jueguen bien y estoy muy muy satisfecho del resultado final (¡comprobadlo vosotros mismos!).</p>
-
-<p>De momento, está disponible la versión de <a href="/juegos">La Pocha para Android</a>. Podéis instalar <a href="http://play.google.com/store/apps/details?id=donnaipe.pocha">la versión gratuita</a> y <a href="http://play.google.com/store/apps/details?id=donnaipe.pochapro">la versión de pago</a> en cualquier móvil o tableta Android 2.2 o superior. Y en unos meses espero lanzar en unos meses La Pocha para iPhone y iPad.</p>
-
-<p>Os dejo algunas capturas de pantalla para que os hagáis una idea del resultado.</p>
-
-<p>¡Espero que disfrutéis mucho del juego!</p>
-
-<p><img src="/images/pocha/pocha1.jpg" alt="La Pocha para Android" />
-<img src="/images/pocha/pocha2.jpg" alt="La Pocha para Android" /></p>
 ]]></content>
   </entry>
   
