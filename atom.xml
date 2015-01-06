@@ -4,7 +4,7 @@
   <title><![CDATA[Producciones Don Naipe]]></title>
   <link href="http://donnaipe.com/atom.xml" rel="self"/>
   <link href="http://donnaipe.com/"/>
-  <updated>2014-11-16T18:58:16+01:00</updated>
+  <updated>2015-01-06T22:57:19+01:00</updated>
   <id>http://donnaipe.com/</id>
   <author>
     <name><![CDATA[Don Naipe]]></name>
@@ -12,6 +12,24 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Y Con Los Reyes Llega El Mus Para iPhone Y iPad]]></title>
+    <link href="http://donnaipe.com/blog/2015/01/06/y-con-los-reyes-llega-el-mus-para-iphone-y-ipad/"/>
+    <updated>2015-01-06T22:47:27+01:00</updated>
+    <id>http://donnaipe.com/blog/2015/01/06/y-con-los-reyes-llega-el-mus-para-iphone-y-ipad</id>
+    <content type="html"><![CDATA[<p>Hoy mismo los del Apple Store han aprobado el lanzamiento de <a href="https://itunes.apple.com/es/app/mus-don-naipe/id954161061?mt=8">El Mus para iOS</a>. Así que los Reyes han llegado por fin a todos los de iPhone, iPad y iPod.</p>
+
+<p>Esta versión de El Mus es similar a la que saqué para Android hace casi dos meses, por lo que podéis consultar los detalles <a href="http://donnaipe.com/blog/2014/11/15/lanzamos-el-mus-en-android/">en  este post</a>.</p>
+
+<p>Os dejo un par de capturas de pantalla de <strong>El Mus</strong> para iPhone 6.</p>
+
+<p><img src="http://donnaipe.com/images/musIOS/musIOS1.jpg" alt="El Mus en iPhone" />
+<img src="http://donnaipe.com/images/musIOS/musIOS2.jpg" alt="El Mus en iPhone" /></p>
+
+<p>Espero que lo disfrutéis.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Androidizados Reseña El Mus]]></title>
