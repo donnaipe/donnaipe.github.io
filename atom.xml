@@ -4,7 +4,7 @@
   <title><![CDATA[Producciones Don Naipe]]></title>
   <link href="http://donnaipe.com/atom.xml" rel="self"/>
   <link href="http://donnaipe.com/"/>
-  <updated>2015-01-08T20:34:15+01:00</updated>
+  <updated>2015-01-31T08:33:30+01:00</updated>
   <id>http://donnaipe.com/</id>
   <author>
     <name><![CDATA[Don Naipe]]></name>
@@ -12,6 +12,47 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Novedades en El Mus]]></title>
+    <link href="http://donnaipe.com/blog/2015/01/31/novedades-en-el-mus/"/>
+    <updated>2015-01-31T07:36:02+01:00</updated>
+    <id>http://donnaipe.com/blog/2015/01/31/novedades-en-el-mus</id>
+    <content type="html"><![CDATA[<p>Ya está aquí la primera actualización de <a href="https://play.google.com/store/apps/details?id=donnaipe.mus">El Mus</a> para Android. He incluido una lista bien larga de mejoras, aunque algunas se han quedado pendientes para una próxima actualización. Pero vamos primero a repasar las novedades principales:</p>
+
+<ul>
+<li>Torneo: ya se puede jugar un mini-torneo con los personajes del juego. Creo que resulta bastante divertido de jugar. A destacar los mensajes de fin de torneo y el contador de torneos con números romanos.</li>
+</ul>
+
+
+<p><img src="http://donnaipe.com/images/mus/torneoMus.jpeg" alt="Torneo de Mus de Don Naipe" /></p>
+
+<ul>
+<li><p>Marcadores: disponibles el &ldquo;Musómetro&rdquo; y el &ldquo;Torneómetro&rdquo;. Este último es un contador de torneos. En el &ldquo;Musómetro&rdquo; se consiguen puntos tras ganar una partida, proporcionales al número de juegos para el fin y con un bonus de ronda en los torneos.</p></li>
+<li><p>Estadísticas: incluyen estadísticas de torneos, partidas, juegos, lances, puntos, órdagos, envites&hellip; creo que son bastante completas.</p></li>
+</ul>
+
+
+<p><img src="http://donnaipe.com/images/mus/estadMus.jpeg" alt="Estadísticas El Mus" /></p>
+
+<ul>
+<li>Logros: hemos tirado la casa por la ventana &ndash; ¡26 logros! He intentado que resulten divertidos y que además abran aspectos nuevos del juego. Por ejemplo, hay un logro por cada personaje para incentivar encontrar al compañero ideal. A destacar también los logros del &ldquo;superenvite&rdquo;, &ldquo;al rico órdago &rdquo; o &ldquo;tú te callas&rdquo; que son más difíciles de conseguir de lo que parece a primera vista.</li>
+</ul>
+
+
+<p><img src="http://donnaipe.com/images/mus/logrosMus.jpeg" alt="Estadísticas El Mus" /></p>
+
+<ul>
+<li><p>Mejor Inteligencia Artificial: no he cambiado la mecánica, pero sí que he sintonizado mejor los parámetros de juego, especialmente en el lance de chica, que eran muy dados a tirarse a la piscina. Además, ahora juegan mucho mejor las últimas piedras y si tienen ventaja son un poco más conservadores. Por otra parte, se mantienen los personalidades de los jugadores; quiero decir que está en la genética de algunos personajes el farolear, y eso no cambia.</p></li>
+<li><p>Otras mejoras relevantes: he optimizado los <em>layouts</em> para aprovechar mejor el espacio (especialmente en teléfonos), incrementado el tamaño de los avatares y cartas, ahora se marca mejor quién es la mano, quien corta el mus tiene unas tijeras, se puede hacer callar al compañero, he ajustado la elección del jugador que responde a un envite, incluido un tutorial en condiciones, mejorado el icono del juego, incrementado ligeramente la duración de las señas, incluidas nuevas frasecillas de mus&hellip; uf, qué de cosas.</p></li>
+</ul>
+
+
+<p><img src="http://donnaipe.com/images/mus/masMus.jpeg" alt="Estadísticas El Mus" /></p>
+
+<p>Aún así se han quedado unas cuantas cosas pendientes, como introducir la variante de 4 reyes -la dinámica de juego es diferente de la de 8 reyes, por lo que necesito documentarme un poco antes de cometer &ldquo;barbaridades&rdquo;. Tengo bastantes ganas de incluir el modo multijugador, pero necesito tiempo para hacerlo en condiciones. Mientras tanto, espero que estas novedades sirvan para ir abriendo boca. ¡Que lo disfrutéis!</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Estrenamos Marcadores, Estadísticas Y Logros en La Pocha Y La Pocha PRO]]></title>
