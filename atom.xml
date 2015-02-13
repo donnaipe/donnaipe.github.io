@@ -4,7 +4,7 @@
   <title><![CDATA[Producciones Don Naipe]]></title>
   <link href="http://donnaipe.com/atom.xml" rel="self"/>
   <link href="http://donnaipe.com/"/>
-  <updated>2015-01-31T08:33:30+01:00</updated>
+  <updated>2015-02-13T23:31:48+01:00</updated>
   <id>http://donnaipe.com/</id>
   <author>
     <name><![CDATA[Don Naipe]]></name>
@@ -12,6 +12,21 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Primer Año De Don Naipe]]></title>
+    <link href="http://donnaipe.com/blog/2015/02/13/primer-ano-de-don-naipe/"/>
+    <updated>2015-02-13T22:12:01+01:00</updated>
+    <id>http://donnaipe.com/blog/2015/02/13/primer-ano-de-don-naipe</id>
+    <content type="html"><![CDATA[<p>¡Estamos de aniversario! Ya ha pasado un año desde que encendimos las máquinas con Producciones Don Naipe y el lanzamiento de <a href="https://play.google.com/store/apps/details?id=donnaipe.tutegratis">Tute a Cuatro para Android</a>.</p>
+
+<p>La verdad es que ha sido un año de actividad frenética con el desarrollo del tute para Android e iOS, seguido de La Pocha, El Mus, las actualizaciones&hellip; Pero lo más importante es que los juegos de la factoría están teniendo cierta aceptación, lo cual me anima mucho a seguir adelante con este proyecto.</p>
+
+<p>Así que vamos a celebrar este primer año como se merece. Esta vez nada de capturas de pantallas. ¡Rosas de San Valentín para todos!</p>
+
+<p><img src="http://donnaipe.com/images/rosas.jpg" alt="Rosas" /></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Novedades en El Mus]]></title>
