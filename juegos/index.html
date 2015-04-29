@@ -127,6 +127,7 @@ para cazar señas (ver las características de los bots).</p>
 <p>El Mus es bastante configurable, permitiendo:</p>
 <ul>
 <li>Jugar con 7 bots diferentes</li>
+<li>Jugar torneos o partidas sueltas</li>
 <li>Elegir un avatar hombre o mujer</li>
 <li>Ajustar la velocidad del juego</li>
 <li>Seleccionar el número de juegos para ganar</li>
@@ -141,6 +142,58 @@ Si tienes un dispositivo Android descárgate El Mus en
 
 
 <br><br>
+
+<h2></h2>
+<h1>El Julepe<a name="julepe"></a></h1>
+
+<p>El julepe es un juego de bazas de la familia del tute. El objetivo del juego es conseguir 
+más monedas, ganando la partida el jugador con una cantidad mayor tras diputar un número 
+acordado de platos. En cada ronda el postre pone 5 monedas en el plato. Si no se llega 
+a una cantidad mínima, todos los jugadores ponen 5 monedas adicionales.</p>
+
+<p>Al comienzo de cada ronda cada jugador recibe 5 cartas y decide si juega de acuerdo con 
+el pinte y sus propias cartas. Hay un descarte entre los que juegan, quedándose el postre 
+con el pinte. Si sólo va un jugador, se jugará el plato contra un representante de la mesa.</p>
+
+<div style="float:right;clear:right;margin-left:30px">
+<a href="https://play.google.com/store/apps/details?id=donnaipe.julepe"><img alt="Disponible en Google Play"
+       src="https://developer.android.com/images/brand/es_generic_rgb_wo_60.png" /></a>
+</div>
+
+<p>Durante el juego aplican las normas del tute. Un jugador pierde en una ronda y recibe julepe 
+si hace menos de 2 bazas; en tal caso deberá pagar tantas monedas como haya en el plato.</p>
+
+<p>El Julepe es muy configurable y con él podrás:</p>
+
+<ul>
+<li>Jugar al julepe de cinco jugadores</li>
+<li>Elegir entre dos modos de juego: normal y clásico</li>
+<li>Seleccionar la duración de la partida</li>
+<li>Elegir el nivel de dificultad: difícil o fácil</li>
+<li>Regular la rapidez del juego</li>
+<li>Activar o desactivar el sonido</li>
+<li>Ver un mini-tutorial para jugar al julepe</li>
+</ul>
+
+<p>Puedes jugar al Julepe en móviles y tabletas con Android (2.3 o superior).</p>
+
+<div id="julepe-carousel" class="blueimp-gallery blueimp-gallery-carousel">
+    <div class="slides"></div>
+    <h3 class="title"></h3>
+    <a class="prev">‹</a>
+    <a class="next">›</a>
+    <a class="play-pause"></a>
+    <ol class="indicator"></ol>
+</div>
+
+<p>Si todavía no sabes jugar al julepe, no te preocupes, el juego incluye un mini-tutorial para iniciarse. 
+Te será muy fácil aprender si ya sabes jugar al tute. Puedes consultar las reglas del julepe  
+<a href="http://www.ludoteka.com/julepe.html">aquí</a> o en 
+<a href="http://www.nhfournier.com/public/assets/Reglamentos_11/Reglamento_El_Julepe.pdf">este otro sitio</a>.</p>
+
+
+<br><br>
+
 
 
 <h2></h2><h1>La Pocha<a name="pocha"></a></h1>
@@ -334,6 +387,16 @@ móviles y tabletas Android (2.2 o superior). Si tienes un dispositivo Android d
     <a href="/images/mus/mus8.jpeg"></a>    
 </div>
 
+<div id="enlaces_julepe">
+    <a href="/images/julepe/julepe1.jpeg"></a>
+    <a href="/images/julepe/julepe4.jpeg"></a>
+    <a href="/images/julepe/julepe2.jpeg"></a>
+    <a href="/images/julepe/julepe5.jpeg"></a>
+    <a href="/images/julepe/julepe3.jpeg"></a>
+    <a href="/images/julepe/julepe6.jpeg"></a>
+    <a href="/images/julepe/julepe7.jpeg"></a>    
+</div>
+
 
 <script src="/juegos/js/blueimp-helper.js"></script>
 <script src="/juegos/js/blueimp-gallery.js"></script>
@@ -377,11 +440,18 @@ blueimp.Gallery(
     }
 );
 
-
 blueimp.Gallery(
     document.getElementById('enlaces_mus').getElementsByTagName('a'),
     {
         container: '#mus-carousel',
+        carousel: true
+    }
+);
+
+blueimp.Gallery(
+    document.getElementById('enlaces_julepe').getElementsByTagName('a'),
+    {
+        container: '#julepe-carousel',
         carousel: true
     }
 );
@@ -393,6 +463,7 @@ blueimp.Gallery(
   $("#enlaces_pocha").hide();
   $("#enlaces_pocha_pro").hide();
   $("#enlaces_mus").hide();  
+  $("#enlaces_julepe").hide();    
 </script>
 
   
