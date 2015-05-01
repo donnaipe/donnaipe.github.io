@@ -4,7 +4,7 @@
   <title><![CDATA[Producciones Don Naipe]]></title>
   <link href="http://donnaipe.com/atom.xml" rel="self"/>
   <link href="http://donnaipe.com/"/>
-  <updated>2015-04-29T19:55:13+02:00</updated>
+  <updated>2015-05-01T16:57:08+02:00</updated>
   <id>http://donnaipe.com/</id>
   <author>
     <name><![CDATA[Don Naipe]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Entrevista en Androidizados]]></title>
+    <link href="http://donnaipe.com/blog/2015/05/01/entrevista-en-androidizados/"/>
+    <updated>2015-05-01T16:39:47+02:00</updated>
+    <id>http://donnaipe.com/blog/2015/05/01/entrevista-en-androidizados</id>
+    <content type="html"><![CDATA[<p>Los de <a href="http://www.androidizados.com/">Androidizados</a> han contactado conmigo para hacerme una entrevista en su sección de <em>Entrevistas a programadores</em>. El resultado lo podéis ver <a href="http://www.androidizados.com/desarrollo/2015/05/01/entrevista-a-desarrolladores-don-naipe/">aquí</a>. Gracias a Androidizados por su interés y espero que os resulte interesante.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Tenemos Un Nuevo Juego: El Julepe Para Android]]></title>
