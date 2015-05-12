@@ -4,7 +4,7 @@
   <title><![CDATA[Producciones Don Naipe]]></title>
   <link href="http://donnaipe.com/atom.xml" rel="self"/>
   <link href="http://donnaipe.com/"/>
-  <updated>2015-05-01T16:57:08+02:00</updated>
+  <updated>2015-05-12T10:36:06+02:00</updated>
   <id>http://donnaipe.com/</id>
   <author>
     <name><![CDATA[Don Naipe]]></name>
@@ -12,6 +12,44 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[El Portugués: Un Gran Juego De Cartas Para Android]]></title>
+    <link href="http://donnaipe.com/blog/2015/05/11/el-portugues-un-gran-juego-de-cartas-para-android/"/>
+    <updated>2015-05-11T17:07:44+02:00</updated>
+    <id>http://donnaipe.com/blog/2015/05/11/el-portugues-un-gran-juego-de-cartas-para-android</id>
+    <content type="html"><![CDATA[<p>¿Conoces el juego de cartas <strong>El Portugués</strong>? Este apasionante juego hará las delicias de los jugadores de <strong>tute</strong>, <strong>pocha</strong> y <strong>julepe</strong>. Ya podéis descargar <a href="https://play.google.com/store/apps/details?id=donnaipe.portugues">el portugués en Google Play</a>, ya veréis cómo os va a enganchar. Aunque el juego incluye un tutorial, os incluyo aquí también las reglas.</p>
+
+<p><img src="http://donnaipe.com/images/portugues/portugues1.jpeg" alt="Portugues Don Naipe para Android" /></p>
+
+<p>El portugués es un juego de bazas de 4 o 5 jugadores en el que se trata de llegar antes que el resto de jugadore a 0 puntos partiendo de una misma puntuación inicial. Para conseguirlo los jugadores participan en una serie de rondas en las que con cada baza conseguida se reduce un punto. Pero, ¡cuidado!, si un jugador no consigue ninguna baza en una ronda, se le suman 5 puntos.</p>
+
+<p><img src="http://donnaipe.com/images/portugues/portugues2.jpeg" alt="Portugues Don Naipe para Android" /></p>
+
+<p>Al comienzo de cada ronda cada jugador recibe 2 cartas. El jugador mano está obligado a jugar y decide el palo del pinte con sus cartas. Si con sus dos cartas la mano no se decide, puede elegir que pinte su siguiente carta (sin verla). Si pintan COPAS, todos están obligados a jugar, y si pintan BASTOS la puntuación es doble (tanto a favor como en contra).</p>
+
+<p><img src="http://donnaipe.com/images/portugues/portugues3.jpeg" alt="Portugues Don Naipe para Android" /></p>
+
+<p>Conocido el palo que pinta, los jugadores restantes deciden con sus 2 cartas si disputan o no la ronda (siempre que no estén obligados a jugar). A continuación se reparten 3 cartas a los participantes y hay un turno de descarte. Completado el descarte, se juega la ronda siguiendo las normas del tute. Se actualizan las puntuaciones al final de la ronda y, si no hay ganador, se disputará una nueva.</p>
+
+<p><img src="http://donnaipe.com/images/portugues/portugues4.jpeg" alt="Portugues Don Naipe para Android" /></p>
+
+<p>Un jugador está obligado a jugar en cualquiera de las siguientes situaciones:</p>
+
+<ul>
+<li>Si es mano</li>
+<li>Si pintan COPAS</li>
+<li>Si tiene menos de 10 puntos</li>
+<li>Si lleva dos rondas sin jugar</li>
+<li>Si sólo va la mano y el jugador es postre</li>
+</ul>
+
+
+<p><img src="http://donnaipe.com/images/portugues/portugues5.jpeg" alt="Portugues Don Naipe para Android" /></p>
+
+<p>Aprendí a jugar al portugués en los años de universidad y tenía muchas ganas de <a href="https://play.google.com/store/apps/details?id=donnaipe.portugues">lanzarlo para Android</a>. Tuve que recurrir a mi amigo Chef para que me refrescara las reglas (¡muchas gracias por tu ayuda, Chef!). Espero que os guste tanto como a mí.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Entrevista en Androidizados]]></title>
