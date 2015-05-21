@@ -4,7 +4,7 @@
   <title><![CDATA[Category: iOS | Producciones Don Naipe]]></title>
   <link href="http://donnaipe.com/blog/categorias/ios/atom.xml" rel="self"/>
   <link href="http://donnaipe.com/"/>
-  <updated>2015-05-12T10:36:06+02:00</updated>
+  <updated>2015-05-21T10:17:45+02:00</updated>
   <id>http://donnaipe.com/</id>
   <author>
     <name><![CDATA[Don Naipe]]></name>
@@ -12,6 +12,37 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Torneos Y Mucho Más en El Mus Para iOS]]></title>
+    <link href="http://donnaipe.com/blog/2015/05/21/torneos-y-mucho-mas-en-el-mus-para-ios/"/>
+    <updated>2015-05-21T10:10:33+02:00</updated>
+    <id>http://donnaipe.com/blog/2015/05/21/torneos-y-mucho-mas-en-el-mus-para-ios</id>
+    <content type="html"><![CDATA[<p>Ya está lista la primera actualización de <a href="https://itunes.apple.com/es/app/mus-don-naipe/id954161061?mt=8">El Mus para iOS</a>. La lista de novedades no es pequeña, echadle un vistazo:</p>
+
+<p><img src="/images/musIOS/musIOS7.jpg" alt="El Mus en iPhone" /></p>
+
+<ul>
+<li>Torneo de mus de Don Naipe</li>
+<li>Inteligencia Artificial mejorada</li>
+<li>Se graba la última partida</li>
+<li>Pistas visuales de quién es mano y de quién corta el mus</li>
+<li>¿Tu compañero es un bocazas? Hazle callar</li>
+<li>Tutorial de El Mus con las señas</li>
+<li>Controles de volumen de sonido activados</li>
+<li>Multitud de pequeñas mejoras</li>
+</ul>
+
+
+<p><img src="/images/musIOS/musIOS9.jpg" alt="El Mus en iPhone" /></p>
+
+<p>Todavía quedan cosas por hacer, como la real, la versión de 4 reyes o el modo multijugador, pero espero que estas mejoras resulten interesantes.</p>
+
+<p><img src="/images/musIOS/musIOS6.jpg" alt="El Mus en iPhone" /></p>
+
+<p>¡Que lo disfrutéis!</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Y Con Los Reyes Llega El Mus Para iPhone Y iPad]]></title>
@@ -75,19 +106,6 @@
 <p>Por otra parte, he aprovechado para hacer una ligera reestructuración de la web. Si os fijáis, ahora hay una sección de <a href="/juegos">juegos Android</a> y otra de <a href="/juegosIOS">juegos iOS</a>.</p>
 
 <p>Y tras este <em>sprint</em> toca parar y reflexionar sobre los siguientes pasos de Producciones Don Naipe. Eso sí, que no falte una partida de tute para entretener la espera.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Llega El Tute Para iPhone Y iPad]]></title>
-    <link href="http://donnaipe.com/blog/2014/04/09/llega-el-tute-para-iphone-y-ipad/"/>
-    <updated>2014-04-09T10:39:48+02:00</updated>
-    <id>http://donnaipe.com/blog/2014/04/09/llega-el-tute-para-iphone-y-ipad</id>
-    <content type="html"><![CDATA[<p>¡Ya está disponible el <a href="https://itunes.apple.com/us/app/tute/id853010761?l=es&amp;ls=1&amp;mt=8">Tute en el App Store</a>! Al final la aplicación ha sido aprobada por los de Apple, con lo que ya está disponible para cualquier iPhone, iPad o iPod con sistema operativo iOS 7.x.</p>
-
-<p><img src="/images/TuteIOS/capturaTuteIOS.jpg" alt="Tute en iPhone" /></p>
-
-<p>¡A disfrutarlo!</p>
 ]]></content>
   </entry>
   

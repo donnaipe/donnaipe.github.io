@@ -4,7 +4,7 @@
   <title><![CDATA[Producciones Don Naipe]]></title>
   <link href="http://donnaipe.com/atom.xml" rel="self"/>
   <link href="http://donnaipe.com/"/>
-  <updated>2015-05-12T10:36:06+02:00</updated>
+  <updated>2015-05-21T10:17:45+02:00</updated>
   <id>http://donnaipe.com/</id>
   <author>
     <name><![CDATA[Don Naipe]]></name>
@@ -12,6 +12,37 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Torneos Y Mucho Más en El Mus Para iOS]]></title>
+    <link href="http://donnaipe.com/blog/2015/05/21/torneos-y-mucho-mas-en-el-mus-para-ios/"/>
+    <updated>2015-05-21T10:10:33+02:00</updated>
+    <id>http://donnaipe.com/blog/2015/05/21/torneos-y-mucho-mas-en-el-mus-para-ios</id>
+    <content type="html"><![CDATA[<p>Ya está lista la primera actualización de <a href="https://itunes.apple.com/es/app/mus-don-naipe/id954161061?mt=8">El Mus para iOS</a>. La lista de novedades no es pequeña, echadle un vistazo:</p>
+
+<p><img src="http://donnaipe.com/images/musIOS/musIOS7.jpg" alt="El Mus en iPhone" /></p>
+
+<ul>
+<li>Torneo de mus de Don Naipe</li>
+<li>Inteligencia Artificial mejorada</li>
+<li>Se graba la última partida</li>
+<li>Pistas visuales de quién es mano y de quién corta el mus</li>
+<li>¿Tu compañero es un bocazas? Hazle callar</li>
+<li>Tutorial de El Mus con las señas</li>
+<li>Controles de volumen de sonido activados</li>
+<li>Multitud de pequeñas mejoras</li>
+</ul>
+
+
+<p><img src="http://donnaipe.com/images/musIOS/musIOS9.jpg" alt="El Mus en iPhone" /></p>
+
+<p>Todavía quedan cosas por hacer, como la real, la versión de 4 reyes o el modo multijugador, pero espero que estas mejoras resulten interesantes.</p>
+
+<p><img src="http://donnaipe.com/images/musIOS/musIOS6.jpg" alt="El Mus en iPhone" /></p>
+
+<p>¡Que lo disfrutéis!</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[El Portugués: Un Gran Juego De Cartas Para Android]]></title>
@@ -399,17 +430,6 @@ ha publicado una <a href="http://www.androidizados.com/juegos/2014/11/16/mus-and
     <content type="html"><![CDATA[<p>¡Más de 1000 descargas del <a href="http://donnaipe.com/juegos">Tute a Cuatro</a>! No está mal, teniendo en cuenta que no hace ni dos semanas que publiqué el juego en Google Play y que nadie conocía a Producciones Don Naipe.</p>
 
 <p>Estoy muy contento con el arranque de este proyecto; me hace mucha ilusión que la gente utilice mi juego y que lo valore tan positivamente. Espero sacar una actualización en las próximas semanas con una nueva funcionalidad. Hasta entonces a seguir jugando al tute: <strong>¡arrastro!</strong></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[El Lanzamiento]]></title>
-    <link href="http://donnaipe.com/blog/2014/02/14/el-lanzamiento/"/>
-    <updated>2014-02-14T11:22:29+01:00</updated>
-    <id>http://donnaipe.com/blog/2014/02/14/el-lanzamiento</id>
-    <content type="html"><![CDATA[<p><strong>¡Y tras unos cuantos meses de gestación, por fin llegó el día de salir a la luz!</strong> Producciones Don Naipe nace con el propósito de crear juegos de cartas para la plataforma Android. El primer título de la factoría es el <a href="http://donnaipe.com/juegos">Tute a Cuatro</a>, posiblemente el juego de baraja española más emblemático. Si tienes un móvil o tableta Android ya puedes descargarte <a href="https://play.google.com/store/apps/details?id=donnaipe.tutegratis">la versión gratis</a> o la <a href="https://play.google.com/store/apps/details?id=donnaipe.tutepro">alucinante versión PRO</a>.</p>
-
-<p><a href="http://donnaipe.com/donnaipe">Don Naipe</a> ha dedicado tanto esfuerzo e ilusión en desarrollar el Tute a Cuatro que se encuentra literalmente agotado y necesita recuperar energías antes de embarcarse en un nuevo proyecto. Permaneced a la escucha&hellip;</p>
 ]]></content>
   </entry>
   

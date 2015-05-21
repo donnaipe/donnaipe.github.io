@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Mus | Producciones Don Naipe]]></title>
   <link href="http://donnaipe.com/blog/categorias/mus/atom.xml" rel="self"/>
   <link href="http://donnaipe.com/"/>
-  <updated>2015-05-12T10:36:06+02:00</updated>
+  <updated>2015-05-21T10:17:45+02:00</updated>
   <id>http://donnaipe.com/</id>
   <author>
     <name><![CDATA[Don Naipe]]></name>
@@ -12,6 +12,37 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Torneos Y Mucho Más en El Mus Para iOS]]></title>
+    <link href="http://donnaipe.com/blog/2015/05/21/torneos-y-mucho-mas-en-el-mus-para-ios/"/>
+    <updated>2015-05-21T10:10:33+02:00</updated>
+    <id>http://donnaipe.com/blog/2015/05/21/torneos-y-mucho-mas-en-el-mus-para-ios</id>
+    <content type="html"><![CDATA[<p>Ya está lista la primera actualización de <a href="https://itunes.apple.com/es/app/mus-don-naipe/id954161061?mt=8">El Mus para iOS</a>. La lista de novedades no es pequeña, echadle un vistazo:</p>
+
+<p><img src="/images/musIOS/musIOS7.jpg" alt="El Mus en iPhone" /></p>
+
+<ul>
+<li>Torneo de mus de Don Naipe</li>
+<li>Inteligencia Artificial mejorada</li>
+<li>Se graba la última partida</li>
+<li>Pistas visuales de quién es mano y de quién corta el mus</li>
+<li>¿Tu compañero es un bocazas? Hazle callar</li>
+<li>Tutorial de El Mus con las señas</li>
+<li>Controles de volumen de sonido activados</li>
+<li>Multitud de pequeñas mejoras</li>
+</ul>
+
+
+<p><img src="/images/musIOS/musIOS9.jpg" alt="El Mus en iPhone" /></p>
+
+<p>Todavía quedan cosas por hacer, como la real, la versión de 4 reyes o el modo multijugador, pero espero que estas mejoras resulten interesantes.</p>
+
+<p><img src="/images/musIOS/musIOS6.jpg" alt="El Mus en iPhone" /></p>
+
+<p>¡Que lo disfrutéis!</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Novedades en El Mus]]></title>
