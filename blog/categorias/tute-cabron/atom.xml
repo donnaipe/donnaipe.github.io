@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Tute Cabrón | Producciones Don Naipe]]></title>
+  <link href="http://donnaipe.com/blog/categorias/tute-cabron/atom.xml" rel="self"/>
+  <link href="http://donnaipe.com/"/>
+  <updated>2015-05-30T21:32:05+02:00</updated>
+  <id>http://donnaipe.com/</id>
+  <author>
+    <name><![CDATA[Don Naipe]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Tute Cabrón Para Android: Desata Tu Lado Más Malvado]]></title>
+    <link href="http://donnaipe.com/blog/2015/05/30/tute-cabron-para-android-desata-tu-lado-mas-malvado/"/>
+    <updated>2015-05-30T17:59:33+02:00</updated>
+    <id>http://donnaipe.com/blog/2015/05/30/tute-cabron-para-android-desata-tu-lado-mas-malvado</id>
+    <content type="html"><![CDATA[<p>Volvemos a la carga con un bombazo: el <strong>Tute Cabrón</strong> para Android. Como seguramente ya sepáis, se trata de una conocida variante del tute que es todo un clásico de los juegos de baraja española. Podéis descargar <a href="https://play.google.com/store/apps/details?id=donnaipe.cabron">Tute Cabrón en Google Play</a>.</p>
+
+<p><img src="/images/tuteCabron/logoCabron.png" alt="Tute Cabrón para Android" /></p>
+
+<p>También llamado <em>tute pierde en medio</em>, se juega con una baraja española de 36 cartas (quitando los doses a la clásica de 40), disputándose un número indefinido de rondas hasta que haya un perdedor. En cada ronda se reparten todas las cartas y se juega con las reglas del tute. Al final de la ronda se hace un recuento y se penaliza con un tanto al jugador que obtuvo una puntuación intermedia. La partida termina cuando un jugador llega a un número predeterminado de tantos.</p>
+
+<p><img src="/images/tuteCabron/tuteCabron1.jpeg" alt="Tute Cabrón para Android" /></p>
+
+<p>Aunque la regla general es que pierde la ronda el jugador con la puntuación intermedia, hay tres notables excepciones:</p>
+
+<ol>
+<li>Si un jugador no hace baza, pierde</li>
+<li>Si un jugador hace más de 100 puntos, pierde (con la salvedad anterior)</li>
+<li>Si dos jugadores empatan, pierden (con las salvedades anteriores)</li>
+</ol>
+
+
+<p><img src="/images/tuteCabron/tuteCabron2.jpeg" alt="Tute Cabrón para Android" /></p>
+
+<p>Otra particularidad del tute cabrón es que se canta en mesa, es decir, al coincidir el rey y el caballo del mismo palo  en una baza. El primer cante se corresponderá con las cuarenta y a partir de ese momento será triunfo el palo del cante. Los siguientes cantes serán de veinte puntos. Los cantes es uno de los aspectos que añaden más interés al juego, ya que pueden hacer que se pase de puntos un jugador que va a más.</p>
+
+<p><img src="/images/tuteCabron/tuteCabron3.jpeg" alt="Tute Cabrón para Android" /></p>
+
+<p>De momento, sólo puede jugarse en modo individual, aunque la inteligencia artificial ha quedado muy lograda: los <em>bots</em> son unos auténticos cabronazos en el nivel de dificultad más alto&hellip;</p>
+
+<p><img src="/images/tuteCabron/tuteCabron4.jpeg" alt="Tute Cabrón para Android" /></p>
+
+<p>¡A disfrutar del juego del verano!</p>
+]]></content>
+  </entry>
+  
+</feed>
