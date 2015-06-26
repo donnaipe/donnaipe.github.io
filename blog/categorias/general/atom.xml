@@ -4,7 +4,7 @@
   <title><![CDATA[Category: General | Producciones Don Naipe]]></title>
   <link href="http://donnaipe.com/blog/categorias/general/atom.xml" rel="self"/>
   <link href="http://donnaipe.com/"/>
-  <updated>2015-06-03T16:35:16+02:00</updated>
+  <updated>2015-06-26T15:48:34+02:00</updated>
   <id>http://donnaipe.com/</id>
   <author>
     <name><![CDATA[Don Naipe]]></name>
@@ -12,6 +12,37 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Pon a Prueba Tus Reflejos Con Rápido Don Naipe]]></title>
+    <link href="http://donnaipe.com/blog/2015/06/26/pon-a-prueba-tus-reflejos-con-rapido-don-naipe/"/>
+    <updated>2015-06-26T10:02:25+02:00</updated>
+    <id>http://donnaipe.com/blog/2015/06/26/pon-a-prueba-tus-reflejos-con-rapido-don-naipe</id>
+    <content type="html"><![CDATA[<p>Seguimos con nuevos lanzamientos: <strong>Rápido Don Naipe</strong> para Android, disponible en <a href="https://play.google.com/store/apps/details?id=donnaipe.rapido">Google Play</a>. Esta vez se trata de una conversión del juego de cartas <em>el rápido</em>. Se trata de un juego muy diferente a los anteriores que he hecho, en el que dos jugadores compiten para deshacerse de su cartas lo más rápido posible. Los jugadores no toman turnos, por lo que la rapidez y reflejos son claves para ganar a tu oponente. En cada ronda, los jugadores juegan las cartas en su mano para reducir las cartas de su montón. Tras sucesivas rondas, gana el jugador que se deshaga de todas sus cartas.</p>
+
+<p><img src="/images/rapido/logoRapido.png" alt="Rápido Don Naipe para Android" /></p>
+
+<p>Cada jugador tiene en su mano cuatro cartas boca arriba, que puede colocar en cualquiera de los dos montones de juego. Para colocar una carta en un montón, es necesario que sea la siguiente en la secuencia por arriba o por abajo. Por ejemplo, si en un montón hay un siete, puede jugarse una sota o un seis (el palo no importa).</p>
+
+<p><a href="https://www.youtube.com/watch?v=NN0r9bS0uc0"><img src="http://img.youtube.com/vi/NN0r9bS0uc0/0.jpg" alt="Vídeo de Rápido Don Naipe para Android" /></a></p>
+
+<p>Por primera vez en mis juegos la disposición del juego es vertical en vez de apaisada. He puesto mucho cuidado en que la interacción hombre-máquina sea fluida, aprovechando las capacidades de las pantallas táctiles. De hecho, he probado el juego utilizando el ratón en el emulador de Android y resulta bastante menos divertido.</p>
+
+<p><img src="/images/rapido/rapido1.jpeg" alt="Rápido Don Naipe para Android" /></p>
+
+<p>El oponente es un bot que es muy configurable: el parámetro básico es la rapidez, variando desde &ldquo;caracol&rdquo; hasta &ldquo;rayo&rdquo; (¡hasta nueve niveles diferentes!). También puede ajustarse la inteligencia artificial: en el nivel normal el bot intentará jugar sus cartas minimizando el tiempo de desplazamiento, mientras que en el nivel bueno el bot será mucho más taimado y tendrá en cuenta la mano del oponente.</p>
+
+<p>Creo que uno de los grandes aciertos del juego es mostrar el movimiento del bot con una mano. De esta manera puede observarse cómo reacciona y reajusta sus jugadas de acuerdo con la situación.</p>
+
+<p><img src="/images/rapido/rapido2.jpeg" alt="Rápido Don Naipe para Android" /></p>
+
+<p>Por otra parte, <strong>Rápido Don Naipe</strong> ofrece dos variantes de juego: <em>clásica</em> y <em>normal</em>, que corresponden con las adaptaciones a la baraja española de los juegos <a href="http://www.pagat.com/patience/spit.html">Speed/Spit para baraja francesa</a> respectivamente. Además, hay dos modos de juego: <em>reto</em> y <em>supervivencia</em>. El primero es equivalente a una partida, mientras que en el modo supervivencia la rapidez del bot se incrementará con cada nivel superado.</p>
+
+<p><img src="/images/rapido/rapido3.jpeg" alt="Rápido Don Naipe para Android" /></p>
+
+<p>¿Suena interesante? Corre a <a href="https://play.google.com/store/apps/details?id=donnaipe.rapido">descargar Rápido Don Naipe en Google Play</a>. ¡Buen verano!</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Ya Está Aquí El Julepe Para iOS]]></title>
@@ -132,15 +163,6 @@
 <p><img src="/images/portugues/portugues5.jpeg" alt="Portugues Don Naipe para Android" /></p>
 
 <p>Aprendí a jugar al portugués en los años de universidad y tenía muchas ganas de <a href="https://play.google.com/store/apps/details?id=donnaipe.portugues">lanzarlo para Android</a>. Tuve que recurrir a mi amigo Chef para que me refrescara las reglas (¡muchas gracias por tu ayuda, Chef!). Espero que os guste tanto como a mí.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Entrevista en Androidizados]]></title>
-    <link href="http://donnaipe.com/blog/2015/05/01/entrevista-en-androidizados/"/>
-    <updated>2015-05-01T16:39:47+02:00</updated>
-    <id>http://donnaipe.com/blog/2015/05/01/entrevista-en-androidizados</id>
-    <content type="html"><![CDATA[<p>Los de <a href="http://www.androidizados.com/">Androidizados</a> han contactado conmigo para hacerme una entrevista en su sección de <em>Entrevistas a programadores</em>. El resultado lo podéis ver <a href="http://www.androidizados.com/desarrollo/2015/05/01/entrevista-a-desarrolladores-don-naipe/">aquí</a>. Gracias a Androidizados por su interés y espero que os resulte interesante.</p>
 ]]></content>
   </entry>
   
