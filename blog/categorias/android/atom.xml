@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Android | Producciones Don Naipe]]></title>
   <link href="http://donnaipe.com/blog/categorias/android/atom.xml" rel="self"/>
   <link href="http://donnaipe.com/"/>
-  <updated>2015-06-26T15:48:34+02:00</updated>
+  <updated>2015-07-31T15:37:10+02:00</updated>
   <id>http://donnaipe.com/</id>
   <author>
     <name><![CDATA[Don Naipe]]></name>
@@ -12,6 +12,41 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Nuevo Lanzamiento: Dominó en Parejas]]></title>
+    <link href="http://donnaipe.com/blog/2015/07/31/nuevo-lanzamiento-domino-en-parejas/"/>
+    <updated>2015-07-31T10:42:15+02:00</updated>
+    <id>http://donnaipe.com/blog/2015/07/31/nuevo-lanzamiento-domino-en-parejas</id>
+    <content type="html"><![CDATA[<p>Las vacaciones han sido fructíferas y tenemos un nuevo lanzamiento: <strong>Dominó en Parejas</strong> para Android, disponible en <a href="https://play.google.com/store/apps/details?id=donnaipe.domino">Google Play</a>. Esta vez nos adentramos en terreno desconocido, dejamos las cartas aparte y cogemos las fichas del dominó.</p>
+
+<p><img src="/images/domino/logoDomino.png" alt="Dominó en Parejas para Android" /></p>
+
+<p><strong>Dominó en Parejas</strong> es una conversión del juego clásico de dominó, tan popular en España y Latinoamérica. Para los que no lo conozcan, la dinámica es sencilla: se juega entre cuatro, formando pareja los jugadores enfrentados en la mesa. El objetivo es llegar a un número de puntos, típicamente 100, antes que la pareja contraria.</p>
+
+<p><a href="https://www.youtube.com/watch?v=wnnLeopPe-4"><img src="http://img.youtube.com/vi/wnnLeopPe-4/0.jpg" alt="Vídeo de Dominó en Parejas para Android" /></a></p>
+
+<p>En cada ronda se reparten todas las fichas, 7 por jugador. En la primera ronda sale el jugador con el 6 doble con esa ficha. En las rondas siguientes el turno pasa al jugador de la derecha, pudiendo elegir cualquier ficha como salida.</p>
+
+<p>El jugador con el turno colocará una ficha de su elección en cualquiera de los dos extremos, siempre que coincida el valor del extremo con el de la ficha. Si no tiene posibilidad de poner ficha, el jugador pasará y correrá el turno al siguiente jugador.</p>
+
+<p><img src="/images/domino/domino1.jpg" alt="Dominó en Parejas para Android" /></p>
+
+<p>Un jugador gana la ronda tras colocar su última ficha en la mesa, anotándose la puntuación de las fichas sin jugar de los tres jugadores restantes. Si el juego está cerrado, es decir, ningún jugador puede poner una nueva ficha, cada pareja contará sus puntos, ganando la que   obtenga menor puntuación y anotándose los puntos de las fichas sin jugar. En caso de empate, ninguna pareja será la vencedora, corriendo el turno de salida al siguiente jugador.</p>
+
+<p><img src="/images/domino/domino2.jpg" alt="Dominó en Parejas para Android" /></p>
+
+<p>De momento sólo es posible el juego individual, pero se puede elegir al compañero y rivales entre 7 bots disponibles, cada uno con su propio avatar. Como siempre, he cuidado mucho la inteligencia artificial, disponiendo de tres niveles: básico (1 estrella), mediano (2 estrellas) y bueno (3 estrellas). Cada bot tiene asignado un nivel, con lo que la dificultad de la partida variará entre 2 y 8 estrellas, dependiendo de la disposición de bots en la mesa.</p>
+
+<p><img src="/images/domino/domino3.jpg" alt="Dominó en Parejas para Android" /></p>
+
+<p>Para la realización del juego he tenido que profundizar en el juego del dominó, que tiene más &ldquo;miga&rdquo; de lo que parece a primera vista. En este sentido me ha resultado muy útil <a href="https://sites.google.com/site/dominoarteociencia/home">la web del dominó arte o ciencia</a>. Estoy bastante satisfecho con el resultado y creo que los bots juegan bastante bien, especialmente los del nivel bueno.</p>
+
+<p><img src="/images/domino/domino4.jpg" alt="Dominó en Parejas para Android" /></p>
+
+<p><strong>Dominó en Parejas</strong> está dedicado a mi abuelo Pepe, que me enseño a jugar al dominó. Podéis <a href="https://play.google.com/store/apps/details?id=donnaipe.domino">descargar Dominó en Parejas en Google Play</a>. Espero que lo disfrutéis.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Pon a Prueba Tus Reflejos Con Rápido Don Naipe]]></title>
@@ -124,29 +159,6 @@
     <updated>2015-05-01T16:39:47+02:00</updated>
     <id>http://donnaipe.com/blog/2015/05/01/entrevista-en-androidizados</id>
     <content type="html"><![CDATA[<p>Los de <a href="http://www.androidizados.com/">Androidizados</a> han contactado conmigo para hacerme una entrevista en su sección de <em>Entrevistas a programadores</em>. El resultado lo podéis ver <a href="http://www.androidizados.com/desarrollo/2015/05/01/entrevista-a-desarrolladores-don-naipe/">aquí</a>. Gracias a Androidizados por su interés y espero que os resulte interesante.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Tenemos Un Nuevo Juego: El Julepe Para Android]]></title>
-    <link href="http://donnaipe.com/blog/2015/03/15/tenemos-un-nuevo-juego-el-julepe-para-android/"/>
-    <updated>2015-03-15T18:05:00+01:00</updated>
-    <id>http://donnaipe.com/blog/2015/03/15/tenemos-un-nuevo-juego-el-julepe-para-android</id>
-    <content type="html"><![CDATA[<p>Pues ya tenemos un juego más para la familia: <strong>El Julepe para Android</strong>. Lo podéis descargar en <a href="https://play.google.com/store/apps/details?id=donnaipe.julepe">Google Play</a>. Los que no lo conocéis, se trata de un juego de la familia del tute. He incluido un pequeño tutorial en el juego para facilitar el arranque. Para más información podéis consultar <a href="http://www.ludoteka.com/julepe.html">este manual</a> o <a href="http://www.nhfournier.com/public/assets/Reglamentos_11/Reglamento_El_Julepe.pdf">este otro</a>.</p>
-
-<p><img src="/images/julepe/julepe1.jpeg" alt="El Mus para Android" /></p>
-
-<p>Aunque hacer un julepe no era la primera prioridad, tenía ganas de crear una versión de este juego; especialmente porque no recuerdo haberlo visto en ninguna plataforma (ni siquiera en PC).</p>
-
-<p><img src="/images/julepe/julepe2.jpeg" alt="El Mus para Android" /></p>
-
-<p>He tenido que refrescar los conceptos del julepe y documentarme un poco. Para ello he tenido que dar la brasa a unos cuantos familiares, conocidos e incluso jugadores de Producciones Don Naipe. Muchas gracias a Aitor, Chef, Ildefonso, María, Montse y a los maestros juleperos de Mansilla por ayudarme con esto.</p>
-
-<p><img src="/images/julepe/julepe3.jpeg" alt="El Mus para Android" /></p>
-
-<p>De esta labor de documentación he descubierto que hay dos variantes del julepe que he incluido en el juego bajo el nombre de <em>Modo normal</em> y <em>Modo clásico</em>. De nuevo lo más divertido ha sido crear la inteligencia artificial y creo que no ha quedado nada mal.</p>
-
-<p>Espero que os guste y que os entretenga la espera hasta la siguiente ocasión.</p>
 ]]></content>
   </entry>
   
