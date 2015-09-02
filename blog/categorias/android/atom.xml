@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Android | Producciones Don Naipe]]></title>
   <link href="http://donnaipe.com/blog/categorias/android/atom.xml" rel="self"/>
   <link href="http://donnaipe.com/"/>
-  <updated>2015-08-13T19:19:08+02:00</updated>
+  <updated>2015-09-02T10:27:24+02:00</updated>
   <id>http://donnaipe.com/</id>
   <author>
     <name><![CDATA[Don Naipe]]></name>
@@ -12,6 +12,43 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Más Clásicos: El Parchís Para Android]]></title>
+    <link href="http://donnaipe.com/blog/2015/09/02/mas-clasicos-el-parchis-para-android/"/>
+    <updated>2015-09-02T09:38:51+02:00</updated>
+    <id>http://donnaipe.com/blog/2015/09/02/mas-clasicos-el-parchis-para-android</id>
+    <content type="html"><![CDATA[<p>El juego que os traigo hoy no necesita presentación. Se trata de <strong>El Parchís</strong> para Android, disponible en <a href="https://play.google.com/store/apps/details?id=donnaipe.parchis">Google Play</a>. Nos alejamos un poco de nuestra zona de confort, los juegos de cartas, y hacemos una pequeña incursión en los juegos de tablero.</p>
+
+<p><img src="/images/parchis/logoParchis.png" alt="El Parchís para Android" /></p>
+
+<p><strong>El Parchís</strong> es una conversión del juego homónimo, que es especialmente popular en España. He intentado capturar la esencia del juego y permitir un grado bastante alto de configurabilidad para que pueda adaptarse a todos los paladares.</p>
+
+<p><a href="https://www.youtube.com/watch?v=4OpdQts7q8Y"><img src="http://img.youtube.com/vi/4OpdQts7q8Y/0.jpg" alt="Vídeo de El Parchís para Android" /></a></p>
+
+<p>Se incluyen 9 avatares para los jugadores y muchas frases del parchís que se presentan en los momentos del juego adecuados. Estoy contento con el resultado, que creo se asemeja bastante al de una partida con amigos en un tablero físico.</p>
+
+<p><img src="/images/parchis/parchis1.jpeg" alt="El Parchís para Android" /></p>
+
+<p>Pero, además, es posible jugar varios humanos en el mismo dispositivo. Esta opción resultará especialmente interesante con tabletas. Hay bots para el resto de jugadores y con tres niveles de inteligencia artificial, con lo que puede ajustarse bastante bien la dificultad de la partida. En el nivel más bajo los bots juegan de manera básica; de hecho, algunas veces se les pasa comer las fichas de los adversarios. En el nivel más alto los bots juegan muy bien, y supone todo un reto ganar.</p>
+
+<p><img src="/images/parchis/parchis2.jpeg" alt="El Parchís para Android" /></p>
+
+<p>Otra opción interesante es la de parar el dado. Ésta opción es una ayuda para los jugadores humanos y permite parar el dado pulsando en la pantalla. El dado gira rápido, así que hay que hacerlo en el momento adecuado. Si eres hábil podrás manejar la suerte a tu favor.</p>
+
+<p><img src="/images/parchis/parchis3.jpeg" alt="El Parchís para Android" /></p>
+
+<p>El inicio de la partida también se puede configurar al gusto: modo clásico, una ficha fuera, dos fuera o dos fichas fuera con el primer 5. También puede ajustarse la velocidad general del juego y habilitar o no los sonidos. He puesto efectos de sonido nuevos, que espero que os gusten.</p>
+
+<p>Por último, puede jugarse al parchís en modo individual y cooperativo. En este último caso, gana el equipo que consigue meter sus 8 fichas en la meta. Los jugadores que terminan toman el control de las fichas del compañero para ayudarle a terminar.</p>
+
+<p><img src="/images/parchis/parchis4.jpeg" alt="El Parchís para Android" /></p>
+
+<p>Ahora sólo falta que os guste el juego. Podéis <a href="https://play.google.com/store/apps/details?id=donnaipe.parchis">descargar El Parchís en Google Play</a>. ¡Empezad a agitar vuestros cubiletes!</p>
+
+<p><em>Bonus track</em>: fijaos en las frases de los avatares con las que introducen una cuña publicitaria.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Reseña Del Julepe De Androidizados]]></title>
@@ -123,44 +160,6 @@
 <p><img src="/images/tuteCabron/tuteCabron4.jpeg" alt="Tute Cabrón para Android" /></p>
 
 <p>¡A disfrutar del juego del verano!</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[El Portugués: Un Gran Juego De Cartas Para Android]]></title>
-    <link href="http://donnaipe.com/blog/2015/05/11/el-portugues-un-gran-juego-de-cartas-para-android/"/>
-    <updated>2015-05-11T17:07:44+02:00</updated>
-    <id>http://donnaipe.com/blog/2015/05/11/el-portugues-un-gran-juego-de-cartas-para-android</id>
-    <content type="html"><![CDATA[<p>¿Conoces el juego de cartas <strong>El Portugués</strong>? Este apasionante juego hará las delicias de los jugadores de <strong>tute</strong>, <strong>pocha</strong> y <strong>julepe</strong>. Ya podéis descargar <a href="https://play.google.com/store/apps/details?id=donnaipe.portugues">el portugués en Google Play</a>, ya veréis cómo os va a enganchar. Aunque el juego incluye un tutorial, os incluyo aquí también las reglas.</p>
-
-<p><img src="/images/portugues/portugues1.jpeg" alt="Portugues Don Naipe para Android" /></p>
-
-<p>El portugués es un juego de bazas de 4 o 5 jugadores en el que se trata de llegar antes que el resto de jugadore a 0 puntos partiendo de una misma puntuación inicial. Para conseguirlo los jugadores participan en una serie de rondas en las que con cada baza conseguida se reduce un punto. Pero, ¡cuidado!, si un jugador no consigue ninguna baza en una ronda, se le suman 5 puntos.</p>
-
-<p><img src="/images/portugues/portugues2.jpeg" alt="Portugues Don Naipe para Android" /></p>
-
-<p>Al comienzo de cada ronda cada jugador recibe 2 cartas. El jugador mano está obligado a jugar y decide el palo del pinte con sus cartas. Si con sus dos cartas la mano no se decide, puede elegir que pinte su siguiente carta (sin verla). Si pintan COPAS, todos están obligados a jugar, y si pintan BASTOS la puntuación es doble (tanto a favor como en contra).</p>
-
-<p><img src="/images/portugues/portugues3.jpeg" alt="Portugues Don Naipe para Android" /></p>
-
-<p>Conocido el palo que pinta, los jugadores restantes deciden con sus 2 cartas si disputan o no la ronda (siempre que no estén obligados a jugar). A continuación se reparten 3 cartas a los participantes y hay un turno de descarte. Completado el descarte, se juega la ronda siguiendo las normas del tute. Se actualizan las puntuaciones al final de la ronda y, si no hay ganador, se disputará una nueva.</p>
-
-<p><img src="/images/portugues/portugues4.jpeg" alt="Portugues Don Naipe para Android" /></p>
-
-<p>Un jugador está obligado a jugar en cualquiera de las siguientes situaciones:</p>
-
-<ul>
-<li>Si es mano</li>
-<li>Si pintan COPAS</li>
-<li>Si tiene menos de 10 puntos</li>
-<li>Si lleva dos rondas sin jugar</li>
-<li>Si sólo va la mano y el jugador es postre</li>
-</ul>
-
-
-<p><img src="/images/portugues/portugues5.jpeg" alt="Portugues Don Naipe para Android" /></p>
-
-<p>Aprendí a jugar al portugués en los años de universidad y tenía muchas ganas de <a href="https://play.google.com/store/apps/details?id=donnaipe.portugues">lanzarlo para Android</a>. Tuve que recurrir a mi amigo Chef para que me refrescara las reglas (¡muchas gracias por tu ayuda, Chef!). Espero que os guste tanto como a mí.</p>
 ]]></content>
   </entry>
   

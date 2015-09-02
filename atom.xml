@@ -4,7 +4,7 @@
   <title><![CDATA[Producciones Don Naipe]]></title>
   <link href="http://donnaipe.com/atom.xml" rel="self"/>
   <link href="http://donnaipe.com/"/>
-  <updated>2015-08-13T19:19:08+02:00</updated>
+  <updated>2015-09-02T10:27:24+02:00</updated>
   <id>http://donnaipe.com/</id>
   <author>
     <name><![CDATA[Don Naipe]]></name>
@@ -12,6 +12,43 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Más Clásicos: El Parchís Para Android]]></title>
+    <link href="http://donnaipe.com/blog/2015/09/02/mas-clasicos-el-parchis-para-android/"/>
+    <updated>2015-09-02T09:38:51+02:00</updated>
+    <id>http://donnaipe.com/blog/2015/09/02/mas-clasicos-el-parchis-para-android</id>
+    <content type="html"><![CDATA[<p>El juego que os traigo hoy no necesita presentación. Se trata de <strong>El Parchís</strong> para Android, disponible en <a href="https://play.google.com/store/apps/details?id=donnaipe.parchis">Google Play</a>. Nos alejamos un poco de nuestra zona de confort, los juegos de cartas, y hacemos una pequeña incursión en los juegos de tablero.</p>
+
+<p><img src="http://donnaipe.com/images/parchis/logoParchis.png" alt="El Parchís para Android" /></p>
+
+<p><strong>El Parchís</strong> es una conversión del juego homónimo, que es especialmente popular en España. He intentado capturar la esencia del juego y permitir un grado bastante alto de configurabilidad para que pueda adaptarse a todos los paladares.</p>
+
+<p><a href="https://www.youtube.com/watch?v=4OpdQts7q8Y"><img src="http://img.youtube.com/vi/4OpdQts7q8Y/0.jpg" alt="Vídeo de El Parchís para Android" /></a></p>
+
+<p>Se incluyen 9 avatares para los jugadores y muchas frases del parchís que se presentan en los momentos del juego adecuados. Estoy contento con el resultado, que creo se asemeja bastante al de una partida con amigos en un tablero físico.</p>
+
+<p><img src="http://donnaipe.com/images/parchis/parchis1.jpeg" alt="El Parchís para Android" /></p>
+
+<p>Pero, además, es posible jugar varios humanos en el mismo dispositivo. Esta opción resultará especialmente interesante con tabletas. Hay bots para el resto de jugadores y con tres niveles de inteligencia artificial, con lo que puede ajustarse bastante bien la dificultad de la partida. En el nivel más bajo los bots juegan de manera básica; de hecho, algunas veces se les pasa comer las fichas de los adversarios. En el nivel más alto los bots juegan muy bien, y supone todo un reto ganar.</p>
+
+<p><img src="http://donnaipe.com/images/parchis/parchis2.jpeg" alt="El Parchís para Android" /></p>
+
+<p>Otra opción interesante es la de parar el dado. Ésta opción es una ayuda para los jugadores humanos y permite parar el dado pulsando en la pantalla. El dado gira rápido, así que hay que hacerlo en el momento adecuado. Si eres hábil podrás manejar la suerte a tu favor.</p>
+
+<p><img src="http://donnaipe.com/images/parchis/parchis3.jpeg" alt="El Parchís para Android" /></p>
+
+<p>El inicio de la partida también se puede configurar al gusto: modo clásico, una ficha fuera, dos fuera o dos fichas fuera con el primer 5. También puede ajustarse la velocidad general del juego y habilitar o no los sonidos. He puesto efectos de sonido nuevos, que espero que os gusten.</p>
+
+<p>Por último, puede jugarse al parchís en modo individual y cooperativo. En este último caso, gana el equipo que consigue meter sus 8 fichas en la meta. Los jugadores que terminan toman el control de las fichas del compañero para ayudarle a terminar.</p>
+
+<p><img src="http://donnaipe.com/images/parchis/parchis4.jpeg" alt="El Parchís para Android" /></p>
+
+<p>Ahora sólo falta que os guste el juego. Podéis <a href="https://play.google.com/store/apps/details?id=donnaipe.parchis">descargar El Parchís en Google Play</a>. ¡Empezad a agitar vuestros cubiletes!</p>
+
+<p><em>Bonus track</em>: fijaos en las frases de los avatares con las que introducen una cuña publicitaria.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Reseña Del Julepe De Androidizados]]></title>
@@ -459,26 +496,6 @@ ha publicado una <a href="http://www.androidizados.com/juegos/2014/11/16/mus-and
 <img src="http://donnaipe.com/images/pochaIOS/pochaIOS2.jpg" alt="La Pocha en iPhone" /></p>
 
 <p>Espero que la versión PRO (sin anuncios) esté próximamente disponible; os mantendré puntualmente informados.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[¡Lanzamos La Pocha Para Android!]]></title>
-    <link href="http://donnaipe.com/blog/2014/05/17/lanzamos-la-pocha-para-android/"/>
-    <updated>2014-05-17T17:21:46+02:00</updated>
-    <id>http://donnaipe.com/blog/2014/05/17/lanzamos-la-pocha-para-android</id>
-    <content type="html"><![CDATA[<p>Tras una temporada en silencio estoy muy orgulloso de presentaros el nuevo juego de Producciones Don Naipe: <strong>La Pocha</strong>. La pocha es mi juego de cartas preferido, por lo que me he esforzado especialmente para que sea memorable.</p>
-
-<p>La Pocha ofrece la versión de 5 jugadores, el número ideal para disfrutar de este juego. Además he incluido 10 tipos de rondas diferentes (<em>UNO, SUBIENDO, BAJANDO, ÚLTIMA PINTA, SUBASTA, SIN PALO, OROS, COPAS, ESPADAS</em> y <em>BASTOS</em>), con lo que la variedad y entretenimiento están más que asegurados. La versión PRO permite crear una partida al gusto combinando las rondas anteriores. En cuanto a la inteligencia artificial he invertido mucho esfuerzo en que jueguen bien y estoy muy muy satisfecho del resultado final (¡comprobadlo vosotros mismos!).</p>
-
-<p>De momento, está disponible la versión de <a href="http://donnaipe.com/juegos">La Pocha para Android</a>. Podéis instalar <a href="http://play.google.com/store/apps/details?id=donnaipe.pocha">la versión gratuita</a> y <a href="http://play.google.com/store/apps/details?id=donnaipe.pochapro">la versión de pago</a> en cualquier móvil o tableta Android 2.2 o superior. Y en unos meses espero lanzar en unos meses La Pocha para iPhone y iPad.</p>
-
-<p>Os dejo algunas capturas de pantalla para que os hagáis una idea del resultado.</p>
-
-<p>¡Espero que disfrutéis mucho del juego!</p>
-
-<p><img src="http://donnaipe.com/images/pocha/pocha1.jpg" alt="La Pocha para Android" />
-<img src="http://donnaipe.com/images/pocha/pocha2.jpg" alt="La Pocha para Android" /></p>
 ]]></content>
   </entry>
   
