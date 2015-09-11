@@ -9,7 +9,8 @@
   <meta name="author" content="Don Naipe">
 
   
-  <meta name="description" content="Dominó en Parejas
+  <meta name="description" content="El Parchís
+Dominó en Parejas
 El Mus
 Tute a Cuatro
 Tute Cabrón
@@ -18,7 +19,7 @@ El Julepe
 Portugués Don Naipe
 Rápido Don Naipe
 Tute a Cuatro PRO
-La Pocha PRO Dominó en &hellip;">
+La Pocha PRO &hellip;">
   
 
   <!-- http://t.co/dKP3o1e -->
@@ -96,6 +97,7 @@ La Pocha PRO Dominó en &hellip;">
 <link rel="stylesheet" href="/juegos/css/blueimp-gallery-indicator.css">
 
 <ul>
+<li><a href="#parchis">El Parchís</a></li>
 <li><a href="#domino">Dominó en Parejas</a></li>
 <li><a href="#mus">El Mus</a></li>
 <li><a href="#tuteGratis">Tute a Cuatro</a></li>
@@ -107,6 +109,51 @@ La Pocha PRO Dominó en &hellip;">
 <li><a href="#tutePro">Tute a Cuatro PRO</a></li>
 <li><a href="#pochaPro">La Pocha PRO</a></li>
 </ul>
+
+<h2></h2>
+<h1>El Parchís<a name="parchis"></a></h1>
+
+<p>El parchís es el juego de tablero español por excelencia y esta conversión de 
+Producciones Don Naipe captura toda su esencia.</p>
+
+<div style="float:right;clear:right;margin-left:30px">
+<a href="https://play.google.com/store/apps/details?id=donnaipe.parchis"><img alt="Disponible en Google Play"
+       src="https://developer.android.com/images/brand/es_generic_rgb_wo_60.png" /></a>
+</div>
+
+<p>El parchís se juega con un dado y cuatro fichas para cada uno de los cuatro jugadores. 
+El objetivo es llevar las cuatro fichas propias de casa a la meta antes que los demás.</p>
+
+<div id="parchis-carousel" class="blueimp-gallery blueimp-gallery-carousel">
+    <div class="slides"></div>
+    <h3 class="title"></h3>
+    <a class="prev">‹</a>
+    <a class="next">›</a>
+    <a class="play-pause"></a>
+    <ol class="indicator"></ol>
+</div>
+
+<p>El Parchís es muy configurable, permitiendo:</p>
+<ul>
+<li>Jugar varios humanos en el mismo dispositivo</li>
+<li>Juego individual o por equipos</li>
+<li>9 avatares para elegir</li>
+<li>Tres niveles de inteligencia artificial</li>
+<li>Amplio repertorio de frases contextualizadas</li>
+<li>Configurar el inicio, los colores, la rapidez y el sonido</li>
+<li>Revisar las reglas en el tutorial</li>
+</ul>
+
+<p>El Parchís está disponible para cualquier móvil o tableta Android (3.1 o superior). 
+Si tienes un dispositivo Android descárgate El Parchís en 
+<a href="http://play.google.com/store/apps/details?id=donnaipe.parchis">Google Play</a>. Consulta
+<a href="/blog/2015/09/02/mas-clasicos-el-parchis-para-android/">este post</a> para una descripción 
+más detallada de El Parchís.</p>
+
+
+<br><br>
+
+
 
 <h2></h2>
 <h1>Dominó en Parejas<a name="domino"></a></h1>
@@ -670,6 +717,13 @@ más detallada de Rápido Don Naipe.</p>
     <a href="/images/domino/domino4.jpg"></a> 
 </div>
 
+<div id="enlaces_parchis">
+    <a href="/images/parchis/parchis1.jpeg"></a>
+    <a href="/images/parchis/parchis2.jpeg"></a>
+    <a href="/images/parchis/parchis3.jpeg"></a>
+    <a href="/images/parchis/parchis4.jpeg"></a>
+    <a href="/images/parchis/parchis5.jpeg"></a>            
+</div>
 
 <script src="/juegos/js/blueimp-helper.js"></script>
 <script src="/juegos/js/blueimp-gallery.js"></script>
@@ -760,6 +814,14 @@ blueimp.Gallery(
         carousel: true
     }
 );
+
+blueimp.Gallery(
+    document.getElementById('enlaces_parchis').getElementsByTagName('a'),
+    {
+        container: '#parchis-carousel',
+        carousel: true
+    }
+);
 </script>
 
 <script>
@@ -773,6 +835,7 @@ blueimp.Gallery(
   $("#enlaces_cabron").hide();  
   $("#enlaces_rapido").hide();
   $("#enlaces_domino").hide();  
+  $("#enlaces_parchis").hide();    
 </script>
 
   
