@@ -4,7 +4,7 @@
   <title><![CDATA[Producciones Don Naipe]]></title>
   <link href="http://donnaipe.com/atom.xml" rel="self"/>
   <link href="http://donnaipe.com/"/>
-  <updated>2015-09-11T17:31:46+02:00</updated>
+  <updated>2015-11-05T18:09:33+01:00</updated>
   <id>http://donnaipe.com/</id>
   <author>
     <name><![CDATA[Don Naipe]]></name>
@@ -12,6 +12,44 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Europoly: El Juego De Finanzas Y Monopolios]]></title>
+    <link href="http://donnaipe.com/blog/2015/11/05/europoly-el-juego-de-finanzas-y-monopolios/"/>
+    <updated>2015-11-05T16:32:35+01:00</updated>
+    <id>http://donnaipe.com/blog/2015/11/05/europoly-el-juego-de-finanzas-y-monopolios</id>
+    <content type="html"><![CDATA[<p>Tras mucho trabajo, el décimo juego de la factoría es ya una realidad. Se trata de un juego muy especial: <strong>Europoly</strong>, un juego de finanzas y monopolios que os va a encantar. De momento está disponible para Android en <a href="https://play.google.com/store/apps/details?id=donnaipe.europoly">Google Play</a>.</p>
+
+<p><img src="http://donnaipe.com/images/europoly/europoly1.jpeg" alt="Europoly para Android" /></p>
+
+<p>Europoly es un juego de tablero para 2, 3 o 4 jugadores. Cada uno tiene una ficha con la que recorrer Europa. Si la ficha de un jugador cae en una casilla de una propiedad libre, puede comprarla o subastarla. Pero si dicha propiedad es de otro jugador, tendrá que pagar la renta al caer en ella. Así, el objetivo del juego es amasar capital hasta llevar a la bancarrota a los rivales.</p>
+
+<p><a href="https://www.youtube.com/watch?v=tl4SLCW2FN4"><img src="http://img.youtube.com/vi/tl4SLCW2FN4/0.jpg" alt="Vídeo de Europoly para Android" /></a></p>
+
+<p>El tablero está dividido en 40 casillas con ciudades y aeropuertos de Europa, una autopista, un ferry, casino, tarjetas lotería y una cárcel. Se juega por turnos, tirando dos dados para moverse por el tablero. Al pasar la Salida el jugador cobrará 5.000€. Si en una tirada se saca doble, el jugador tendrá una tirada más. Si saca tres dobles seguidos, irá a la cárcel.</p>
+
+<p><img src="http://donnaipe.com/images/europoly/europoly2.jpeg" alt="Europoly para Android" /></p>
+
+<p>Las ciudades están organizadas en grupos que tienen el mismo color. El jugador que consiga todas las ciudades del grupo tendrá un monopolio y podrá construir casas, con lo que la renta a recibir será sustancialmente mayor. Las casillas de transporte no pueden mejorarse, pero la renta se incrementará según el número de ellas que se posea.</p>
+
+<p><img src="http://donnaipe.com/images/europoly/logo_europoly.png" alt="Europoly para Android" /></p>
+
+<p>Si un jugador necesita dinero, puede hacer tratos con otros jugadores, vender sus casas a la banca o hipotecar sus propiedades. En las propiedades hipotecadas no se recibe renta, pero se puede quitar una hipoteca pagándose a la banca el importe estipulado. Si un jugador no tiene dinero suficiente como para saldar sus deudas (incluso vendiendo casas e hipotecando propiedades), deberá declarar la bancarrota. Gana la partida el último jugador con saldo positivo.</p>
+
+<p><img src="http://donnaipe.com/images/europoly/europoly3.jpeg" alt="Europoly para Android" /></p>
+
+<p>Puede jugarse con otros bots o con humanos en el mismo dispositivo. Como siempre, he puesto mucho cuidado en la Inteligencia Artificial de los bots, ofreciendo tres niveles de dificultad diferentes. En el nivel más alto juegan de manera muy agresiva y son muy duros negociando. En el nivel intermedio son más relajados y te ofrecerán tratos con mejores condiciones. En el nivel más bajo son más blanditos y podrás conseguir tratos mucho más ventajosos para tus intereses.</p>
+
+<p><img src="http://donnaipe.com/images/europoly/europoly4.jpeg" alt="Europoly para Android" /></p>
+
+<p>Pues todo esto y mucho más es el Europoly. Estoy particularmente orgulloso de este juego, las partidas resultan súper-entretenidas y siempre te quedan ganas de más. Además, las partidas son muy configurables (2-4 jugadores, diferentes niveles, humanos o no, avatares y nombres), por lo que pueden ajustarse bien a los diferentes jugadores.</p>
+
+<p><img src="http://donnaipe.com/images/europoly/europoly5.jpeg" alt="Europoly para Android" /></p>
+
+<p>Además, el juego resulta muy educativo para aprender finanzas y geografía europea. Incluyo de nuevo <a href="https://play.google.com/store/apps/details?id=donnaipe.europoly">el enlace de descarga</a> para que no os lo paséis por alto.
+¡Espero que lo disfrutéis!</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Más Clásicos: El Parchís Para Android]]></title>
@@ -478,24 +516,6 @@ ha publicado una <a href="http://www.androidizados.com/juegos/2014/11/16/mus-and
 <p>Con este <em>sprint</em> cerramos el curso y damos la bienvenida a las vacaciones. No os quejéis, que tenéis la pocha y el tute para los ratos de ocio.</p>
 
 <p>¡Disfrutad del verano!</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Ya Está Aquí La Pocha Para iPhone Y iPad]]></title>
-    <link href="http://donnaipe.com/blog/2014/06/18/ya-esta-aqui-la-pocha-para-iphone-y-ipad/"/>
-    <updated>2014-06-18T08:17:09+02:00</updated>
-    <id>http://donnaipe.com/blog/2014/06/18/ya-esta-aqui-la-pocha-para-iphone-y-ipad</id>
-    <content type="html"><![CDATA[<p>La noticia de la semana es que ya está disponible <a href="https://itunes.apple.com/es/app/la-pocha/id887838722?mt=8">La Pocha en el App Store</a>. Con la sobrecarga de fútbol y realeza que llevamos, qué mejor que una partida de pocha para pasar la canícula.</p>
-
-<p>Esta versión es similar a la que saqué para Android hace un mes, por lo que podéis ver los detalles <a href="http://donnaipe.com/blog/2014/05/17/lanzamos-la-pocha-para-android/">en este post</a>. Si tienes un iPhone, iPad o iPod con sistema operativo iOS 7.x. ya estás tardando en descargártela&hellip;</p>
-
-<p>Os dejo un par de capturas de pantalla de <strong>La Pocha</strong> para iPhone 4.</p>
-
-<p><img src="http://donnaipe.com/images/pochaIOS/pochaIOS1.jpg" alt="La Pocha en iPhone" />
-<img src="http://donnaipe.com/images/pochaIOS/pochaIOS2.jpg" alt="La Pocha en iPhone" /></p>
-
-<p>Espero que la versión PRO (sin anuncios) esté próximamente disponible; os mantendré puntualmente informados.</p>
 ]]></content>
   </entry>
   

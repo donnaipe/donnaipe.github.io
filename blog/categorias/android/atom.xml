@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Android | Producciones Don Naipe]]></title>
   <link href="http://donnaipe.com/blog/categorias/android/atom.xml" rel="self"/>
   <link href="http://donnaipe.com/"/>
-  <updated>2015-09-11T17:31:46+02:00</updated>
+  <updated>2015-11-05T18:09:33+01:00</updated>
   <id>http://donnaipe.com/</id>
   <author>
     <name><![CDATA[Don Naipe]]></name>
@@ -12,6 +12,44 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Europoly: El Juego De Finanzas Y Monopolios]]></title>
+    <link href="http://donnaipe.com/blog/2015/11/05/europoly-el-juego-de-finanzas-y-monopolios/"/>
+    <updated>2015-11-05T16:32:35+01:00</updated>
+    <id>http://donnaipe.com/blog/2015/11/05/europoly-el-juego-de-finanzas-y-monopolios</id>
+    <content type="html"><![CDATA[<p>Tras mucho trabajo, el décimo juego de la factoría es ya una realidad. Se trata de un juego muy especial: <strong>Europoly</strong>, un juego de finanzas y monopolios que os va a encantar. De momento está disponible para Android en <a href="https://play.google.com/store/apps/details?id=donnaipe.europoly">Google Play</a>.</p>
+
+<p><img src="/images/europoly/europoly1.jpeg" alt="Europoly para Android" /></p>
+
+<p>Europoly es un juego de tablero para 2, 3 o 4 jugadores. Cada uno tiene una ficha con la que recorrer Europa. Si la ficha de un jugador cae en una casilla de una propiedad libre, puede comprarla o subastarla. Pero si dicha propiedad es de otro jugador, tendrá que pagar la renta al caer en ella. Así, el objetivo del juego es amasar capital hasta llevar a la bancarrota a los rivales.</p>
+
+<p><a href="https://www.youtube.com/watch?v=tl4SLCW2FN4"><img src="http://img.youtube.com/vi/tl4SLCW2FN4/0.jpg" alt="Vídeo de Europoly para Android" /></a></p>
+
+<p>El tablero está dividido en 40 casillas con ciudades y aeropuertos de Europa, una autopista, un ferry, casino, tarjetas lotería y una cárcel. Se juega por turnos, tirando dos dados para moverse por el tablero. Al pasar la Salida el jugador cobrará 5.000€. Si en una tirada se saca doble, el jugador tendrá una tirada más. Si saca tres dobles seguidos, irá a la cárcel.</p>
+
+<p><img src="/images/europoly/europoly2.jpeg" alt="Europoly para Android" /></p>
+
+<p>Las ciudades están organizadas en grupos que tienen el mismo color. El jugador que consiga todas las ciudades del grupo tendrá un monopolio y podrá construir casas, con lo que la renta a recibir será sustancialmente mayor. Las casillas de transporte no pueden mejorarse, pero la renta se incrementará según el número de ellas que se posea.</p>
+
+<p><img src="/images/europoly/logo_europoly.png" alt="Europoly para Android" /></p>
+
+<p>Si un jugador necesita dinero, puede hacer tratos con otros jugadores, vender sus casas a la banca o hipotecar sus propiedades. En las propiedades hipotecadas no se recibe renta, pero se puede quitar una hipoteca pagándose a la banca el importe estipulado. Si un jugador no tiene dinero suficiente como para saldar sus deudas (incluso vendiendo casas e hipotecando propiedades), deberá declarar la bancarrota. Gana la partida el último jugador con saldo positivo.</p>
+
+<p><img src="/images/europoly/europoly3.jpeg" alt="Europoly para Android" /></p>
+
+<p>Puede jugarse con otros bots o con humanos en el mismo dispositivo. Como siempre, he puesto mucho cuidado en la Inteligencia Artificial de los bots, ofreciendo tres niveles de dificultad diferentes. En el nivel más alto juegan de manera muy agresiva y son muy duros negociando. En el nivel intermedio son más relajados y te ofrecerán tratos con mejores condiciones. En el nivel más bajo son más blanditos y podrás conseguir tratos mucho más ventajosos para tus intereses.</p>
+
+<p><img src="/images/europoly/europoly4.jpeg" alt="Europoly para Android" /></p>
+
+<p>Pues todo esto y mucho más es el Europoly. Estoy particularmente orgulloso de este juego, las partidas resultan súper-entretenidas y siempre te quedan ganas de más. Además, las partidas son muy configurables (2-4 jugadores, diferentes niveles, humanos o no, avatares y nombres), por lo que pueden ajustarse bien a los diferentes jugadores.</p>
+
+<p><img src="/images/europoly/europoly5.jpeg" alt="Europoly para Android" /></p>
+
+<p>Además, el juego resulta muy educativo para aprender finanzas y geografía europea. Incluyo de nuevo <a href="https://play.google.com/store/apps/details?id=donnaipe.europoly">el enlace de descarga</a> para que no os lo paséis por alto.
+¡Espero que lo disfrutéis!</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Más Clásicos: El Parchís Para Android]]></title>
@@ -124,42 +162,6 @@
 <p><img src="/images/rapido/rapido3.jpeg" alt="Rápido Don Naipe para Android" /></p>
 
 <p>¿Suena interesante? Corre a <a href="https://play.google.com/store/apps/details?id=donnaipe.rapido">descargar Rápido Don Naipe en Google Play</a>. ¡Buen verano!</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Tute Cabrón Para Android: Desata Tu Lado Más Malvado]]></title>
-    <link href="http://donnaipe.com/blog/2015/05/30/tute-cabron-para-android-desata-tu-lado-mas-malvado/"/>
-    <updated>2015-05-30T17:59:33+02:00</updated>
-    <id>http://donnaipe.com/blog/2015/05/30/tute-cabron-para-android-desata-tu-lado-mas-malvado</id>
-    <content type="html"><![CDATA[<p>Volvemos a la carga con un bombazo: el <strong>Tute Cabrón</strong> para Android. Como seguramente ya sepáis, se trata de una conocida variante del tute que es todo un clásico de los juegos de baraja española. Podéis descargar <a href="https://play.google.com/store/apps/details?id=donnaipe.cabron">Tute Cabrón en Google Play</a>.</p>
-
-<p><img src="/images/tuteCabron/logoCabron.png" alt="Tute Cabrón para Android" /></p>
-
-<p>También llamado <em>tute pierde en medio</em>, se juega con una baraja española de 36 cartas (quitando los doses a la clásica de 40), disputándose un número indefinido de rondas hasta que haya un perdedor. En cada ronda se reparten todas las cartas y se juega con las reglas del tute. Al final de la ronda se hace un recuento y se penaliza con un tanto al jugador que obtuvo una puntuación intermedia. La partida termina cuando un jugador llega a un número predeterminado de tantos.</p>
-
-<p><img src="/images/tuteCabron/tuteCabron1.jpeg" alt="Tute Cabrón para Android" /></p>
-
-<p>Aunque la regla general es que pierde la ronda el jugador con la puntuación intermedia, hay tres notables excepciones:</p>
-
-<ol>
-<li>Si un jugador no hace baza, pierde</li>
-<li>Si un jugador hace más de 100 puntos, pierde (con la salvedad anterior)</li>
-<li>Si dos jugadores empatan, pierden (con las salvedades anteriores)</li>
-</ol>
-
-
-<p><img src="/images/tuteCabron/tuteCabron2.jpeg" alt="Tute Cabrón para Android" /></p>
-
-<p>Otra particularidad del tute cabrón es que se canta en mesa, es decir, al coincidir el rey y el caballo del mismo palo  en una baza. El primer cante se corresponderá con las cuarenta y a partir de ese momento será triunfo el palo del cante. Los siguientes cantes serán de veinte puntos. Los cantes es uno de los aspectos que añaden más interés al juego, ya que pueden hacer que se pase de puntos un jugador que va a más.</p>
-
-<p><img src="/images/tuteCabron/tuteCabron3.jpeg" alt="Tute Cabrón para Android" /></p>
-
-<p>De momento, sólo puede jugarse en modo individual, aunque la inteligencia artificial ha quedado muy lograda: los <em>bots</em> son unos auténticos cabronazos en el nivel de dificultad más alto&hellip;</p>
-
-<p><img src="/images/tuteCabron/tuteCabron4.jpeg" alt="Tute Cabrón para Android" /></p>
-
-<p>¡A disfrutar del juego del verano!</p>
 ]]></content>
   </entry>
   
