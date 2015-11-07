@@ -9,7 +9,8 @@
   <meta name="author" content="Don Naipe">
 
   
-  <meta name="description" content="El Parchís
+  <meta name="description" content="Europoly
+El Parchís
 Dominó en Parejas
 El Mus
 Tute a Cuatro
@@ -19,7 +20,7 @@ El Julepe
 Portugués Don Naipe
 Rápido Don Naipe
 Tute a Cuatro PRO
-La Pocha PRO &hellip;">
+La &hellip;">
   
 
   <!-- http://t.co/dKP3o1e -->
@@ -97,6 +98,7 @@ La Pocha PRO &hellip;">
 <link rel="stylesheet" href="/juegos/css/blueimp-gallery-indicator.css">
 
 <ul>
+<li><a href="#europoly">Europoly</a></li>
 <li><a href="#parchis">El Parchís</a></li>
 <li><a href="#domino">Dominó en Parejas</a></li>
 <li><a href="#mus">El Mus</a></li>
@@ -109,6 +111,54 @@ La Pocha PRO &hellip;">
 <li><a href="#tutePro">Tute a Cuatro PRO</a></li>
 <li><a href="#pochaPro">La Pocha PRO</a></li>
 </ul>
+
+<h2></h2>
+<h1>Europoly<a name="europoly"></a></h1>
+
+<p>Tira los dados, mueve tu ficha, compra propiedades, haz tratos, consigue monopolios, 
+construye casas y lleva a tus rivales a la bancarrota. Todo esto y mucho más es Europoly, 
+el juego de finanzas que te va a encantar.</p>
+
+<div style="float:right;clear:right;margin-left:30px">
+<a href="https://play.google.com/store/apps/details?id=donnaipe.europoly"><img alt="Disponible en Google Play"
+       src="https://developer.android.com/images/brand/es_generic_rgb_wo_60.png" /></a>
+</div>
+
+<p>Al Europoly pueden jugar de 2 a 4 jugadores, cada uno con una ficha para recorrer Europa. 
+Si la ficha de un jugador cae en una casilla de una propiedad libre, puede comprarla o 
+subastarla. Pero si dicha propiedad es de otro jugador, tendrá que pagar la renta al caer 
+en ella. Así, el objetivo del juego es amasar capital hasta llevar a la bancarrota a los rivales.</p>
+
+<div id="europoly-carousel" class="blueimp-gallery blueimp-gallery-carousel">
+    <div class="slides"></div>
+    <h3 class="title"></h3>
+    <a class="prev">‹</a>
+    <a class="next">›</a>
+    <a class="play-pause"></a>
+    <ol class="indicator"></ol>
+</div>
+
+<p>Europoly es muy configurable, permitiendo:</p>
+<ul>
+<li>Partidas de 2 a 4 jugadores</li>
+<li>Jugar varios humanos en el mismo dispositivo</li>
+<li>9 avatares para elegir</li>
+<li>Tres niveles de inteligencia artificial</li>
+<li>Modificar el dinero de partida</li>
+<li>Cambiar los colores de los avatares</li>
+<li>Ajustar la velocidad del juego</li>
+</ul>
+
+<p>Europoly está disponible para cualquier móvil o tableta Android (3.1 o superior). 
+Si tienes un dispositivo Android descárgate Europoly en 
+<a href="http://play.google.com/store/apps/details?id=donnaipe.europoly">Google Play</a>. Consulta
+<a href="/blog/2015/11/05/europoly-el-juego-de-finanzas-y-monopolios/">este post</a> para una descripción 
+más detallada de Europoly.</p>
+
+
+<br><br>
+
+
 
 <h2></h2>
 <h1>El Parchís<a name="parchis"></a></h1>
@@ -725,6 +775,15 @@ más detallada de Rápido Don Naipe.</p>
     <a href="/images/parchis/parchis5.jpeg"></a>            
 </div>
 
+<div id="enlaces_europoly">
+    <a href="/images/europoly/europoly1.jpeg"></a>
+    <a href="/images/europoly/europoly2.jpeg"></a>
+    <a href="/images/europoly/europoly3.jpeg"></a>
+    <a href="/images/europoly/europoly4.jpeg"></a>
+    <a href="/images/europoly/europoly5.jpeg"></a>
+    <a href="/images/europoly/europoly6.jpeg"></a>    
+</div>
+
 <script src="/juegos/js/blueimp-helper.js"></script>
 <script src="/juegos/js/blueimp-gallery.js"></script>
 <script src="/juegos/js/blueimp-gallery-indicator.js"></script>
@@ -822,6 +881,14 @@ blueimp.Gallery(
         carousel: true
     }
 );
+
+blueimp.Gallery(
+    document.getElementById('enlaces_europoly').getElementsByTagName('a'),
+    {
+        container: '#europoly-carousel',
+        carousel: true
+    }
+);
 </script>
 
 <script>
@@ -835,7 +902,8 @@ blueimp.Gallery(
   $("#enlaces_cabron").hide();  
   $("#enlaces_rapido").hide();
   $("#enlaces_domino").hide();  
-  $("#enlaces_parchis").hide();    
+  $("#enlaces_parchis").hide();  
+  $("#enlaces_europoly").hide();    
 </script>
 
   
