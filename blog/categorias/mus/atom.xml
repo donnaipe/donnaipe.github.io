@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Mus | Producciones Don Naipe]]></title>
   <link href="http://donnaipe.com/blog/categorias/mus/atom.xml" rel="self"/>
   <link href="http://donnaipe.com/"/>
-  <updated>2015-11-07T08:07:16+01:00</updated>
+  <updated>2015-11-14T23:16:28+01:00</updated>
   <id>http://donnaipe.com/</id>
   <author>
     <name><![CDATA[Don Naipe]]></name>
@@ -12,6 +12,22 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Actualizaciones De Tute a Cuatro Y El Mus]]></title>
+    <link href="http://donnaipe.com/blog/2015/11/14/actualizaciones-de-tute-a-cuatro-y-el-mus/"/>
+    <updated>2015-11-14T22:41:45+01:00</updated>
+    <id>http://donnaipe.com/blog/2015/11/14/actualizaciones-de-tute-a-cuatro-y-el-mus</id>
+    <content type="html"><![CDATA[<p>Estos últimos meses he estado muy ocupado preparando nuevos lanzamientos, con lo que tenía un poco descuidado mi catálogo. Así que he preparado un &ldquo;mini-sprint&rdquo; para mejorar <a href="https://play.google.com/store/apps/details?id=donnaipe.tutegratis">Tute a Cuatro</a>
+y <a href="https://play.google.com/store/apps/details?id=donnaipe.mus">El Mus</a>, mis juegos clásicos de Android.</p>
+
+<p>En el aspecto visual he introducido unas cuantas mejoras, especialmente en el reparto de cartas. También he incluido controles en el juego para ajustar la velocidad del mismo y para activar o desactivar el sonido. Además, he aprovechado para solucionar algunos errores y para hacer algunas mejoras en el rendimiento.</p>
+
+<p>Por último, una sorpresa para los jugadores de Tute a Cuatro: he incluido un nuevo nivel de dificultad (<em>Profesional</em>) en los bots. Así, podrán disputarse partidas con rivales de más calidad, mientras que el compañero contará a partir de ahora con una inteligencia artificial mejorada.</p>
+
+<p>Espero que disfrutéis estas actualizaciones.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Torneos Y Mucho Más en El Mus Para iOS]]></title>
@@ -113,31 +129,6 @@ ha publicado una <a href="http://www.androidizados.com/juegos/2014/11/16/mus-and
 
 <p>Muchísimas gracias a <a href="https://plus.google.com/106725688899407484281?rel=author">Raúl Núñez</a> de
 <a href="http://www.androidizados.com/">Androidizados</a> por un trabajo tan profesional (¡y en domingo!)</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Lanzamos El Mus en Android]]></title>
-    <link href="http://donnaipe.com/blog/2014/11/15/lanzamos-el-mus-en-android/"/>
-    <updated>2014-11-15T09:56:32+01:00</updated>
-    <id>http://donnaipe.com/blog/2014/11/15/lanzamos-el-mus-en-android</id>
-    <content type="html"><![CDATA[<p>Y tras una intensa temporada de desarrollo y pruebas, estoy orgulloso de anunciar el lanzamiento de <strong>El Mus para Android</strong>. Ya lo podéis  descargar de <a href="https://play.google.com/store/apps/details?id=donnaipe.mus">Google Store</a>, mientras que en la sección de <a href="/juegos">juegos para Android</a> podéis encontrar una descripción.</p>
-
-<p><img src="/images/mus/mus2.jpeg" alt="El Mus para Android" /></p>
-
-<p>En esta primera versión de El Mus sólo es posible el juego individual, pero he incluido 7 personajes que además juegan de manera diferente, según sus características. Como siempre, he trabajado con esmero la Inteligencia Artificial para que jueguen bien y no resulten aburridos. Y creo que el resultado es bastante satisfactorio: cortan el mus con criterio, farolean, se achantan&hellip;</p>
-
-<p><img src="/images/mus/mus4.jpeg" alt="El Mus para Android" /></p>
-
-<p>Por primera vez he incluido avatares en un juego. Ha sido muy divertido dibujarlos, aunque me ha llevado cierto trabajo. Además, ¡los avatares hacen señas! Y no sólo eso, sino que además se comportan de manera diferente según las señas detectadas al compañero y rivales.</p>
-
-<p><img src="/images/mus/mus3.jpeg" alt="El Mus para Android" /></p>
-
-<p>También he incluido unas cuantas frases populares del mus (bueno, algunas no tan populares), que se muestran según la situación. Algunas de estas frases se muestran en los pantallazos adjuntos a esta entrada.</p>
-
-<p><img src="/images/mus/mus8.jpeg" alt="El Mus para Android" /></p>
-
-<p>Y eso es todo por hoy, espero que paséis buenos ratos con El Mus.</p>
 ]]></content>
   </entry>
   
