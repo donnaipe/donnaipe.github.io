@@ -4,7 +4,7 @@
   <title><![CDATA[Producciones Don Naipe]]></title>
   <link href="http://donnaipe.com/atom.xml" rel="self"/>
   <link href="http://donnaipe.com/"/>
-  <updated>2015-12-04T18:48:06+01:00</updated>
+  <updated>2016-01-04T19:04:56+01:00</updated>
   <id>http://donnaipe.com/</id>
   <author>
     <name><![CDATA[Don Naipe]]></name>
@@ -12,6 +12,23 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Ya Está Aquí Tute en Medio Para iOS]]></title>
+    <link href="http://donnaipe.com/blog/2016/01/04/ya-esta-aqui-tute-en-medio-para-ios/"/>
+    <updated>2016-01-04T18:03:44+01:00</updated>
+    <id>http://donnaipe.com/blog/2016/01/04/ya-esta-aqui-tute-en-medio-para-ios</id>
+    <content type="html"><![CDATA[<p>Los últimos meses he estado muy ocupado sacando nuevos juegos para Android, a costa de descuidar sensiblemente el soporte para iOS. Así que he aprovechado las Navidades para poner un poco al día mi catálogo en iOS. Como resultado de este <em>sprint</em>, ya está listo el <strong>Tute en Medio</strong>. Podéis descargar <a href="https://itunes.apple.com/es/app/tute-medio/id1067332834?mt=8">Tute en Medio en el App Store</a>. Puede jugarse en dispositivos iPhone, iPad y iPod con iOS 7 o superior.</p>
+
+<p>También llamado &ldquo;Tute Cabrón&rdquo;, se trata de uno de los juegos clásicos de baraja española. Esta conversión es similar a la correspondiente en Android, así que podéis consultar las reglas y detalles del juego <a href="http://donnaipe.com/blog/2015/05/30/tute-cabron-para-android-desata-tu-lado-mas-malvado/">en este post</a>.</p>
+
+<p><img src="http://donnaipe.com/images/tuteCabronIOS/tuteCabronIOS.jpg" alt="Tute en Medio para iOS" /></p>
+
+<p>Tenía <strong>Tute en Medio</strong> preparado hace más de tres semanas, pero el lanzamiento se ha retrasado debido a un problema relacionado con el nombre: al igual que en Android, mi idea inicial era llamarlo <strong>Tute Cabrón</strong>, que es el nombre más común para este juego. Sin embargo, a los amigos del App Store no les convenció, así que me sugirieron que lo cambiara. Curiosamente, hice una consulta al App Store hace un mes acerca de la idoneidad del nombre de <strong>Tute Cabrón</strong> y no me dieron una respuesta muy clara. En fin, lo importante es que ya podéis disfrutar de <a href="https://itunes.apple.com/es/app/tute-medio/id1067332834?mt=8">Tute en Medio</a> en vuestros iPhones y iPads.</p>
+
+<p>Seguid a la escucha, porque en las próximas semanas habrá nuevos lanzamientos en iOS. ¡Que tengáis buenos reyes!</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[El Jugón Del Móvil Reseña El Europoly]]></title>
@@ -475,31 +492,6 @@ ha publicado una <a href="http://www.androidizados.com/juegos/2014/11/16/mus-and
 
 <p>Muchísimas gracias a <a href="https://plus.google.com/106725688899407484281?rel=author">Raúl Núñez</a> de
 <a href="http://www.androidizados.com/">Androidizados</a> por un trabajo tan profesional (¡y en domingo!)</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Lanzamos El Mus en Android]]></title>
-    <link href="http://donnaipe.com/blog/2014/11/15/lanzamos-el-mus-en-android/"/>
-    <updated>2014-11-15T09:56:32+01:00</updated>
-    <id>http://donnaipe.com/blog/2014/11/15/lanzamos-el-mus-en-android</id>
-    <content type="html"><![CDATA[<p>Y tras una intensa temporada de desarrollo y pruebas, estoy orgulloso de anunciar el lanzamiento de <strong>El Mus para Android</strong>. Ya lo podéis  descargar de <a href="https://play.google.com/store/apps/details?id=donnaipe.mus">Google Store</a>, mientras que en la sección de <a href="http://donnaipe.com/juegos">juegos para Android</a> podéis encontrar una descripción.</p>
-
-<p><img src="http://donnaipe.com/images/mus/mus2.jpeg" alt="El Mus para Android" /></p>
-
-<p>En esta primera versión de El Mus sólo es posible el juego individual, pero he incluido 7 personajes que además juegan de manera diferente, según sus características. Como siempre, he trabajado con esmero la Inteligencia Artificial para que jueguen bien y no resulten aburridos. Y creo que el resultado es bastante satisfactorio: cortan el mus con criterio, farolean, se achantan&hellip;</p>
-
-<p><img src="http://donnaipe.com/images/mus/mus4.jpeg" alt="El Mus para Android" /></p>
-
-<p>Por primera vez he incluido avatares en un juego. Ha sido muy divertido dibujarlos, aunque me ha llevado cierto trabajo. Además, ¡los avatares hacen señas! Y no sólo eso, sino que además se comportan de manera diferente según las señas detectadas al compañero y rivales.</p>
-
-<p><img src="http://donnaipe.com/images/mus/mus3.jpeg" alt="El Mus para Android" /></p>
-
-<p>También he incluido unas cuantas frases populares del mus (bueno, algunas no tan populares), que se muestran según la situación. Algunas de estas frases se muestran en los pantallazos adjuntos a esta entrada.</p>
-
-<p><img src="http://donnaipe.com/images/mus/mus8.jpeg" alt="El Mus para Android" /></p>
-
-<p>Y eso es todo por hoy, espero que paséis buenos ratos con El Mus.</p>
 ]]></content>
   </entry>
   
