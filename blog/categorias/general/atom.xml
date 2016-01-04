@@ -4,7 +4,7 @@
   <title><![CDATA[Category: General | Producciones Don Naipe]]></title>
   <link href="http://donnaipe.com/blog/categorias/general/atom.xml" rel="self"/>
   <link href="http://donnaipe.com/"/>
-  <updated>2016-01-04T19:04:56+01:00</updated>
+  <updated>2016-01-04T20:47:15+01:00</updated>
   <id>http://donnaipe.com/</id>
   <author>
     <name><![CDATA[Don Naipe]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Feliz Y Próspero Año Nuevo]]></title>
+    <link href="http://donnaipe.com/blog/2016/01/04/feliz-y-prospero-ano-nuevo/"/>
+    <updated>2016-01-04T20:44:56+01:00</updated>
+    <id>http://donnaipe.com/blog/2016/01/04/feliz-y-prospero-ano-nuevo</id>
+    <content type="html"><![CDATA[<p><img src="/images/felicianoDonNaipe2016.png" alt="Feliz 2016" /></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Ya Está Aquí Tute en Medio Para iOS]]></title>
@@ -92,43 +101,6 @@ y <a href="https://play.google.com/store/apps/details?id=donnaipe.mus">El Mus</a
 
 <p>Y por si fuera poco, puede aprenderse mucho con este juego: finanzas, geografía, habilidades de negociación&hellip; Incluyo de nuevo <a href="https://play.google.com/store/apps/details?id=donnaipe.europoly">el enlace de descarga</a> para que no os lo paséis por alto.
 ¡Espero que lo disfrutéis!</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Más Clásicos: El Parchís Para Android]]></title>
-    <link href="http://donnaipe.com/blog/2015/09/02/mas-clasicos-el-parchis-para-android/"/>
-    <updated>2015-09-02T09:38:51+02:00</updated>
-    <id>http://donnaipe.com/blog/2015/09/02/mas-clasicos-el-parchis-para-android</id>
-    <content type="html"><![CDATA[<p>El juego que os traigo hoy no necesita presentación. Se trata de <strong>El Parchís</strong> para Android, disponible en <a href="https://play.google.com/store/apps/details?id=donnaipe.parchis">Google Play</a>. Nos alejamos un poco de nuestra zona de confort, los juegos de cartas, y hacemos una pequeña incursión en los juegos de tablero.</p>
-
-<p><img src="/images/parchis/logoParchis.png" alt="El Parchís para Android" /></p>
-
-<p><strong>El Parchís</strong> es una conversión del juego homónimo, que es especialmente popular en España. He intentado capturar la esencia del juego y permitir un grado bastante alto de configurabilidad para que pueda adaptarse a todos los paladares.</p>
-
-<p><a href="https://www.youtube.com/watch?v=4OpdQts7q8Y"><img src="http://img.youtube.com/vi/4OpdQts7q8Y/0.jpg" alt="Vídeo de El Parchís para Android" /></a></p>
-
-<p>Se incluyen 9 avatares para los jugadores y muchas frases del parchís que se presentan en los momentos del juego adecuados. Estoy contento con el resultado, que creo se asemeja bastante al de una partida con amigos en un tablero físico.</p>
-
-<p><img src="/images/parchis/parchis1.jpeg" alt="El Parchís para Android" /></p>
-
-<p>Pero, además, es posible jugar varios humanos en el mismo dispositivo. Esta opción resultará especialmente interesante con tabletas. Hay bots para el resto de jugadores y con tres niveles de inteligencia artificial, con lo que puede ajustarse bastante bien la dificultad de la partida. En el nivel más bajo los bots juegan de manera básica; de hecho, algunas veces se les pasa comer las fichas de los adversarios. En el nivel más alto los bots juegan muy bien, y supone todo un reto ganar.</p>
-
-<p><img src="/images/parchis/parchis2.jpeg" alt="El Parchís para Android" /></p>
-
-<p>Otra opción interesante es la de parar el dado. Ésta opción es una ayuda para los jugadores humanos y permite parar el dado pulsando en la pantalla. El dado gira rápido, así que hay que hacerlo en el momento adecuado. Si eres hábil podrás manejar la suerte a tu favor.</p>
-
-<p><img src="/images/parchis/parchis3.jpeg" alt="El Parchís para Android" /></p>
-
-<p>El inicio de la partida también se puede configurar al gusto: modo clásico, una ficha fuera, dos fuera o dos fichas fuera con el primer 5. También puede ajustarse la velocidad general del juego y habilitar o no los sonidos. He puesto efectos de sonido nuevos, que espero que os gusten.</p>
-
-<p>Por último, puede jugarse al parchís en modo individual y cooperativo. En este último caso, gana el equipo que consigue meter sus 8 fichas en la meta. Los jugadores que terminan toman el control de las fichas del compañero para ayudarle a terminar.</p>
-
-<p><img src="/images/parchis/parchis4.jpeg" alt="El Parchís para Android" /></p>
-
-<p>Ahora sólo falta que os guste el juego. Podéis <a href="https://play.google.com/store/apps/details?id=donnaipe.parchis">descargar El Parchís en Google Play</a>. ¡Empezad a agitar vuestros cubiletes!</p>
-
-<p><em>Bonus track</em>: fijaos en las frases de los avatares con las que introducen una cuña publicitaria.</p>
 ]]></content>
   </entry>
   
