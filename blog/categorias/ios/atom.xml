@@ -4,7 +4,7 @@
   <title><![CDATA[Category: iOS | Producciones Don Naipe]]></title>
   <link href="http://donnaipe.com/blog/categorias/ios/atom.xml" rel="self"/>
   <link href="http://donnaipe.com/"/>
-  <updated>2016-01-04T20:59:16+01:00</updated>
+  <updated>2016-01-10T08:37:51+01:00</updated>
   <id>http://donnaipe.com/</id>
   <author>
     <name><![CDATA[Don Naipe]]></name>
@@ -12,6 +12,21 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Dominó en Parejas Por Fin en iOS]]></title>
+    <link href="http://donnaipe.com/blog/2016/01/10/domino-en-parejas-por-fin-en-ios/"/>
+    <updated>2016-01-10T08:22:25+01:00</updated>
+    <id>http://donnaipe.com/blog/2016/01/10/domino-en-parejas-por-fin-en-ios</id>
+    <content type="html"><![CDATA[<p>Seguimos poniendo al día el catálogo de iOS. Esta vez os traigo <strong>Dominó en Parejas</strong>, el juego clásico de dominó en España. Podéis descargar <a href="https://itunes.apple.com/es/app/partnership-dominoes/id1070659362?mt=8">Dominó en Parejas en el App Store</a>. Puede jugarse en dispositivos iPhone, iPad y iPod con iOS 7 o superior.</p>
+
+<p><img src="/images/dominoIOS/dominoIOS.jpg" alt="Dominó en Parejas para iOS" /></p>
+
+<p>Esta conversión es muy similar a mi juego <strong>Dominó en Parejas</strong> para Android, así que os remito a <a href="/blog/2015/07/31/nuevo-lanzamiento-domino-en-parejas/">este post</a> para consultar las reglas y descripción del mismo.</p>
+
+<p>Tengo otro nuevo juego para iOS a punto de salir, así que no os vayáis muy lejos.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Ya Está Aquí Tute en Medio Para iOS]]></title>
@@ -93,22 +108,6 @@
 <img src="/images/musIOS/musIOS2.jpg" alt="El Mus en iPhone" /></p>
 
 <p>Espero que lo disfrutéis.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[La Pocha PRO Disponible en El App Store]]></title>
-    <link href="http://donnaipe.com/blog/2014/06/28/la-pocha-pro-disponible-en-el-app-store/"/>
-    <updated>2014-06-28T09:13:24+02:00</updated>
-    <id>http://donnaipe.com/blog/2014/06/28/la-pocha-pro-disponible-en-el-app-store</id>
-    <content type="html"><![CDATA[<p>Y tras unos días de espera los de Apple han aprobado la versión PRO de La Pocha. Si tienes un iPhone, iPad o iPod con sistema operativo iOS 7.x ya puedes comprar <a href="https://itunes.apple.com/es/app/la-pocha-pro/id890431122?mt=8">La Pocha PRO en el App Store</a>.</p>
-
-<p>(Echad un vistazo al editor de pochas de La Pocha PRO)
-<img src="/images/pochaIOS/pochaproIOS6.jpg" alt="La Pocha PRO en iPhone" /></p>
-
-<p>Con este <em>sprint</em> cerramos el curso y damos la bienvenida a las vacaciones. No os quejéis, que tenéis la pocha y el tute para los ratos de ocio.</p>
-
-<p>¡Disfrutad del verano!</p>
 ]]></content>
   </entry>
   
