@@ -4,7 +4,7 @@
   <title><![CDATA[Category: General | Producciones Don Naipe]]></title>
   <link href="http://donnaipe.com/blog/categorias/general/atom.xml" rel="self"/>
   <link href="http://donnaipe.com/"/>
-  <updated>2016-01-10T08:37:51+01:00</updated>
+  <updated>2016-01-17T09:17:23+01:00</updated>
   <id>http://donnaipe.com/</id>
   <author>
     <name><![CDATA[Don Naipe]]></name>
@@ -12,6 +12,21 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Llega El Parchís Al App Store]]></title>
+    <link href="http://donnaipe.com/blog/2016/01/17/llega-el-parchis-al-app-store/"/>
+    <updated>2016-01-17T09:07:44+01:00</updated>
+    <id>http://donnaipe.com/blog/2016/01/17/llega-el-parchis-al-app-store</id>
+    <content type="html"><![CDATA[<p>Una semana más, un nuevo lanzamiento. Esta vez toca <strong>El Parchís</strong>, todo un clásico: <a href="https://itunes.apple.com/es/app/el-parchis/id1071095103?mt=8">El Parchís en el App Store</a>. Puede jugarse en dispositivos iPhone, iPad y iPod con iOS 7 o superior.</p>
+
+<p><img src="/images/parchisIOS/parchisIOS.jpg" alt="El Parchís para iOS" /></p>
+
+<p>Podéis encontrar más información del juego en la versión de <strong>El Parchís</strong> para Android de <a href="/blog/2015/09/02/mas-clasicos-el-parchis-para-android/">este post</a>.</p>
+
+<p>Espero que lo disfrutéis.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Dominó en Parejas Por Fin en iOS]]></title>
@@ -62,22 +77,6 @@
     <content type="html"><![CDATA[<p><a href="http://www.eljugondemovil.com/">El Jugón del Móvil</a> ha probado mi juego <a href="https://play.google.com/store/apps/details?id=donnaipe.europoly">Europoly para Android</a>, del que os he hablado <a href="http://donnaipe.com/blog/2015/11/05/europoly-el-juego-de-finanzas-y-monopolios/">aquí</a>.</p>
 
 <p>Parece que al jugón del móvil le ha gustado el Europoly. Podéis leer la reseña en <a href="http://www.eljugondemovil.com/europoly-juego-de-mesa/">este enlace</a>. Gracias al jugón por su página y por su sección de <em>indies</em>.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Actualizaciones De Tute a Cuatro Y El Mus]]></title>
-    <link href="http://donnaipe.com/blog/2015/11/14/actualizaciones-de-tute-a-cuatro-y-el-mus/"/>
-    <updated>2015-11-14T22:41:45+01:00</updated>
-    <id>http://donnaipe.com/blog/2015/11/14/actualizaciones-de-tute-a-cuatro-y-el-mus</id>
-    <content type="html"><![CDATA[<p>Estos últimos meses he estado muy ocupado preparando nuevos lanzamientos, con lo que tenía un poco descuidado mi catálogo. Así que he preparado un &ldquo;mini-sprint&rdquo; para mejorar <a href="https://play.google.com/store/apps/details?id=donnaipe.tutegratis">Tute a Cuatro</a>
-y <a href="https://play.google.com/store/apps/details?id=donnaipe.mus">El Mus</a>, mis juegos clásicos de Android.</p>
-
-<p>En el aspecto visual he introducido unas cuantas mejoras, especialmente en el reparto de cartas. También he incluido controles en el juego para ajustar la velocidad del mismo y para activar o desactivar el sonido. Además, he aprovechado para solucionar algunos errores y para hacer algunas mejoras en el rendimiento.</p>
-
-<p>Por último, una sorpresa para los jugadores de Tute a Cuatro: he incluido un nuevo nivel de dificultad (<em>Profesional</em>) en los bots. Así, podrán disputarse partidas con rivales de más calidad, mientras que el compañero contará a partir de ahora con una inteligencia artificial mejorada.</p>
-
-<p>Espero que disfrutéis estas actualizaciones.</p>
 ]]></content>
   </entry>
   

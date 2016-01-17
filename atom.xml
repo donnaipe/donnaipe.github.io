@@ -4,7 +4,7 @@
   <title><![CDATA[Producciones Don Naipe]]></title>
   <link href="http://donnaipe.com/atom.xml" rel="self"/>
   <link href="http://donnaipe.com/"/>
-  <updated>2016-01-10T08:37:51+01:00</updated>
+  <updated>2016-01-17T09:17:23+01:00</updated>
   <id>http://donnaipe.com/</id>
   <author>
     <name><![CDATA[Don Naipe]]></name>
@@ -12,6 +12,21 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Llega El Parchís Al App Store]]></title>
+    <link href="http://donnaipe.com/blog/2016/01/17/llega-el-parchis-al-app-store/"/>
+    <updated>2016-01-17T09:07:44+01:00</updated>
+    <id>http://donnaipe.com/blog/2016/01/17/llega-el-parchis-al-app-store</id>
+    <content type="html"><![CDATA[<p>Una semana más, un nuevo lanzamiento. Esta vez toca <strong>El Parchís</strong>, todo un clásico: <a href="https://itunes.apple.com/es/app/el-parchis/id1071095103?mt=8">El Parchís en el App Store</a>. Puede jugarse en dispositivos iPhone, iPad y iPod con iOS 7 o superior.</p>
+
+<p><img src="http://donnaipe.com/images/parchisIOS/parchisIOS.jpg" alt="El Parchís para iOS" /></p>
+
+<p>Podéis encontrar más información del juego en la versión de <strong>El Parchís</strong> para Android de <a href="http://donnaipe.com/blog/2015/09/02/mas-clasicos-el-parchis-para-android/">este post</a>.</p>
+
+<p>Espero que lo disfrutéis.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Dominó en Parejas Por Fin en iOS]]></title>
@@ -451,40 +466,6 @@ y <a href="https://play.google.com/store/apps/details?id=donnaipe.mus">El Mus</a
 <p><img src="http://donnaipe.com/images/mus/masMus.jpeg" alt="Estadísticas El Mus" /></p>
 
 <p>Aún así se han quedado unas cuantas cosas pendientes, como introducir la variante de 4 reyes -la dinámica de juego es diferente de la de 8 reyes, por lo que necesito documentarme un poco antes de cometer &ldquo;barbaridades&rdquo;. Tengo bastantes ganas de incluir el modo multijugador, pero necesito tiempo para hacerlo en condiciones. Mientras tanto, espero que estas novedades sirvan para ir abriendo boca. ¡Que lo disfrutéis!</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Estrenamos Marcadores, Estadísticas Y Logros en La Pocha Y La Pocha PRO]]></title>
-    <link href="http://donnaipe.com/blog/2015/01/08/estrenamos-marcadores/"/>
-    <updated>2015-01-08T16:20:46+01:00</updated>
-    <id>http://donnaipe.com/blog/2015/01/08/estrenamos-marcadores</id>
-    <content type="html"><![CDATA[<p>Y para finalizar el &ldquo;sprint&rdquo; navideño, he preparado la primera actualización de <strong>La Pocha y La Pocha PRO para Android</strong>. Aunque hay unas cuantas mejoras, los cambios principales son los siguientes:</p>
-
-<ul>
-<li>Estadísticas: en las de partida se incluye la posición final y el porcentaje tanto de manera global como para cada uno de los tipos de partida jugados. Además, se muestran las estadísticas relativas a las manos: número y porcentaje de aciertos, las manos acertadas siendo postre, el promedio de bazas pedidas, bazas hechas y de puntos. Además, se desglosan por cada tipo de mano: UNO, SUBIENDO, SIN PALO, etc.</li>
-</ul>
-
-
-<p><img src="http://donnaipe.com/images/pocha/pochaEstad.jpg" alt="Estadísticas La Pocha" /></p>
-
-<ul>
-<li>Logros: hay 18 diferentes, como los que se muestran en la figura adjunta. A ver si conseguís desbloquearlos todos&hellip;</li>
-</ul>
-
-
-<p><img src="http://donnaipe.com/images/pocha/pochaLogros.jpg" alt="Logros La Pocha" /></p>
-
-<ul>
-<li>Clasificaciones: ¡el &ldquo;Pochómetro&rdquo; se hace realidad! Se consiguen puntos en el pochómetro según la posición obtenida al final de la partida, la dificultad (más en el nivel difícil) y el tipo de partida (más en la pocha olímpica que en la corta). Hay otra clasificación con el total de puntos conseguidos. Finalmente, he incluido tres clasificaciones adicionales con las mejores puntuaciones de la pocha corta, la pocha normal y la pocha olímpica.</li>
-</ul>
-
-
-<p><img src="http://donnaipe.com/images/pocha/pochaClasif.jpg" alt="Clasificaciones La Pocha" /></p>
-
-<p>Hay otras pequeñas mejoras en el apartado gráfico como la animación de barajeo, o los menús de apuesta, que creo que ahora son un poco más claros (especialmente en el caso de la SUBASTA).</p>
-
-<p>Espero que os gusten estos cambios. ¡A ver quién consigue posicionarse primero en el pochómetro y el resto de marcadores!</p>
 ]]></content>
   </entry>
   

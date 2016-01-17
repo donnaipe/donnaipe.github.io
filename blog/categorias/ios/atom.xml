@@ -4,7 +4,7 @@
   <title><![CDATA[Category: iOS | Producciones Don Naipe]]></title>
   <link href="http://donnaipe.com/blog/categorias/ios/atom.xml" rel="self"/>
   <link href="http://donnaipe.com/"/>
-  <updated>2016-01-10T08:37:51+01:00</updated>
+  <updated>2016-01-17T09:17:23+01:00</updated>
   <id>http://donnaipe.com/</id>
   <author>
     <name><![CDATA[Don Naipe]]></name>
@@ -12,6 +12,21 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Llega El Parchís Al App Store]]></title>
+    <link href="http://donnaipe.com/blog/2016/01/17/llega-el-parchis-al-app-store/"/>
+    <updated>2016-01-17T09:07:44+01:00</updated>
+    <id>http://donnaipe.com/blog/2016/01/17/llega-el-parchis-al-app-store</id>
+    <content type="html"><![CDATA[<p>Una semana más, un nuevo lanzamiento. Esta vez toca <strong>El Parchís</strong>, todo un clásico: <a href="https://itunes.apple.com/es/app/el-parchis/id1071095103?mt=8">El Parchís en el App Store</a>. Puede jugarse en dispositivos iPhone, iPad y iPod con iOS 7 o superior.</p>
+
+<p><img src="/images/parchisIOS/parchisIOS.jpg" alt="El Parchís para iOS" /></p>
+
+<p>Podéis encontrar más información del juego en la versión de <strong>El Parchís</strong> para Android de <a href="/blog/2015/09/02/mas-clasicos-el-parchis-para-android/">este post</a>.</p>
+
+<p>Espero que lo disfrutéis.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Dominó en Parejas Por Fin en iOS]]></title>
@@ -90,24 +105,6 @@
 <p><img src="/images/musIOS/musIOS6.jpg" alt="El Mus en iPhone" /></p>
 
 <p>¡Que lo disfrutéis!</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Y Con Los Reyes Llega El Mus Para iPhone Y iPad]]></title>
-    <link href="http://donnaipe.com/blog/2015/01/06/y-con-los-reyes-llega-el-mus-para-iphone-y-ipad/"/>
-    <updated>2015-01-06T22:47:27+01:00</updated>
-    <id>http://donnaipe.com/blog/2015/01/06/y-con-los-reyes-llega-el-mus-para-iphone-y-ipad</id>
-    <content type="html"><![CDATA[<p>Hoy mismo los del Apple Store han aprobado el lanzamiento de <a href="https://itunes.apple.com/es/app/mus-don-naipe/id954161061?mt=8">El Mus para iOS</a>. Así que los Reyes han llegado por fin a todos los de iPhone, iPad y iPod.</p>
-
-<p>Esta versión de El Mus es similar a la que saqué para Android hace casi dos meses, por lo que podéis consultar los detalles <a href="/blog/2014/11/15/lanzamos-el-mus-en-android/">en  este post</a>.</p>
-
-<p>Os dejo un par de capturas de pantalla de <strong>El Mus</strong> para iPhone 6.</p>
-
-<p><img src="/images/musIOS/musIOS1.jpg" alt="El Mus en iPhone" />
-<img src="/images/musIOS/musIOS2.jpg" alt="El Mus en iPhone" /></p>
-
-<p>Espero que lo disfrutéis.</p>
 ]]></content>
   </entry>
   
