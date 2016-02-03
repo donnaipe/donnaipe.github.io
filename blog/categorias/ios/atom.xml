@@ -4,7 +4,7 @@
   <title><![CDATA[Category: iOS | Producciones Don Naipe]]></title>
   <link href="http://donnaipe.com/blog/categorias/ios/atom.xml" rel="self"/>
   <link href="http://donnaipe.com/"/>
-  <updated>2016-01-17T09:17:23+01:00</updated>
+  <updated>2016-02-03T19:10:31+01:00</updated>
   <id>http://donnaipe.com/</id>
   <author>
     <name><![CDATA[Don Naipe]]></name>
@@ -12,6 +12,23 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Europoly Para iOS: El Juego De Finanzas Y Monopolios]]></title>
+    <link href="http://donnaipe.com/blog/2016/02/03/europoly-para-ios-el-juego-de-finanzas-y-monopolios/"/>
+    <updated>2016-02-03T16:55:25+01:00</updated>
+    <id>http://donnaipe.com/blog/2016/02/03/europoly-para-ios-el-juego-de-finanzas-y-monopolios</id>
+    <content type="html"><![CDATA[<p>¡Por fin está listo <strong>Europoly</strong> para iOS!: <a href="https://itunes.apple.com/es/app/europoly/id1077045179?mt=8">Europoly en el App Store</a>. Puede jugarse en dispositivos iPhone, iPad y iPod con iOS 7 o superior.</p>
+
+<p><img src="/images/europolyIOS/europolyIOS.png" alt="Europoly para iOS" /></p>
+
+<p>Este juego es similar a la versión de <strong>Europoly</strong> para Android de <a href="/blog/2015/11/05/europoly-el-juego-de-finanzas-y-monopolios/">este post</a>.</p>
+
+<p>Y con esto finaliza un intenso <em>sprint</em> de puesta al día del catálogo de iOS. Lamentablemente no he tenido tiempo de incluir <a href="/blog/2015/05/11/el-portugues-un-gran-juego-de-cartas-para-android/">el Portugués</a> y <a href="/blog/2015/06/26/pon-a-prueba-tus-reflejos-con-rapido-don-naipe/">Rápido</a>, pero espero hacerlo en el futuro.</p>
+
+<p>¡Disfrutad del Europoly!</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Llega El Parchís Al App Store]]></title>
@@ -72,37 +89,6 @@
 <p>También adjunto una captura de pantalla de <strong>Julepe</strong> para iPhone 6.</p>
 
 <p><img src="/images/julepeIOS/julepeIOS1.jpg" alt="Julepe en iPhone" /></p>
-
-<p>¡Que lo disfrutéis!</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Torneos Y Mucho Más en El Mus Para iOS]]></title>
-    <link href="http://donnaipe.com/blog/2015/05/21/torneos-y-mucho-mas-en-el-mus-para-ios/"/>
-    <updated>2015-05-21T10:10:33+02:00</updated>
-    <id>http://donnaipe.com/blog/2015/05/21/torneos-y-mucho-mas-en-el-mus-para-ios</id>
-    <content type="html"><![CDATA[<p>Ya está lista la primera actualización de <a href="https://itunes.apple.com/es/app/mus-don-naipe/id954161061?mt=8">El Mus para iOS</a>. La lista de novedades no es pequeña, echadle un vistazo:</p>
-
-<p><img src="/images/musIOS/musIOS7.jpg" alt="El Mus en iPhone" /></p>
-
-<ul>
-<li>Torneo de mus de Don Naipe</li>
-<li>Inteligencia Artificial mejorada</li>
-<li>Se graba la última partida</li>
-<li>Pistas visuales de quién es mano y de quién corta el mus</li>
-<li>¿Tu compañero es un bocazas? Hazle callar</li>
-<li>Tutorial de El Mus con las señas</li>
-<li>Controles de volumen de sonido activados</li>
-<li>Multitud de pequeñas mejoras</li>
-</ul>
-
-
-<p><img src="/images/musIOS/musIOS9.jpg" alt="El Mus en iPhone" /></p>
-
-<p>Todavía quedan cosas por hacer, como la real, la versión de 4 reyes o el modo multijugador, pero espero que estas mejoras resulten interesantes.</p>
-
-<p><img src="/images/musIOS/musIOS6.jpg" alt="El Mus en iPhone" /></p>
 
 <p>¡Que lo disfrutéis!</p>
 ]]></content>

@@ -4,7 +4,7 @@
   <title><![CDATA[Category: General | Producciones Don Naipe]]></title>
   <link href="http://donnaipe.com/blog/categorias/general/atom.xml" rel="self"/>
   <link href="http://donnaipe.com/"/>
-  <updated>2016-01-17T09:17:23+01:00</updated>
+  <updated>2016-02-03T19:10:31+01:00</updated>
   <id>http://donnaipe.com/</id>
   <author>
     <name><![CDATA[Don Naipe]]></name>
@@ -12,6 +12,23 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Europoly Para iOS: El Juego De Finanzas Y Monopolios]]></title>
+    <link href="http://donnaipe.com/blog/2016/02/03/europoly-para-ios-el-juego-de-finanzas-y-monopolios/"/>
+    <updated>2016-02-03T16:55:25+01:00</updated>
+    <id>http://donnaipe.com/blog/2016/02/03/europoly-para-ios-el-juego-de-finanzas-y-monopolios</id>
+    <content type="html"><![CDATA[<p>¡Por fin está listo <strong>Europoly</strong> para iOS!: <a href="https://itunes.apple.com/es/app/europoly/id1077045179?mt=8">Europoly en el App Store</a>. Puede jugarse en dispositivos iPhone, iPad y iPod con iOS 7 o superior.</p>
+
+<p><img src="/images/europolyIOS/europolyIOS.png" alt="Europoly para iOS" /></p>
+
+<p>Este juego es similar a la versión de <strong>Europoly</strong> para Android de <a href="/blog/2015/11/05/europoly-el-juego-de-finanzas-y-monopolios/">este post</a>.</p>
+
+<p>Y con esto finaliza un intenso <em>sprint</em> de puesta al día del catálogo de iOS. Lamentablemente no he tenido tiempo de incluir <a href="/blog/2015/05/11/el-portugues-un-gran-juego-de-cartas-para-android/">el Portugués</a> y <a href="/blog/2015/06/26/pon-a-prueba-tus-reflejos-con-rapido-don-naipe/">Rápido</a>, pero espero hacerlo en el futuro.</p>
+
+<p>¡Disfrutad del Europoly!</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Llega El Parchís Al App Store]]></title>
@@ -66,17 +83,6 @@
 <p>Tenía <strong>Tute en Medio</strong> preparado hace más de tres semanas, pero el lanzamiento se ha retrasado debido a un problema relacionado con el nombre: al igual que en Android, mi idea inicial era llamarlo <strong>Tute Cabrón</strong>, que es el nombre más común para este juego. Sin embargo, a los amigos del App Store no les convenció, así que me sugirieron que lo cambiara. Curiosamente, hice una consulta al App Store hace un mes acerca de la idoneidad del nombre de <strong>Tute Cabrón</strong> y no me dieron una respuesta muy clara. En fin, lo importante es que ya podéis disfrutar de <a href="https://itunes.apple.com/es/app/tute-medio/id1067332834?mt=8">Tute en Medio</a> en vuestros iPhones y iPads.</p>
 
 <p>Seguid a la escucha, porque en las próximas semanas habrá nuevos lanzamientos en iOS. ¡Que tengáis buenos reyes!</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[El Jugón Del Móvil Reseña El Europoly]]></title>
-    <link href="http://donnaipe.com/blog/2015/11/15/el-jugon-del-movil-resena-el-europoly/"/>
-    <updated>2015-11-15T09:33:30+01:00</updated>
-    <id>http://donnaipe.com/blog/2015/11/15/el-jugon-del-movil-resena-el-europoly</id>
-    <content type="html"><![CDATA[<p><a href="http://www.eljugondemovil.com/">El Jugón del Móvil</a> ha probado mi juego <a href="https://play.google.com/store/apps/details?id=donnaipe.europoly">Europoly para Android</a>, del que os he hablado <a href="http://donnaipe.com/blog/2015/11/05/europoly-el-juego-de-finanzas-y-monopolios/">aquí</a>.</p>
-
-<p>Parece que al jugón del móvil le ha gustado el Europoly. Podéis leer la reseña en <a href="http://www.eljugondemovil.com/europoly-juego-de-mesa/">este enlace</a>. Gracias al jugón por su página y por su sección de <em>indies</em>.</p>
 ]]></content>
   </entry>
   
