@@ -4,7 +4,7 @@
   <title><![CDATA[Producciones Don Naipe]]></title>
   <link href="http://donnaipe.com/atom.xml" rel="self"/>
   <link href="http://donnaipe.com/"/>
-  <updated>2016-02-03T19:10:31+01:00</updated>
+  <updated>2016-02-14T11:14:16+01:00</updated>
   <id>http://donnaipe.com/</id>
   <author>
     <name><![CDATA[Don Naipe]]></name>
@@ -12,6 +12,17 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Segundo Año De Producciones Don Naipe]]></title>
+    <link href="http://donnaipe.com/blog/2016/02/14/segundo-ano-de-producciones-don-naipe/"/>
+    <updated>2016-02-14T11:03:01+01:00</updated>
+    <id>http://donnaipe.com/blog/2016/02/14/segundo-ano-de-producciones-don-naipe</id>
+    <content type="html"><![CDATA[<p>¡Segundo año de Producciones Don Naipe! Este segundo año ha sido un no parar con muchos juegos nuevos: Julepe, Rápido, Portugués, Tute Cabrón, Dominó en Parejas, Parchís y Europoly. Cada vez tenemos más jugadores y también más responsabilidad para no decepcionaros. Así que a celebrar por todo lo alto el aniversario. ¡Y feliz San Valentín a todos!</p>
+
+<p><img src="http://donnaipe.com/images/flores.jpg" alt="Flores" /></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Europoly Para iOS: El Juego De Finanzas Y Monopolios]]></title>
@@ -427,21 +438,6 @@ y <a href="https://play.google.com/store/apps/details?id=donnaipe.mus">El Mus</a
     <content type="html"><![CDATA[<p>Un amigo me acaba de pasar la foto de Manuela echando un tute vespertino. Con sus estupendos 99 años, seguramente se trate de la jugadora de <a href="https://play.google.com/store/apps/details?id=donnaipe.tutegratis">Tute a Cuatro</a> más veterana. Un abrazo para Manuela y a seguir haciendo cantera :)</p>
 
 <p><img src="http://donnaipe.com/images/manuela.jpg" alt="Manuela" /></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Primer Año De Don Naipe]]></title>
-    <link href="http://donnaipe.com/blog/2015/02/13/primer-ano-de-don-naipe/"/>
-    <updated>2015-02-13T22:12:01+01:00</updated>
-    <id>http://donnaipe.com/blog/2015/02/13/primer-ano-de-don-naipe</id>
-    <content type="html"><![CDATA[<p>¡Estamos de aniversario! Ya ha pasado un año desde que encendimos las máquinas con Producciones Don Naipe y el lanzamiento de <a href="https://play.google.com/store/apps/details?id=donnaipe.tutegratis">Tute a Cuatro para Android</a>.</p>
-
-<p>La verdad es que ha sido un año de actividad frenética con el desarrollo del tute para Android e iOS, seguido de La Pocha, El Mus, las actualizaciones&hellip; Pero lo más importante es que los juegos de la factoría están teniendo cierta aceptación, lo cual me anima mucho a seguir adelante con este proyecto.</p>
-
-<p>Así que vamos a celebrar este primer año como se merece. Esta vez nada de capturas de pantallas. ¡Rosas de San Valentín para todos!</p>
-
-<p><img src="http://donnaipe.com/images/rosas.jpg" alt="Rosas" /></p>
 ]]></content>
   </entry>
   
