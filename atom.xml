@@ -4,7 +4,7 @@
   <title><![CDATA[Producciones Don Naipe]]></title>
   <link href="http://donnaipe.com/atom.xml" rel="self"/>
   <link href="http://donnaipe.com/"/>
-  <updated>2016-02-14T11:14:16+01:00</updated>
+  <updated>2016-03-01T20:54:22+01:00</updated>
   <id>http://donnaipe.com/</id>
   <author>
     <name><![CDATA[Don Naipe]]></name>
@@ -12,6 +12,27 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Renovamos El Mus Para Android]]></title>
+    <link href="http://donnaipe.com/blog/2016/03/01/renovamos-el-mus-para-android/"/>
+    <updated>2016-03-01T19:54:30+01:00</updated>
+    <id>http://donnaipe.com/blog/2016/03/01/renovamos-el-mus-para-android</id>
+    <content type="html"><![CDATA[<p>Tengo novedades muy importantes en <a href="https://play.google.com/store/apps/details?id=donnaipe.mus">El Mus</a> para Android. Aunque el juego en sí creo que es bastante entretenido, me da la sensación de que la interacción con el compañero es algo limitada. Pensando en cómo mejorar esto, se me ocurrió que los bots podrían consultar a los compañeros en determinados momentos.</p>
+
+<p><img src="http://donnaipe.com/images/mus/mus9.jpeg" alt="El Mus" /></p>
+
+<p>Así que me he puesto manos a la obra y he incluido un nuevo parámetro en los bots: la <strong>INTERACTIVIDAD</strong>. Según el valor de este parámetro, los bots serán más proclives a consultar a su compañero al cortar el mus y al valorar un órdago o una apuesta grande. Además, el jugador puede ahora consultar a su compañero si cortar el mus o no. Fijaos en las capturas adjuntas para ver el aspecto que tiene.</p>
+
+<p><img src="http://donnaipe.com/images/mus/mus10.jpeg" alt="El Mus" /></p>
+
+<p>Por otra parte, he aprovechado para realizar unos pequeños ajustes en la inteligencia artificial y en el motor del juego. Además, he preparado nuevas imágenes del tapete y la mesa. Por último, quizá lo más reseñable de esta actualización sea la inclusión de más de 100 expresiones &ldquo;musísticas&rdquo; nuevas para dar más colorido al juego.</p>
+
+<p><img src="http://donnaipe.com/images/mus/mus11.jpeg" alt="El Mus" /></p>
+
+<p>A ver si os gustan estos cambios. Espero que la siguiente actualización sea la del juego en red.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Segundo Año De Producciones Don Naipe]]></title>
@@ -427,17 +448,6 @@ y <a href="https://play.google.com/store/apps/details?id=donnaipe.mus">El Mus</a
 <p>De esta labor de documentación he descubierto que hay dos variantes del julepe que he incluido en el juego bajo el nombre de <em>Modo normal</em> y <em>Modo clásico</em>. De nuevo lo más divertido ha sido crear la inteligencia artificial y creo que no ha quedado nada mal.</p>
 
 <p>Espero que os guste y que os entretenga la espera hasta la siguiente ocasión.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[La Jugadora Más Veterana De Don Naipe]]></title>
-    <link href="http://donnaipe.com/blog/2015/02/22/la-jugadora-mas-veterana-de-don-naipe/"/>
-    <updated>2015-02-22T00:24:07+01:00</updated>
-    <id>http://donnaipe.com/blog/2015/02/22/la-jugadora-mas-veterana-de-don-naipe</id>
-    <content type="html"><![CDATA[<p>Un amigo me acaba de pasar la foto de Manuela echando un tute vespertino. Con sus estupendos 99 años, seguramente se trate de la jugadora de <a href="https://play.google.com/store/apps/details?id=donnaipe.tutegratis">Tute a Cuatro</a> más veterana. Un abrazo para Manuela y a seguir haciendo cantera :)</p>
-
-<p><img src="http://donnaipe.com/images/manuela.jpg" alt="Manuela" /></p>
 ]]></content>
   </entry>
   

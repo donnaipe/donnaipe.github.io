@@ -5,11 +5,11 @@
 <!--[if (gt IE 8)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html class="no-js" lang="en"><!--<![endif]-->
 <head>
   <meta charset="utf-8">
-  <title>Estrenamos Ranking - Producciones Don Naipe</title>
+  <title>Renovamos El Mus Para Android - Producciones Don Naipe</title>
   <meta name="author" content="Don Naipe">
 
   
-  <meta name="description" content="Acabo de publicar la primera actualización del Tute a Cuatro en Google Play. Se trata de una nueva funcionalidad, un servicio de ranking entre los &hellip;">
+  <meta name="description" content="Tengo novedades muy importantes en El Mus para Android. Aunque el juego en sí creo que es bastante entretenido, me da la sensación de que la &hellip;">
   
 
   <!-- http://t.co/dKP3o1e -->
@@ -18,7 +18,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
   
-  <link rel="canonical" href="http://donnaipe.com/blog/2014/03/06/estrenamos-ranking">
+  <link rel="canonical" href="http://donnaipe.com/blog/2016/03/01/renovamos-el-mus-para-android">
   <link href="/favicon.png" rel="icon">
   <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
   <link href="/atom.xml" rel="alternate" title="Producciones Don Naipe" type="application/atom+xml">
@@ -85,7 +85,7 @@
   
   <header>
     
-      <h1 class="entry-title">Estrenamos Ranking</h1>
+      <h1 class="entry-title">Renovamos El Mus Para Android</h1>
     
     
       <p class="meta">
@@ -101,34 +101,26 @@
   
 
 
-<time datetime="2014-03-06T19:44:04+01:00" pubdate data-updated="true">6 Marzo 2014</time>
+<time datetime="2016-03-01T19:54:30+01:00" pubdate data-updated="true">1 Marzo 2016</time>
         
       </p>
     
   </header>
 
 
-<div class="entry-content"><p>Acabo de publicar la primera actualización del <a href="/juegos">Tute a Cuatro</a> en Google Play. Se trata de una nueva funcionalidad, un servicio de ranking entre los jugadores del Tute a Cuatro. Para ello, he creado un algoritmo de puntuación muy sencillo:</p>
+<div class="entry-content"><p>Tengo novedades muy importantes en <a href="https://play.google.com/store/apps/details?id=donnaipe.mus">El Mus</a> para Android. Aunque el juego en sí creo que es bastante entretenido, me da la sensación de que la interacción con el compañero es algo limitada. Pensando en cómo mejorar esto, se me ocurrió que los bots podrían consultar a los compañeros en determinados momentos.</p>
 
-<ul>
-<li>En caso de victoria se consigue un número de puntos igual al número de juegos de la partida multiplicado por el factor de dificultad (1 para el nivel <em>Principiante</em>, 2 para el <em>Amateur</em>, 3 para el <em>Avanzado</em> y 4 para el <em>Profesional</em>).</li>
-<li>En caso de derrota se resta el doble de puntos del número de juegos de la partida.</li>
-</ul>
+<p><img src="/images/mus/mus9.jpeg" alt="El Mus" /></p>
 
+<p>Así que me he puesto manos a la obra y he incluido un nuevo parámetro en los bots: la <strong>INTERACTIVIDAD</strong>. Según el valor de este parámetro, los bots serán más proclives a consultar a su compañero al cortar el mus y al valorar un órdago o una apuesta grande. Además, el jugador puede ahora consultar a su compañero si cortar el mus o no. Fijaos en las capturas adjuntas para ver el aspecto que tiene.</p>
 
-<p>Por ejemplo, en una partida a 6 juegos en el nivel <em>Avanzado</em> se conseguirían 18 puntos en caso de victoria y se restarían 12 en caso de derrota.</p>
+<p><img src="/images/mus/mus10.jpeg" alt="El Mus" /></p>
 
-<p>Con los puntos se obtiene el ranking para cada jugador y además el juego ofrece unas estadísticas básicas del número de juegos ganados, perdidos y el ratio. En la imagen adjunta podéis ver qué pinta tiene el ranking.</p>
+<p>Por otra parte, he aprovechado para realizar unos pequeños ajustes en la inteligencia artificial y en el motor del juego. Además, he preparado nuevas imágenes del tapete y la mesa. Por último, quizá lo más reseñable de esta actualización sea la inclusión de más de 100 expresiones &ldquo;musísticas&rdquo; nuevas para dar más colorido al juego.</p>
 
-<p><img src="/images/ranking.png" alt="Ranking" /></p>
+<p><img src="/images/mus/mus11.jpeg" alt="El Mus" /></p>
 
-<p>En cuanto a los cambios necesarios, la funcionalidad en sí es muy sencilla, pero ha necesitado cierto trabajo. Para los más curiosos os explico a grandes rasgos la arquitectura del sistema.</p>
-
-<p>La aplicación de tute almacena localmente las victorias/derrotas y el número de puntos. Tras el fin de una partida, se envía esta información al servidor de tute. El servidor se encarga de devolver el ranking cuando una aplicación de tute lo solicita.</p>
-
-<p>El servidor está alojado en <a href="https://www.openshift.com/">Openshift</a>, la nube de Red Hat. Estoy utilizando un <a href="http://www.mysql.com/">MySQL</a> para la persistencia, mientras que la aplicación está desarrollada con <a href="http://restlet.org/">Restlet</a> y desplegada en un contenedor de servlets <a href="http://tomcat.apache.org/">Tomcat</a>. Además, utilizo autenticación HTTP y JSON como formato de intercambio.</p>
-
-<p>Como veis, ha llevado cierto trabajo. Espero que haya merecido la pena y que disfrutéis mucho del ranking. <strong>¿Conseguirás ser el primero?</strong></p>
+<p>A ver si os gustan estos cambios. Espero que la siguiente actualización sea la del juego en red.</p>
 </div>
 
 
@@ -151,12 +143,12 @@
   
 
 
-<time datetime="2014-03-06T19:44:04+01:00" pubdate data-updated="true">6 Marzo 2014</time>
+<time datetime="2016-03-01T19:54:30+01:00" pubdate data-updated="true">1 Marzo 2016</time>
       
 
 <span class="categories">
   
-    <a class='category' href='/blog/categorias/android/'>android</a>, <a class='category' href='/blog/categorias/general/'>general</a>, <a class='category' href='/blog/categorias/ranking/'>ranking</a>, <a class='category' href='/blog/categorias/tute/'>tute</a>
+    <a class='category' href='/blog/categorias/android/'>Android</a>, <a class='category' href='/blog/categorias/general/'>general</a>, <a class='category' href='/blog/categorias/mus/'>mus</a>
   
 </span>
 
@@ -165,7 +157,7 @@
     
       <div class="sharing">
   
-  <a href="//twitter.com/share" class="twitter-share-button" data-url="http://donnaipe.com/blog/2014/03/06/estrenamos-ranking/" data-via="donnaipe" data-counturl="http://donnaipe.com/blog/2014/03/06/estrenamos-ranking/" >Tweet</a>
+  <a href="//twitter.com/share" class="twitter-share-button" data-url="http://donnaipe.com/blog/2016/03/01/renovamos-el-mus-para-android/" data-via="donnaipe" data-counturl="http://donnaipe.com/blog/2016/03/01/renovamos-el-mus-para-android/" >Tweet</a>
   
   
   <div class="g-plusone" data-size="medium"></div>
@@ -178,10 +170,8 @@
     
     <p class="meta">
       
-        <a class="basic-alignment left" href="/blog/2014/02/27/ya-somos-1000/" title="Previous Post: ¡Ya somos 1000!">&laquo; ¡Ya somos 1000!</a>
+        <a class="basic-alignment left" href="/blog/2016/02/14/segundo-ano-de-producciones-don-naipe/" title="Previous Post: Segundo Año de Producciones Don Naipe">&laquo; Segundo Año de Producciones Don Naipe</a>
       
-      
-        <a class="basic-alignment right" href="/blog/2014/04/01/ampliando-horizontes/" title="Next Post: Ampliando horizontes">Ampliando horizontes &raquo;</a>
       
     </p>
   </footer>
@@ -262,8 +252,8 @@
       
         
         // var disqus_developer = 1;
-        var disqus_identifier = 'http://donnaipe.com/blog/2014/03/06/estrenamos-ranking/';
-        var disqus_url = 'http://donnaipe.com/blog/2014/03/06/estrenamos-ranking/';
+        var disqus_identifier = 'http://donnaipe.com/blog/2016/03/01/renovamos-el-mus-para-android/';
+        var disqus_url = 'http://donnaipe.com/blog/2016/03/01/renovamos-el-mus-para-android/';
         var disqus_script = 'embed.js';
       
     (function () {
