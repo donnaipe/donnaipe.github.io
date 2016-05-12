@@ -4,7 +4,7 @@
   <title><![CDATA[Category: General | Producciones Don Naipe]]></title>
   <link href="http://donnaipe.com/blog/categorias/general/atom.xml" rel="self"/>
   <link href="http://donnaipe.com/"/>
-  <updated>2016-05-12T20:25:18+02:00</updated>
+  <updated>2016-05-12T21:37:05+02:00</updated>
   <id>http://donnaipe.com/</id>
   <author>
     <name><![CDATA[Don Naipe]]></name>
@@ -34,7 +34,7 @@
 
 <p><img src="/images/mus/mus14.png" alt="El Mus" /></p>
 
-<p>Al final de cada ronda se habilita un chat para intercambiar mensajes entre los jugadores. Si un jugador pulsa el botón de continuar, la partida continuará tras 4 segundos; si en este lapso otro jugador solicita continuar, la partida se reanudará inmediatamente. Es posible deshabilitar los mensajes de ese jugador pulsando en el avatar correspondiente — pulsando de nuevo se mostrarán de nuevo sus mensajes. Esto lo he puesto para poder cortar los mensajes fuera de tono.</p>
+<p>Al final de cada ronda se habilita un chat para intercambiar mensajes entre los jugadores. Si un jugador pulsa el botón de continuar, la partida continuará a los 8 segundos. Es posible deshabilitar los mensajes de un jugador pulsando en el avatar correspondiente — pulsando de nuevo se mostrarán de nuevo sus mensajes. Esto lo he puesto para poder cortar los mensajes fuera de tono.</p>
 
 <p><img src="/images/mus/mus16.png" alt="El Mus" /></p>
 
