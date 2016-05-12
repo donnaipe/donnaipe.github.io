@@ -4,7 +4,7 @@
   <title><![CDATA[Category: General | Producciones Don Naipe]]></title>
   <link href="http://donnaipe.com/blog/categorias/general/atom.xml" rel="self"/>
   <link href="http://donnaipe.com/"/>
-  <updated>2016-03-01T20:54:22+01:00</updated>
+  <updated>2016-05-12T20:25:18+02:00</updated>
   <id>http://donnaipe.com/</id>
   <author>
     <name><![CDATA[Don Naipe]]></name>
@@ -12,6 +12,39 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[El Mus Ya Está en Red]]></title>
+    <link href="http://donnaipe.com/blog/2016/05/12/el-mus-ya-esta-en-red/"/>
+    <updated>2016-05-12T17:02:07+02:00</updated>
+    <id>http://donnaipe.com/blog/2016/05/12/el-mus-ya-esta-en-red</id>
+    <content type="html"><![CDATA[<p>Hacía bastante tiempo que no publicaba nada en el blog, y no por falta de actividad. Este principio de año he estado muy atareado renovando los recursos gráficos de mis juegos. Además, he incluido marcadores, logros y estadísticas en el Europoly, Tute Cabrón, Julepe y Dominó en Parejas.</p>
+
+<p><img src="/images/mus/mus13.png" alt="El Mus" /></p>
+
+<p>Después de todo esto, me he puesto por fin con el modo en red de <a href="https://play.google.com/store/apps/details?id=donnaipe.mus">El Mus</a> para Android. Y tras mucho esfuerzo, por fin puedo hacer el anuncio tan esperado: <strong>¡Ya está disponible la versión multijugador de El Mus para Android!</strong>.</p>
+
+<p><img src="/images/mus/mus17.png" alt="El Mus" /></p>
+
+<p>Pueden jugarse partidas rápidas o invitar a amigos a través de Google Play Juegos. En cualquier caso, hay una espera hasta que se monta la partida con 4 humanos. A continuación se forman los equipos, eligiendo un avatar entre los disponibles.</p>
+
+<p><img src="/images/mus/icono_mus_red.png" alt="El Mus" /></p>
+
+<p>Ya en el juego, la mecánica es similar al juego individual, aunque pueden apreciarse algunas diferencias. En primer lugar, se muestra el <em>nick</em> en Play Juegos de los jugadores. Además, hay un tiempo limitado para realizar cada acción para que la partida sea ágil. El tiempo disponible se muestra con una barra de progreso que va decreciendo paulatinamente. Si no se completa la acción antes de que venza, el juego pasará al modo automático y responderá de manera pasiva (dándose mus, no queriendo los envites, etc.). Pulsando en la pantalla se recupera el control de nuevo.</p>
+
+<p><img src="/images/mus/mus14.png" alt="El Mus" /></p>
+
+<p>Al final de cada ronda se habilita un chat para intercambiar mensajes entre los jugadores. Si un jugador pulsa el botón de continuar, la partida continuará tras 4 segundos; si en este lapso otro jugador solicita continuar, la partida se reanudará inmediatamente. Es posible deshabilitar los mensajes de ese jugador pulsando en el avatar correspondiente — pulsando de nuevo se mostrarán de nuevo sus mensajes. Esto lo he puesto para poder cortar los mensajes fuera de tono.</p>
+
+<p><img src="/images/mus/mus16.png" alt="El Mus" /></p>
+
+<p>Una parte no desdeñable del proceso ha sido tratar los posibles problemas, como la eventual  desconexión de un jugador. Hay muchísima casuística, por lo que es posible que haya quedado algún cabo suelto. Si detectáis algún problema, por favor avisadme.</p>
+
+<p><img src="/images/mus/mus15.png" alt="El Mus" /></p>
+
+<p>Ahora llega el momento de disfrutar del juego (si todavía no lo tenéis descargadlo de <a href="https://play.google.com/store/apps/details?id=donnaipe.mus">Google Play</a>). Aprovecho para agradecer la ayuda de Javi y sus amigos para probar el juego. ¡Nos vemos en El Mus en red!</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Renovamos El Mus Para Android]]></title>
@@ -74,21 +107,6 @@
 <p>Podéis encontrar más información del juego en la versión de <strong>El Parchís</strong> para Android de <a href="/blog/2015/09/02/mas-clasicos-el-parchis-para-android/">este post</a>.</p>
 
 <p>Espero que lo disfrutéis.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Dominó en Parejas Por Fin en iOS]]></title>
-    <link href="http://donnaipe.com/blog/2016/01/10/domino-en-parejas-por-fin-en-ios/"/>
-    <updated>2016-01-10T08:22:25+01:00</updated>
-    <id>http://donnaipe.com/blog/2016/01/10/domino-en-parejas-por-fin-en-ios</id>
-    <content type="html"><![CDATA[<p>Seguimos poniendo al día el catálogo de iOS. Esta vez os traigo <strong>Dominó en Parejas</strong>, el juego clásico de dominó en España. Podéis descargar <a href="https://itunes.apple.com/es/app/partnership-dominoes/id1070659362?mt=8">Dominó en Parejas en el App Store</a>. Puede jugarse en dispositivos iPhone, iPad y iPod con iOS 7 o superior.</p>
-
-<p><img src="/images/dominoIOS/dominoIOS.jpg" alt="Dominó en Parejas para iOS" /></p>
-
-<p>Esta conversión es muy similar a mi juego <strong>Dominó en Parejas</strong> para Android, así que os remito a <a href="/blog/2015/07/31/nuevo-lanzamiento-domino-en-parejas/">este post</a> para consultar las reglas y descripción del mismo.</p>
-
-<p>Tengo otro nuevo juego para iOS a punto de salir, así que no os vayáis muy lejos.</p>
 ]]></content>
   </entry>
   
