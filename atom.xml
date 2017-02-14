@@ -4,7 +4,7 @@
   <title><![CDATA[Producciones Don Naipe]]></title>
   <link href="http://donnaipe.com/atom.xml" rel="self"/>
   <link href="http://donnaipe.com/"/>
-  <updated>2016-05-12T21:37:05+02:00</updated>
+  <updated>2017-02-14T08:36:22+01:00</updated>
   <id>http://donnaipe.com/</id>
   <author>
     <name><![CDATA[Don Naipe]]></name>
@@ -12,6 +12,22 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Tercer Aniversario]]></title>
+    <link href="http://donnaipe.com/blog/2017/02/14/tercer-aniversario/"/>
+    <updated>2017-02-14T08:36:32+01:00</updated>
+    <id>http://donnaipe.com/blog/2017/02/14/tercer-aniversario</id>
+    <content type="html"><![CDATA[<p>Hoy en Don Naipe podemos decir que somos felices. ¿Por ser 14 de febrero? ¡Por supuesto! Y nos enorgullece saber que el resto del mundo también lo celebra con nosotros, aunque quizá no por la misma razón. Hoy es un día especial y feliz para Don Naipe porque, como decía el filósofo Jean Paul Sastre, la felicidad no consiste en hacer lo que uno quiere, sino en querer lo que uno hace.</p>
+
+<p><img src="http://donnaipe.com/images/feliz_14_febrero.png" alt="Feliz tercer aniversario" /></p>
+
+<p>¿Qué hemos hecho nosotros? Cumplir tres años. Tres añitos de vida haciendo lo que más nos gusta es motivo de celebración y para estar orgullosos de lo que hemos conseguido, de la comunidad que está con nosotros pero, sobre todo, de lo que está por venir.
+Pese a llevar un año muy poco activos en las redes sociales, ha sido por una buena razón: tenemos sorpresas, novedades, ilusión y muchas ganas para 2017. Y qué mejor espaldarazo de salida para anunciar todas las novedades que el día de nuestra celebración. Un día en el que también queremos contar con todos vosotros. Porque al fin y al cabo sin vosotros, Don Naipe no sería nada más que un náufrago en la inmensidad del océano, pero gracias a vuestro tiempo, dedicación y pasión por los juegos nos sentimos arropados y que estamos construyendo algo juntos.
+Que cada uno celebre este 14 de febrero como quiera, pero que por un momento sepa que Don Naipe hace 3 años que inició su andadura y queremos seguir aquí con vosotros mucho tiempo. ¡Todo el que nos dejéis! Poco a poco iremos mostrando nuestras cartas, ¡habrá sorpresas! Esperamos que os animéis a formar parte de este proyecto en el que nos hemos embarcado.
+<strong>¡Felicidades!</strong></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[El Mus Ya Está en Red]]></title>
@@ -449,15 +465,6 @@ y <a href="https://play.google.com/store/apps/details?id=donnaipe.mus">El Mus</a
 <p><img src="http://donnaipe.com/images/portugues/portugues5.jpeg" alt="Portugues Don Naipe para Android" /></p>
 
 <p>Aprendí a jugar al portugués en los años de universidad y tenía muchas ganas de <a href="https://play.google.com/store/apps/details?id=donnaipe.portugues">lanzarlo para Android</a>. Tuve que recurrir a mi amigo Chef para que me refrescara las reglas (¡muchas gracias por tu ayuda, Chef!). Espero que os guste tanto como a mí.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Entrevista en Androidizados]]></title>
-    <link href="http://donnaipe.com/blog/2015/05/01/entrevista-en-androidizados/"/>
-    <updated>2015-05-01T16:39:47+02:00</updated>
-    <id>http://donnaipe.com/blog/2015/05/01/entrevista-en-androidizados</id>
-    <content type="html"><![CDATA[<p>Los de <a href="http://www.androidizados.com/">Androidizados</a> han contactado conmigo para hacerme una entrevista en su sección de <em>Entrevistas a programadores</em>. El resultado lo podéis ver <a href="http://www.androidizados.com/desarrollo/2015/05/01/entrevista-a-desarrolladores-don-naipe/">aquí</a>. Gracias a Androidizados por su interés y espero que os resulte interesante.</p>
 ]]></content>
   </entry>
   
