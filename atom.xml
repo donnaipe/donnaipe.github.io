@@ -4,7 +4,7 @@
   <title><![CDATA[Producciones Don Naipe]]></title>
   <link href="http://donnaipe.com/atom.xml" rel="self"/>
   <link href="http://donnaipe.com/"/>
-  <updated>2017-02-14T08:41:43+01:00</updated>
+  <updated>2017-03-02T21:03:58+01:00</updated>
   <id>http://donnaipe.com/</id>
   <author>
     <name><![CDATA[Don Naipe]]></name>
@@ -12,6 +12,25 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Tendencias De Juegos Móviles en 2017]]></title>
+    <link href="http://donnaipe.com/blog/2017/03/02/tendencias-de-juegos-moviles-en-2017/"/>
+    <updated>2017-03-02T20:39:13+01:00</updated>
+    <id>http://donnaipe.com/blog/2017/03/02/tendencias-de-juegos-moviles-en-2017</id>
+    <content type="html"><![CDATA[<p><p>Los juegos móviles están ganando cada vez más cuota de mercado dentro del sector del entretenimiento, incluso por encima de las consolas que han estado dominando la industria del videojuego durante la última década (podéis consultar los detalles en <a href="https://www.superdataresearch.com/market-data/market-brief-year-in-review/">este estudio</a>). Las previsiones son también optimistas para 2017, <a href="http://venturebeat.com/2014/07/23/mobile-games-revenue-will-double-by-2017-as-growth-spreads-worldwide-exclusive/">previendo un crecimiento sostenido en todo el mundo y en particular en Latinoamérica</a>.<p></p>
+
+<p><img src="http://donnaipe.com/images/tendencias_juegos_moviles_2017.png" alt="Tendencias juegos móviles" />
+<p>A pesar de estas cifras y de la cantidad de juegos móviles disponibles, el crecimiento no es homogéneo. La mayor parte del mercado se lo llevan las grandes producciones (<em>blockbusters</em>) como Clash Royale o Pokemon. Así, los pequeños estudios nos quedamos con una parte pequeña del pastel, aunque jugando un papel importante con títulos que llegan a un público más minoritario. Por cierto, algunos de estos juegos son muy buenos, mirad por ejemplo <a href="https://events.withgoogle.com/indie-games-contest-europe/finalists/">los ganadores del reciente concurso de juegos indie de Google Play</a>.</p>
+<p>Con este panorama, ¿qué podemos esperar en la industria de juegos móviles para 2017? Entre las tendencias más importantes podemos destacar:</p><p>&ndash; Realidad aumentada<br/>
+&ndash; Conectividad con varias pantallas, como el ordenador o la televisión<br/>
+&ndash; Realidad virtual<br/>
+&ndash; Juegos colaborativos<br/>
+&ndash; Juegos masivos online<br/>
+&ndash; Videojuegos de simulación y 3D<br/>
+</p><p>Ya estamos viendo ejemplos de juegos móviles que incorporan estas tecnologías. Y desde Don Naipe queremos también mejorar nuestra oferta atendiendo a estas tendencias, pero sin olvidar el camino que hemos recorrido hasta ahora. Así, esperamos sacar un nuevo juego en próximas fechas con el que aunemos las nuevas tecnologías del sector con la tradición y entretenimiento de los juegos de siempre.</p><p>¿Sabéis por dónde van los tiros?</p></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Tercer Aniversario]]></title>
@@ -427,44 +446,6 @@ y <a href="https://play.google.com/store/apps/details?id=donnaipe.mus">El Mus</a
 <p><img src="http://donnaipe.com/images/musIOS/musIOS6.jpg" alt="El Mus en iPhone" /></p>
 
 <p>¡Que lo disfrutéis!</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[El Portugués: Un Gran Juego De Cartas Para Android]]></title>
-    <link href="http://donnaipe.com/blog/2015/05/11/el-portugues-un-gran-juego-de-cartas-para-android/"/>
-    <updated>2015-05-11T17:07:44+02:00</updated>
-    <id>http://donnaipe.com/blog/2015/05/11/el-portugues-un-gran-juego-de-cartas-para-android</id>
-    <content type="html"><![CDATA[<p>¿Conoces el juego de cartas <strong>El Portugués</strong>? Este apasionante juego hará las delicias de los jugadores de <strong>tute</strong>, <strong>pocha</strong> y <strong>julepe</strong>. Ya podéis descargar <a href="https://play.google.com/store/apps/details?id=donnaipe.portugues">el portugués en Google Play</a>, ya veréis cómo os va a enganchar. Aunque el juego incluye un tutorial, os incluyo aquí también las reglas.</p>
-
-<p><img src="http://donnaipe.com/images/portugues/portugues1.jpeg" alt="Portugues Don Naipe para Android" /></p>
-
-<p>El portugués es un juego de bazas de 4 o 5 jugadores en el que se trata de llegar antes que el resto de jugadore a 0 puntos partiendo de una misma puntuación inicial. Para conseguirlo los jugadores participan en una serie de rondas en las que con cada baza conseguida se reduce un punto. Pero, ¡cuidado!, si un jugador no consigue ninguna baza en una ronda, se le suman 5 puntos.</p>
-
-<p><img src="http://donnaipe.com/images/portugues/portugues2.jpeg" alt="Portugues Don Naipe para Android" /></p>
-
-<p>Al comienzo de cada ronda cada jugador recibe 2 cartas. El jugador mano está obligado a jugar y decide el palo del pinte con sus cartas. Si con sus dos cartas la mano no se decide, puede elegir que pinte su siguiente carta (sin verla). Si pintan COPAS, todos están obligados a jugar, y si pintan BASTOS la puntuación es doble (tanto a favor como en contra).</p>
-
-<p><img src="http://donnaipe.com/images/portugues/portugues3.jpeg" alt="Portugues Don Naipe para Android" /></p>
-
-<p>Conocido el palo que pinta, los jugadores restantes deciden con sus 2 cartas si disputan o no la ronda (siempre que no estén obligados a jugar). A continuación se reparten 3 cartas a los participantes y hay un turno de descarte. Completado el descarte, se juega la ronda siguiendo las normas del tute. Se actualizan las puntuaciones al final de la ronda y, si no hay ganador, se disputará una nueva.</p>
-
-<p><img src="http://donnaipe.com/images/portugues/portugues4.jpeg" alt="Portugues Don Naipe para Android" /></p>
-
-<p>Un jugador está obligado a jugar en cualquiera de las siguientes situaciones:</p>
-
-<ul>
-<li>Si es mano</li>
-<li>Si pintan COPAS</li>
-<li>Si tiene menos de 10 puntos</li>
-<li>Si lleva dos rondas sin jugar</li>
-<li>Si sólo va la mano y el jugador es postre</li>
-</ul>
-
-
-<p><img src="http://donnaipe.com/images/portugues/portugues5.jpeg" alt="Portugues Don Naipe para Android" /></p>
-
-<p>Aprendí a jugar al portugués en los años de universidad y tenía muchas ganas de <a href="https://play.google.com/store/apps/details?id=donnaipe.portugues">lanzarlo para Android</a>. Tuve que recurrir a mi amigo Chef para que me refrescara las reglas (¡muchas gracias por tu ayuda, Chef!). Espero que os guste tanto como a mí.</p>
 ]]></content>
   </entry>
   

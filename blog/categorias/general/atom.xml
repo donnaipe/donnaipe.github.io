@@ -4,7 +4,7 @@
   <title><![CDATA[Category: General | Producciones Don Naipe]]></title>
   <link href="http://donnaipe.com/blog/categorias/general/atom.xml" rel="self"/>
   <link href="http://donnaipe.com/"/>
-  <updated>2017-02-14T08:41:43+01:00</updated>
+  <updated>2017-03-02T21:03:58+01:00</updated>
   <id>http://donnaipe.com/</id>
   <author>
     <name><![CDATA[Don Naipe]]></name>
@@ -12,6 +12,25 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Tendencias De Juegos Móviles en 2017]]></title>
+    <link href="http://donnaipe.com/blog/2017/03/02/tendencias-de-juegos-moviles-en-2017/"/>
+    <updated>2017-03-02T20:39:13+01:00</updated>
+    <id>http://donnaipe.com/blog/2017/03/02/tendencias-de-juegos-moviles-en-2017</id>
+    <content type="html"><![CDATA[<p><p>Los juegos móviles están ganando cada vez más cuota de mercado dentro del sector del entretenimiento, incluso por encima de las consolas que han estado dominando la industria del videojuego durante la última década (podéis consultar los detalles en <a href="https://www.superdataresearch.com/market-data/market-brief-year-in-review/">este estudio</a>). Las previsiones son también optimistas para 2017, <a href="http://venturebeat.com/2014/07/23/mobile-games-revenue-will-double-by-2017-as-growth-spreads-worldwide-exclusive/">previendo un crecimiento sostenido en todo el mundo y en particular en Latinoamérica</a>.<p></p>
+
+<p><img src="/images/tendencias_juegos_moviles_2017.png" alt="Tendencias juegos móviles" />
+<p>A pesar de estas cifras y de la cantidad de juegos móviles disponibles, el crecimiento no es homogéneo. La mayor parte del mercado se lo llevan las grandes producciones (<em>blockbusters</em>) como Clash Royale o Pokemon. Así, los pequeños estudios nos quedamos con una parte pequeña del pastel, aunque jugando un papel importante con títulos que llegan a un público más minoritario. Por cierto, algunos de estos juegos son muy buenos, mirad por ejemplo <a href="https://events.withgoogle.com/indie-games-contest-europe/finalists/">los ganadores del reciente concurso de juegos indie de Google Play</a>.</p>
+<p>Con este panorama, ¿qué podemos esperar en la industria de juegos móviles para 2017? Entre las tendencias más importantes podemos destacar:</p><p>&ndash; Realidad aumentada<br/>
+&ndash; Conectividad con varias pantallas, como el ordenador o la televisión<br/>
+&ndash; Realidad virtual<br/>
+&ndash; Juegos colaborativos<br/>
+&ndash; Juegos masivos online<br/>
+&ndash; Videojuegos de simulación y 3D<br/>
+</p><p>Ya estamos viendo ejemplos de juegos móviles que incorporan estas tecnologías. Y desde Don Naipe queremos también mejorar nuestra oferta atendiendo a estas tendencias, pero sin olvidar el camino que hemos recorrido hasta ahora. Así, esperamos sacar un nuevo juego en próximas fechas con el que aunemos las nuevas tecnologías del sector con la tradición y entretenimiento de los juegos de siempre.</p><p>¿Sabéis por dónde van los tiros?</p></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Tercer Aniversario]]></title>
@@ -91,23 +110,6 @@ Que cada uno celebre este 14 de febrero como quiera, pero que por un momento sep
     <content type="html"><![CDATA[<p>¡Segundo año de Producciones Don Naipe! Este segundo año ha sido un no parar con muchos juegos nuevos: Julepe, Rápido, Portugués, Tute Cabrón, Dominó en Parejas, Parchís y Europoly. Cada vez tenemos más jugadores y también más responsabilidad para no decepcionaros. Así que a celebrar por todo lo alto el aniversario. ¡Y feliz San Valentín a todos!</p>
 
 <p><img src="/images/flores.jpg" alt="Flores" /></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Europoly Para iOS: El Juego De Finanzas Y Monopolios]]></title>
-    <link href="http://donnaipe.com/blog/2016/02/03/europoly-para-ios-el-juego-de-finanzas-y-monopolios/"/>
-    <updated>2016-02-03T16:55:25+01:00</updated>
-    <id>http://donnaipe.com/blog/2016/02/03/europoly-para-ios-el-juego-de-finanzas-y-monopolios</id>
-    <content type="html"><![CDATA[<p>¡Por fin está listo <strong>Europoly</strong> para iOS!: <a href="https://itunes.apple.com/es/app/europoly/id1077045179?mt=8">Europoly en el App Store</a>. Puede jugarse en dispositivos iPhone, iPad y iPod con iOS 7 o superior.</p>
-
-<p><img src="/images/europolyIOS/europolyIOS.png" alt="Europoly para iOS" /></p>
-
-<p>Este juego es similar a la versión de <strong>Europoly</strong> para Android de <a href="/blog/2015/11/05/europoly-el-juego-de-finanzas-y-monopolios/">este post</a>.</p>
-
-<p>Y con esto finaliza un intenso <em>sprint</em> de puesta al día del catálogo de iOS. Lamentablemente no he tenido tiempo de incluir <a href="/blog/2015/05/11/el-portugues-un-gran-juego-de-cartas-para-android/">el Portugués</a> y <a href="/blog/2015/06/26/pon-a-prueba-tus-reflejos-con-rapido-don-naipe/">Rápido</a>, pero espero hacerlo en el futuro.</p>
-
-<p>¡Disfrutad del Europoly!</p>
 ]]></content>
   </entry>
   
