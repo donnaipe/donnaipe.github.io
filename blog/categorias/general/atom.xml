@@ -4,7 +4,7 @@
   <title><![CDATA[Category: General | Producciones Don Naipe]]></title>
   <link href="http://donnaipe.com/blog/categorias/general/atom.xml" rel="self"/>
   <link href="http://donnaipe.com/"/>
-  <updated>2017-03-10T14:15:34+01:00</updated>
+  <updated>2017-03-11T04:50:13+01:00</updated>
   <id>http://donnaipe.com/</id>
   <author>
     <name><![CDATA[Don Naipe]]></name>
@@ -12,6 +12,53 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Trebial: Tu Juego De Preguntas Y Respuestas]]></title>
+    <link href="http://donnaipe.com/blog/2017/03/11/trebial-tu-juego-de-preguntas-y-respuestas/"/>
+    <updated>2017-03-11T04:29:22+01:00</updated>
+    <id>http://donnaipe.com/blog/2017/03/11/trebial-tu-juego-de-preguntas-y-respuestas</id>
+    <content type="html"><![CDATA[<p>Tenemos grandes noticias para compartir con vosotros: ¡ya está disponible el nuevo juego! Han sido 10 meses de intenso desarrollo, pero por fin está listo el undécimo juego de Don Naipe para Android: <a href="https://play.google.com/store/apps/details?id=donnaipe.trebial">El Trebial</a>. Se trata de un juego multijugador de preguntas y respuestas.</p>
+
+<p><img src="/images/trebial/trebial1.png" alt="Trebial" /></p>
+
+<p>Las principales características del Trebial son las siguientes:</p>
+
+<ul>
+<li>Cientos de miles de preguntas súper entretenidas</li>
+<li>Partidas en red con amigos y otros jugadores</li>
+<li>Retos individuales temáticos</li>
+<li>Estadísticas completísimas</li>
+<li>4 marcadores diferentes</li>
+<li>56 logros diferentes</li>
+</ul>
+
+
+<p><img src="/images/trebial/trebial2.png" alt="Trebial" /></p>
+
+<p>Aunque ya hay algunos juegos de esta categoría en Google Play, hemos dado una vuelta de tuerca al concepto y nos hemos basado en la Wikipedia para generar las preguntas. No ha sido nada fácil, pero no podemos estar más satisfechos con el resultado: las preguntas son muy variadas y súper-entretenidas. Además, tenemos muchas: cientos de miles de preguntas clasificadas por temas y ordenadas por dificultad a tu disposición. Las categorías generales son: Animales, Arte, Cine, Geografía, Libros, Música y Tecnología.</p>
+
+<p><img src="/images/trebial/trebial3.png" alt="Trebial" /></p>
+
+<p>En cuando a la dinámica de juego, el Trebial incluye un modo multijugador y uno individual. En una partida en red compites con otro humano por turnos. Cada jugador tiene que conseguir los 8 quesitos del tablero respondiendo a preguntas de diferentes campos. El jugador con el turno seleccionará cualquiera de los quesitos que le queden y responderá a una pregunta del campo correspondiente. En caso de acierto, el jugador consigue el quesito y sigue jugando, pero en caso de fallo el turno pasará a su rival. El primer jugador que consiga los 8 quesitos podrá retar a un duelo a su rival. El jugador retado escogerá los 5 tipos de preguntas que prefiera (pista: puedes consultar las estadísticas de tu rival para elegir los temas en los que es más flojo). Cada jugador responderá en su turno a las 5 preguntas elegidas. Ganará el duelo el jugador que consiga más aciertos y en caso de empate el que responda en menos tiempo. La partida termina si el jugador que inició el reto gana el duelo. En otro caso, pierde los 8 quesitos y sigue la partida hasta que un jugador gane un duelo tras haber retado a su rival.</p>
+
+<p><img src="/images/trebial/trebial4.png" alt="Trebial" /></p>
+
+<p>Para jugar partidas en red hace falta estar conectado a Google (pulsa el botón de abajo a la izquierda en la pantalla inicial para hacerlo). Pulsando en el botón rojo de la pantalla inicial puedes crear una partida en red. En el menú de configuración puedes escoger entre partidas rápidas contra un rival aleatorio o mandar una invitación a un amigo. Puedes elegir también el idioma de las preguntas (español o inglés). Por último, puedes elegir selección manual o automática de los temas de las preguntas: con la selección manual puedes escoger 1 de los 4 temas propuestos tras seleccionar un quesito. Ten en cuenta que cada turno tiene un tiempo máximo de 48 horas para responder, por lo que es importante atender a tus invitaciones y a las partidas en tu turno.</p>
+
+<p><img src="/images/trebial/trebial5.png" alt="Trebial" /></p>
+
+<p>Además de partidas en red, Trebial incluye retos individuales en 8 campos diferentes: Animales, Arte, Cine, Geografía, Libros, Música, Tecnología y Todos los campos. El reto consiste en responder a 7 preguntas del campo elegido. Si respondes a todas correctamente, habrás superado el reto. Para cada campo hay 21 niveles de dificultad creciente. Inicialmente sólo está disponible el nivel 0 de cada uno de los campos. Si superas un reto de un campo, desbloquearás el siguiente nivel del mismo.</p>
+
+<p><img src="/images/trebial/trebial6.png" alt="Trebial" /></p>
+
+<p>Esperamos que os hayáis hecho una idea del funcionamiento del Trebial, aunque hay muchísimas más cosas que contar. Un aspecto interesante es que este juego es el resultado de una investigación en el campo de la Web Semántica (también llamada Web 3.0). Así que no sólo vais a aprender mucho con el Trebial, sino que además podréis presumir de producto puntero ante vuestras amistades (aprovechad también para jugar unas partidas al Trebial con ellos).</p>
+
+<p><img src="/images/trebial/trebial7.png" alt="Trebial" /></p>
+
+<p>Incluimos de nuevo <a href="https://play.google.com/store/apps/details?id=donnaipe.trebial">el enlace de descarga del Trebial en Google Play</a>. ¡Esperamos que lo disfrutéis!</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Tendencias De Juegos Móviles en 2017]]></title>
@@ -99,17 +146,6 @@ Que cada uno celebre este 14 de febrero como quiera, pero que por un momento sep
 <p><img src="/images/mus/mus11.jpeg" alt="El Mus" /></p>
 
 <p>A ver si os gustan estos cambios. Espero que la siguiente actualización sea la del juego en red.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Segundo Año De Producciones Don Naipe]]></title>
-    <link href="http://donnaipe.com/blog/2016/02/14/segundo-ano-de-producciones-don-naipe/"/>
-    <updated>2016-02-14T11:03:01+01:00</updated>
-    <id>http://donnaipe.com/blog/2016/02/14/segundo-ano-de-producciones-don-naipe</id>
-    <content type="html"><![CDATA[<p>¡Segundo año de Producciones Don Naipe! Este segundo año ha sido un no parar con muchos juegos nuevos: Julepe, Rápido, Portugués, Tute Cabrón, Dominó en Parejas, Parchís y Europoly. Cada vez tenemos más jugadores y también más responsabilidad para no decepcionaros. Así que a celebrar por todo lo alto el aniversario. ¡Y feliz San Valentín a todos!</p>
-
-<p><img src="/images/flores.jpg" alt="Flores" /></p>
 ]]></content>
   </entry>
   
