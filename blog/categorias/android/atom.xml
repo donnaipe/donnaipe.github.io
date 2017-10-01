@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Android | Producciones Don Naipe]]></title>
   <link href="http://donnaipe.com/blog/categorias/android/atom.xml" rel="self"/>
   <link href="http://donnaipe.com/"/>
-  <updated>2017-03-11T04:50:13+01:00</updated>
+  <updated>2017-10-01T20:12:48+02:00</updated>
   <id>http://donnaipe.com/</id>
   <author>
     <name><![CDATA[Don Naipe]]></name>
@@ -12,6 +12,40 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Vamos a Viena a Presentar El Trebial]]></title>
+    <link href="http://donnaipe.com/blog/2017/10/01/vamos-a-viena-a-presentar-el-trebial/"/>
+    <updated>2017-10-01T19:41:53+02:00</updated>
+    <id>http://donnaipe.com/blog/2017/10/01/vamos-a-viena-a-presentar-el-trebial</id>
+    <content type="html"><![CDATA[<p>Tras mucho tiempo en silencio volvemos con una noticia estupenda: ¡Nos han aceptado una demo
+del Trebial en la conferencia más importante de Web Semántica! Se trata de la
+<a href="https://iswc2017.semanticweb.org">International Semantic Web Conference</a> (ISWC), que se celebra
+este año en Viena del 21 al 25 de octubre.</p>
+
+<p>Como sabéis, el Trebial es <a href="/blog/2017/03/11/trebial-tu-juego-de-preguntas-y-respuestas/">nuestro último juego</a>
+y está disponible para Android en <a href="https://play.google.com/store/apps/details?id=donnaipe.trebial">Google Play</a>.
+Hemos utilizado técnicas de la Web Semántica para generar las preguntas, por lo que preparamos un artículo
+para la sesión de demos del ISWC y lo enviamos para revisión. Hemos recibido críticas muy buenas,
+por lo que nos han aceptado la demo :)</p>
+
+<p>Por si no os lo creéis, incluimos la captura y os dejamos el enlace a los
+<a href="https://iswc2017.semanticweb.org/program/accepted-papers/">artículos aceptados</a>
+en el ISWC (mirad en la pestaña de <em>Posters and demos</em>).</p>
+
+<p><img src="/images/trebial/capturaISWC.png" alt="Trebial" /></p>
+
+<p>El artículo lo podéis descargar <a href="/cloverquiz/2017-iswc-demo-trebial.pdf">aquí</a>. Está en inglés, por lo que hemos preparado
+<a href="/trebial/2017-iswc-demo-trebial_es.pdf">una versión traducida en español</a> por si lo queréis leer.
+Os avisamos de que es muy técnico y está el texto muy condensado para que quepa en 4
+páginas.</p>
+
+<p>No queda tanto tiempo para la conferencia, así que empezaremos pronto a preparar el viaje.
+A la vuelta esperamos haceros un reportaje del evento. Mientras tanto os recomendamos
+seguir poniendo a prueba vuestros conocimientos del
+<a href="https://play.google.com/store/apps/details?id=donnaipe.trebial">Trebial</a>.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Trebial: Tu Juego De Preguntas Y Respuestas]]></title>
@@ -122,22 +156,6 @@
     <content type="html"><![CDATA[<p><a href="http://www.eljugondemovil.com/">El Jugón del Móvil</a> ha probado mi juego <a href="https://play.google.com/store/apps/details?id=donnaipe.europoly">Europoly para Android</a>, del que os he hablado <a href="http://donnaipe.com/blog/2015/11/05/europoly-el-juego-de-finanzas-y-monopolios/">aquí</a>.</p>
 
 <p>Parece que al jugón del móvil le ha gustado el Europoly. Podéis leer la reseña en <a href="http://www.eljugondemovil.com/europoly-juego-de-mesa/">este enlace</a>. Gracias al jugón por su página y por su sección de <em>indies</em>.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Actualizaciones De Tute a Cuatro Y El Mus]]></title>
-    <link href="http://donnaipe.com/blog/2015/11/14/actualizaciones-de-tute-a-cuatro-y-el-mus/"/>
-    <updated>2015-11-14T22:41:45+01:00</updated>
-    <id>http://donnaipe.com/blog/2015/11/14/actualizaciones-de-tute-a-cuatro-y-el-mus</id>
-    <content type="html"><![CDATA[<p>Estos últimos meses he estado muy ocupado preparando nuevos lanzamientos, con lo que tenía un poco descuidado mi catálogo. Así que he preparado un &ldquo;mini-sprint&rdquo; para mejorar <a href="https://play.google.com/store/apps/details?id=donnaipe.tutegratis">Tute a Cuatro</a>
-y <a href="https://play.google.com/store/apps/details?id=donnaipe.mus">El Mus</a>, mis juegos clásicos de Android.</p>
-
-<p>En el aspecto visual he introducido unas cuantas mejoras, especialmente en el reparto de cartas. También he incluido controles en el juego para ajustar la velocidad del mismo y para activar o desactivar el sonido. Además, he aprovechado para solucionar algunos errores y para hacer algunas mejoras en el rendimiento.</p>
-
-<p>Por último, una sorpresa para los jugadores de Tute a Cuatro: he incluido un nuevo nivel de dificultad (<em>Profesional</em>) en los bots. Así, podrán disputarse partidas con rivales de más calidad, mientras que el compañero contará a partir de ahora con una inteligencia artificial mejorada.</p>
-
-<p>Espero que disfrutéis estas actualizaciones.</p>
 ]]></content>
   </entry>
   

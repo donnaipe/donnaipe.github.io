@@ -4,7 +4,7 @@
   <title><![CDATA[Category: General | Producciones Don Naipe]]></title>
   <link href="http://donnaipe.com/blog/categorias/general/atom.xml" rel="self"/>
   <link href="http://donnaipe.com/"/>
-  <updated>2017-03-11T04:50:13+01:00</updated>
+  <updated>2017-10-01T20:12:48+02:00</updated>
   <id>http://donnaipe.com/</id>
   <author>
     <name><![CDATA[Don Naipe]]></name>
@@ -12,6 +12,40 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Vamos a Viena a Presentar El Trebial]]></title>
+    <link href="http://donnaipe.com/blog/2017/10/01/vamos-a-viena-a-presentar-el-trebial/"/>
+    <updated>2017-10-01T19:41:53+02:00</updated>
+    <id>http://donnaipe.com/blog/2017/10/01/vamos-a-viena-a-presentar-el-trebial</id>
+    <content type="html"><![CDATA[<p>Tras mucho tiempo en silencio volvemos con una noticia estupenda: ¡Nos han aceptado una demo
+del Trebial en la conferencia más importante de Web Semántica! Se trata de la
+<a href="https://iswc2017.semanticweb.org">International Semantic Web Conference</a> (ISWC), que se celebra
+este año en Viena del 21 al 25 de octubre.</p>
+
+<p>Como sabéis, el Trebial es <a href="/blog/2017/03/11/trebial-tu-juego-de-preguntas-y-respuestas/">nuestro último juego</a>
+y está disponible para Android en <a href="https://play.google.com/store/apps/details?id=donnaipe.trebial">Google Play</a>.
+Hemos utilizado técnicas de la Web Semántica para generar las preguntas, por lo que preparamos un artículo
+para la sesión de demos del ISWC y lo enviamos para revisión. Hemos recibido críticas muy buenas,
+por lo que nos han aceptado la demo :)</p>
+
+<p>Por si no os lo creéis, incluimos la captura y os dejamos el enlace a los
+<a href="https://iswc2017.semanticweb.org/program/accepted-papers/">artículos aceptados</a>
+en el ISWC (mirad en la pestaña de <em>Posters and demos</em>).</p>
+
+<p><img src="/images/trebial/capturaISWC.png" alt="Trebial" /></p>
+
+<p>El artículo lo podéis descargar <a href="/cloverquiz/2017-iswc-demo-trebial.pdf">aquí</a>. Está en inglés, por lo que hemos preparado
+<a href="/trebial/2017-iswc-demo-trebial_es.pdf">una versión traducida en español</a> por si lo queréis leer.
+Os avisamos de que es muy técnico y está el texto muy condensado para que quepa en 4
+páginas.</p>
+
+<p>No queda tanto tiempo para la conferencia, así que empezaremos pronto a preparar el viaje.
+A la vuelta esperamos haceros un reportaje del evento. Mientras tanto os recomendamos
+seguir poniendo a prueba vuestros conocimientos del
+<a href="https://play.google.com/store/apps/details?id=donnaipe.trebial">Trebial</a>.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Trebial: Tu Juego De Preguntas Y Respuestas]]></title>
@@ -125,27 +159,6 @@ Que cada uno celebre este 14 de febrero como quiera, pero que por un momento sep
 <p><img src="/images/mus/mus15.png" alt="El Mus" /></p>
 
 <p>Ahora llega el momento de disfrutar del juego (si todavía no lo tenéis descargadlo de <a href="https://play.google.com/store/apps/details?id=donnaipe.mus">Google Play</a>). Aprovecho para agradecer la ayuda de Javi y sus amigos para probar el juego. ¡Nos vemos en El Mus en red!</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Renovamos El Mus Para Android]]></title>
-    <link href="http://donnaipe.com/blog/2016/03/01/renovamos-el-mus-para-android/"/>
-    <updated>2016-03-01T19:54:30+01:00</updated>
-    <id>http://donnaipe.com/blog/2016/03/01/renovamos-el-mus-para-android</id>
-    <content type="html"><![CDATA[<p>Tengo novedades muy importantes en <a href="https://play.google.com/store/apps/details?id=donnaipe.mus">El Mus</a> para Android. Aunque el juego en sí creo que es bastante entretenido, me da la sensación de que la interacción con el compañero es algo limitada. Pensando en cómo mejorar esto, se me ocurrió que los bots podrían consultar a los compañeros en determinados momentos.</p>
-
-<p><img src="/images/mus/mus9.jpeg" alt="El Mus" /></p>
-
-<p>Así que me he puesto manos a la obra y he incluido un nuevo parámetro en los bots: la <strong>INTERACTIVIDAD</strong>. Según el valor de este parámetro, los bots serán más proclives a consultar a su compañero al cortar el mus y al valorar un órdago o una apuesta grande. Además, el jugador puede ahora consultar a su compañero si cortar el mus o no. Fijaos en las capturas adjuntas para ver el aspecto que tiene.</p>
-
-<p><img src="/images/mus/mus10.jpeg" alt="El Mus" /></p>
-
-<p>Por otra parte, he aprovechado para realizar unos pequeños ajustes en la inteligencia artificial y en el motor del juego. Además, he preparado nuevas imágenes del tapete y la mesa. Por último, quizá lo más reseñable de esta actualización sea la inclusión de más de 100 expresiones &ldquo;musísticas&rdquo; nuevas para dar más colorido al juego.</p>
-
-<p><img src="/images/mus/mus11.jpeg" alt="El Mus" /></p>
-
-<p>A ver si os gustan estos cambios. Espero que la siguiente actualización sea la del juego en red.</p>
 ]]></content>
   </entry>
   

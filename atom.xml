@@ -4,7 +4,7 @@
   <title><![CDATA[Producciones Don Naipe]]></title>
   <link href="http://donnaipe.com/atom.xml" rel="self"/>
   <link href="http://donnaipe.com/"/>
-  <updated>2017-03-11T04:50:13+01:00</updated>
+  <updated>2017-10-01T20:12:48+02:00</updated>
   <id>http://donnaipe.com/</id>
   <author>
     <name><![CDATA[Don Naipe]]></name>
@@ -12,6 +12,40 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Vamos a Viena a Presentar El Trebial]]></title>
+    <link href="http://donnaipe.com/blog/2017/10/01/vamos-a-viena-a-presentar-el-trebial/"/>
+    <updated>2017-10-01T19:41:53+02:00</updated>
+    <id>http://donnaipe.com/blog/2017/10/01/vamos-a-viena-a-presentar-el-trebial</id>
+    <content type="html"><![CDATA[<p>Tras mucho tiempo en silencio volvemos con una noticia estupenda: ¡Nos han aceptado una demo
+del Trebial en la conferencia más importante de Web Semántica! Se trata de la
+<a href="https://iswc2017.semanticweb.org">International Semantic Web Conference</a> (ISWC), que se celebra
+este año en Viena del 21 al 25 de octubre.</p>
+
+<p>Como sabéis, el Trebial es <a href="http://donnaipe.com/blog/2017/03/11/trebial-tu-juego-de-preguntas-y-respuestas/">nuestro último juego</a>
+y está disponible para Android en <a href="https://play.google.com/store/apps/details?id=donnaipe.trebial">Google Play</a>.
+Hemos utilizado técnicas de la Web Semántica para generar las preguntas, por lo que preparamos un artículo
+para la sesión de demos del ISWC y lo enviamos para revisión. Hemos recibido críticas muy buenas,
+por lo que nos han aceptado la demo :)</p>
+
+<p>Por si no os lo creéis, incluimos la captura y os dejamos el enlace a los
+<a href="https://iswc2017.semanticweb.org/program/accepted-papers/">artículos aceptados</a>
+en el ISWC (mirad en la pestaña de <em>Posters and demos</em>).</p>
+
+<p><img src="http://donnaipe.com/images/trebial/capturaISWC.png" alt="Trebial" /></p>
+
+<p>El artículo lo podéis descargar <a href="http://donnaipe.com/cloverquiz/2017-iswc-demo-trebial.pdf">aquí</a>. Está en inglés, por lo que hemos preparado
+<a href="http://donnaipe.com/trebial/2017-iswc-demo-trebial_es.pdf">una versión traducida en español</a> por si lo queréis leer.
+Os avisamos de que es muy técnico y está el texto muy condensado para que quepa en 4
+páginas.</p>
+
+<p>No queda tanto tiempo para la conferencia, así que empezaremos pronto a preparar el viaje.
+A la vuelta esperamos haceros un reportaje del evento. Mientras tanto os recomendamos
+seguir poniendo a prueba vuestros conocimientos del
+<a href="https://play.google.com/store/apps/details?id=donnaipe.trebial">Trebial</a>.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Trebial: Tu Juego De Preguntas Y Respuestas]]></title>
@@ -426,42 +460,6 @@ y <a href="https://play.google.com/store/apps/details?id=donnaipe.mus">El Mus</a
 <p><img src="http://donnaipe.com/images/julepeIOS/julepeIOS1.jpg" alt="Julepe en iPhone" /></p>
 
 <p>¡Que lo disfrutéis!</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Tute Cabrón Para Android: Desata Tu Lado Más Malvado]]></title>
-    <link href="http://donnaipe.com/blog/2015/05/30/tute-cabron-para-android-desata-tu-lado-mas-malvado/"/>
-    <updated>2015-05-30T17:59:33+02:00</updated>
-    <id>http://donnaipe.com/blog/2015/05/30/tute-cabron-para-android-desata-tu-lado-mas-malvado</id>
-    <content type="html"><![CDATA[<p>Volvemos a la carga con un bombazo: el <strong>Tute Cabrón</strong> para Android. Como seguramente ya sepáis, se trata de una conocida variante del tute que es todo un clásico de los juegos de baraja española. Podéis descargar <a href="https://play.google.com/store/apps/details?id=donnaipe.cabron">Tute Cabrón en Google Play</a>.</p>
-
-<p><img src="http://donnaipe.com/images/tuteCabron/logoCabron.png" alt="Tute Cabrón para Android" /></p>
-
-<p>También llamado <em>tute pierde en medio</em>, se juega con una baraja española de 36 cartas (quitando los doses a la clásica de 40), disputándose un número indefinido de rondas hasta que haya un perdedor. En cada ronda se reparten todas las cartas y se juega con las reglas del tute. Al final de la ronda se hace un recuento y se penaliza con un tanto al jugador que obtuvo una puntuación intermedia. La partida termina cuando un jugador llega a un número predeterminado de tantos.</p>
-
-<p><img src="http://donnaipe.com/images/tuteCabron/tuteCabron1.jpeg" alt="Tute Cabrón para Android" /></p>
-
-<p>Aunque la regla general es que pierde la ronda el jugador con la puntuación intermedia, hay tres notables excepciones:</p>
-
-<ol>
-<li>Si un jugador no hace baza, pierde</li>
-<li>Si un jugador hace más de 100 puntos, pierde (con la salvedad anterior)</li>
-<li>Si dos jugadores empatan, pierden (con las salvedades anteriores)</li>
-</ol>
-
-
-<p><img src="http://donnaipe.com/images/tuteCabron/tuteCabron2.jpeg" alt="Tute Cabrón para Android" /></p>
-
-<p>Otra particularidad del tute cabrón es que se canta en mesa, es decir, al coincidir el rey y el caballo del mismo palo  en una baza. El primer cante se corresponderá con las cuarenta y a partir de ese momento será triunfo el palo del cante. Los siguientes cantes serán de veinte puntos. Los cantes es uno de los aspectos que añaden más interés al juego, ya que pueden hacer que se pase de puntos un jugador que va a más.</p>
-
-<p><img src="http://donnaipe.com/images/tuteCabron/tuteCabron3.jpeg" alt="Tute Cabrón para Android" /></p>
-
-<p>De momento, sólo puede jugarse en modo individual, aunque la inteligencia artificial ha quedado muy lograda: los <em>bots</em> son unos auténticos cabronazos en el nivel de dificultad más alto&hellip;</p>
-
-<p><img src="http://donnaipe.com/images/tuteCabron/tuteCabron4.jpeg" alt="Tute Cabrón para Android" /></p>
-
-<p>¡A disfrutar del juego del verano!</p>
 ]]></content>
   </entry>
   
