@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Subastado | Producciones Don Naipe]]></title>
+  <link href="http://donnaipe.com/blog/categorias/subastado/atom.xml" rel="self"/>
+  <link href="http://donnaipe.com/"/>
+  <updated>2018-04-14T09:35:02+02:00</updated>
+  <id>http://donnaipe.com/</id>
+  <author>
+    <name><![CDATA[Don Naipe]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Tute Subastado: El Nuevo Juego De Don Naipe Para Android]]></title>
+    <link href="http://donnaipe.com/blog/2018/04/13/tute-subastado-el-nuevo-juego-de-don-naipe-para-android/"/>
+    <updated>2018-04-13T18:54:31+02:00</updated>
+    <id>http://donnaipe.com/blog/2018/04/13/tute-subastado-el-nuevo-juego-de-don-naipe-para-android</id>
+    <content type="html"><![CDATA[<p>¡Volvemos a nuestros orígenes! Tenemos un nuevo juego que anunciaros: el <strong>Tute Subastado</strong>
+(también conocido como &ldquo;subastao&rdquo;), el juego de clásico de baraja española. Ya está disponible para Android en
+<a href="https://play.google.com/store/apps/details?id=donnaipe.subastado">Google Play</a> y esperamos
+que no tarde mucho la versión para dispositivos iOS.</p>
+
+<p><img src="/images/subastado/subastado1.png" alt="Tute Subastado para Android" /></p>
+
+<p>¿No sabes de qué va el Tute Subastado? Es una variante del tute tradicional para tres jugadores
+que es tremendamente divertida. Se juega con una baraja española de 36 cartas, es decir,
+quitando los doses a la baraja clásica de 40 cartas. En cada mano se reparten todas las
+cartas, correspondiendo 12 a cada jugador, y sin marcar el pinte. La característica principal
+del tute subastado es una ronda de subasta en la que cada jugador apuesta el número de puntos
+que es capaz de ganar con sus cartas. El jugador que apueste más puntos se queda con la subasta,
+eligiendo el palo del pinte y saliendo.</p>
+
+<p><a href="https://youtu.be/Ty-VgfKqiHw"><img src="/images/youtubevideo.jpg" alt="Vídeo de Tute Subastado para Android" /></a></p>
+
+<p>Tras la fase de subasta, el juego se desarrollará como en el tute tradicional. El subastador
+intentará conseguir al menos los puntos declarados, mientras que los otros dos jugadores se
+aliarán para impedírselo. El subastador puede cantar tras hacer baza y empezando con las 40
+si tuviera varios cánticos. El ganador de la última baza se llevará las 10 de monte.</p>
+
+<p><img src="/images/subastado/subastado2.png" alt="Tute Subastado para Android" /></p>
+
+<p>Finalizada la ronda se realiza el recuento. Si el subastador consigue al menos los puntos
+subastados se los apuntará a su marcador. En caso contrario, los rivales se repartirán los
+puntos de la subasta. El primer jugador que alcance la puntuación objetivo gana la partida.</p>
+
+<p><img src="/images/subastado/logo_subastado.png" alt="Tute Subastado para Android" /></p>
+
+<p>¿Suena divertido? Pues espera a probar la versión del Tute Subastado que hemos creado. No
+faltan los nueve avatares legendarios de los juegos de Don Naipe: Ramona, Manolito, Jero,
+Lucio, Icecube&hellip; que comentan con desparpajo los lances de la partida (eso sí, al final de
+cada ronda, ya que al tute siempre se juega callado).</p>
+
+<p><img src="/images/subastado/subastado3.png" alt="Tute Subastado para Android" /></p>
+
+<p>No podemos estar más orgullos de la inteligencia artificial que hemos preparado para el juego.
+Hay tres niveles diferentes y en el nivel más alto los bots subastan con gran criterio y
+juegan sus cartas como los ángeles (tanto al subastar como a la contra). Los bots de nivel
+intermedio subastan de manera algo más alocada y no optimizan su juego. Por último, los bots
+de nivel más bajo suponen un reto menor, subastando con peor criterio y jugando de manera
+más predecible.</p>
+
+<p><img src="/images/subastado/subastado4.png" alt="Tute Subastado para Android" /></p>
+
+<p>También hemos incluido 30 logros diferentes para exprimir el juego, además de tres marcadores
+diferentes para competir con amigos y con todos los jugadores de Tute Subastado.</p>
+
+<p><img src="/images/subastado/subastado5.png" alt="Tute Subastado para Android" /></p>
+
+<p>No esperes más a descargártelo. Aquí está de nuevo <a href="https://play.google.com/store/apps/details?id=donnaipe.subastado">el enlace de descarga</a>
+para que no os lo paséis por alto. ¡Esperamos que paséis muy buenos ratos con el Tute Subastado!</p>
+]]></content>
+  </entry>
+  
+</feed>

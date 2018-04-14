@@ -4,7 +4,7 @@
   <title><![CDATA[Producciones Don Naipe]]></title>
   <link href="http://donnaipe.com/atom.xml" rel="self"/>
   <link href="http://donnaipe.com/"/>
-  <updated>2018-03-28T17:52:51+02:00</updated>
+  <updated>2018-04-14T09:35:02+02:00</updated>
   <id>http://donnaipe.com/</id>
   <author>
     <name><![CDATA[Don Naipe]]></name>
@@ -12,6 +12,67 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Tute Subastado: El Nuevo Juego De Don Naipe Para Android]]></title>
+    <link href="http://donnaipe.com/blog/2018/04/13/tute-subastado-el-nuevo-juego-de-don-naipe-para-android/"/>
+    <updated>2018-04-13T18:54:31+02:00</updated>
+    <id>http://donnaipe.com/blog/2018/04/13/tute-subastado-el-nuevo-juego-de-don-naipe-para-android</id>
+    <content type="html"><![CDATA[<p>¡Volvemos a nuestros orígenes! Tenemos un nuevo juego que anunciaros: el <strong>Tute Subastado</strong>
+(también conocido como &ldquo;subastao&rdquo;), el juego de clásico de baraja española. Ya está disponible para Android en
+<a href="https://play.google.com/store/apps/details?id=donnaipe.subastado">Google Play</a> y esperamos
+que no tarde mucho la versión para dispositivos iOS.</p>
+
+<p><img src="http://donnaipe.com/images/subastado/subastado1.png" alt="Tute Subastado para Android" /></p>
+
+<p>¿No sabes de qué va el Tute Subastado? Es una variante del tute tradicional para tres jugadores
+que es tremendamente divertida. Se juega con una baraja española de 36 cartas, es decir,
+quitando los doses a la baraja clásica de 40 cartas. En cada mano se reparten todas las
+cartas, correspondiendo 12 a cada jugador, y sin marcar el pinte. La característica principal
+del tute subastado es una ronda de subasta en la que cada jugador apuesta el número de puntos
+que es capaz de ganar con sus cartas. El jugador que apueste más puntos se queda con la subasta,
+eligiendo el palo del pinte y saliendo.</p>
+
+<p><a href="https://youtu.be/Ty-VgfKqiHw"><img src="http://donnaipe.com/images/youtubevideo.jpg" alt="Vídeo de Tute Subastado para Android" /></a></p>
+
+<p>Tras la fase de subasta, el juego se desarrollará como en el tute tradicional. El subastador
+intentará conseguir al menos los puntos declarados, mientras que los otros dos jugadores se
+aliarán para impedírselo. El subastador puede cantar tras hacer baza y empezando con las 40
+si tuviera varios cánticos. El ganador de la última baza se llevará las 10 de monte.</p>
+
+<p><img src="http://donnaipe.com/images/subastado/subastado2.png" alt="Tute Subastado para Android" /></p>
+
+<p>Finalizada la ronda se realiza el recuento. Si el subastador consigue al menos los puntos
+subastados se los apuntará a su marcador. En caso contrario, los rivales se repartirán los
+puntos de la subasta. El primer jugador que alcance la puntuación objetivo gana la partida.</p>
+
+<p><img src="http://donnaipe.com/images/subastado/logo_subastado.png" alt="Tute Subastado para Android" /></p>
+
+<p>¿Suena divertido? Pues espera a probar la versión del Tute Subastado que hemos creado. No
+faltan los nueve avatares legendarios de los juegos de Don Naipe: Ramona, Manolito, Jero,
+Lucio, Icecube&hellip; que comentan con desparpajo los lances de la partida (eso sí, al final de
+cada ronda, ya que al tute siempre se juega callado).</p>
+
+<p><img src="http://donnaipe.com/images/subastado/subastado3.png" alt="Tute Subastado para Android" /></p>
+
+<p>No podemos estar más orgullos de la inteligencia artificial que hemos preparado para el juego.
+Hay tres niveles diferentes y en el nivel más alto los bots subastan con gran criterio y
+juegan sus cartas como los ángeles (tanto al subastar como a la contra). Los bots de nivel
+intermedio subastan de manera algo más alocada y no optimizan su juego. Por último, los bots
+de nivel más bajo suponen un reto menor, subastando con peor criterio y jugando de manera
+más predecible.</p>
+
+<p><img src="http://donnaipe.com/images/subastado/subastado4.png" alt="Tute Subastado para Android" /></p>
+
+<p>También hemos incluido 30 logros diferentes para exprimir el juego, además de tres marcadores
+diferentes para competir con amigos y con todos los jugadores de Tute Subastado.</p>
+
+<p><img src="http://donnaipe.com/images/subastado/subastado5.png" alt="Tute Subastado para Android" /></p>
+
+<p>No esperes más a descargártelo. Aquí está de nuevo <a href="https://play.google.com/store/apps/details?id=donnaipe.subastado">el enlace de descarga</a>
+para que no os lo paséis por alto. ¡Esperamos que paséis muy buenos ratos con el Tute Subastado!</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[El Europoly Supera El Millón De Descargas en Android]]></title>
@@ -328,7 +389,7 @@ y <a href="https://play.google.com/store/apps/details?id=donnaipe.mus">El Mus</a
 
 <p>Europoly es un juego de tablero para 2, 3 o 4 jugadores. Cada uno tiene una ficha con la que recorrer Europa. Si la ficha de un jugador cae en una casilla de una propiedad libre, puede comprarla o subastarla. Pero si dicha propiedad es de otro jugador, tendrá que pagar la renta al caer en ella. Así, el objetivo del juego es amasar capital hasta llevar a la bancarrota a los rivales.</p>
 
-<p><a href="https://www.youtube.com/watch?v=tl4SLCW2FN4"><img src="http://img.youtube.com/vi/tl4SLCW2FN4/0.jpg" alt="Vídeo de Europoly para Android" /></a></p>
+<p><a href="https://www.youtube.com/watch?v=tl4SLCW2FN4"><img src="http://donnaipe.com/images/youtubevideo.jpg" alt="Vídeo de Europoly para Android" /></a></p>
 
 <p>El tablero está dividido en 40 casillas con ciudades y aeropuertos de Europa, una autopista, un ferry, casino, tarjetas lotería y una cárcel. Se juega por turnos, tirando dos dados para moverse por el tablero. Al pasar la Salida el jugador cobrará 5.000€. Si en una tirada se saca doble, el jugador tendrá una tirada más. Si saca tres dobles seguidos, irá a la cárcel.</p>
 
@@ -366,7 +427,7 @@ y <a href="https://play.google.com/store/apps/details?id=donnaipe.mus">El Mus</a
 
 <p><strong>El Parchís</strong> es una conversión del juego homónimo, que es especialmente popular en España. He intentado capturar la esencia del juego y permitir un grado bastante alto de configurabilidad para que pueda adaptarse a todos los paladares.</p>
 
-<p><a href="https://www.youtube.com/watch?v=4OpdQts7q8Y"><img src="http://img.youtube.com/vi/4OpdQts7q8Y/0.jpg" alt="Vídeo de El Parchís para Android" /></a></p>
+<p><a href="https://www.youtube.com/watch?v=4OpdQts7q8Y"><img src="http://donnaipe.com/images/youtubevideo.jpg" alt="Vídeo de El Parchís para Android" /></a></p>
 
 <p>Se incluyen 9 avatares para los jugadores y muchas frases del parchís que se presentan en los momentos del juego adecuados. Estoy contento con el resultado, que creo se asemeja bastante al de una partida con amigos en un tablero físico.</p>
 
@@ -414,7 +475,7 @@ y <a href="https://play.google.com/store/apps/details?id=donnaipe.mus">El Mus</a
 
 <p><strong>Dominó en Parejas</strong> es una conversión del juego clásico de dominó, tan popular en España y Latinoamérica. Para los que no lo conozcan, la dinámica es sencilla: se juega entre cuatro, formando pareja los jugadores enfrentados en la mesa. El objetivo es llegar a un número de puntos, típicamente 100, antes que la pareja contraria.</p>
 
-<p><a href="https://www.youtube.com/watch?v=wnnLeopPe-4"><img src="http://img.youtube.com/vi/wnnLeopPe-4/0.jpg" alt="Vídeo de Dominó en Parejas para Android" /></a></p>
+<p><a href="https://www.youtube.com/watch?v=wnnLeopPe-4"><img src="http://donnaipe.com/images/youtubevideo.jpg" alt="Vídeo de Dominó en Parejas para Android" /></a></p>
 
 <p>En cada ronda se reparten todas las fichas, 7 por jugador. En la primera ronda sale el jugador con el 6 doble con esa ficha. En las rondas siguientes el turno pasa al jugador de la derecha, pudiendo elegir cualquier ficha como salida.</p>
 
@@ -435,37 +496,6 @@ y <a href="https://play.google.com/store/apps/details?id=donnaipe.mus">El Mus</a
 <p><img src="http://donnaipe.com/images/domino/domino4.jpg" alt="Dominó en Parejas para Android" /></p>
 
 <p><strong>Dominó en Parejas</strong> está dedicado a mi abuelo Pepe, que me enseño a jugar al dominó. Podéis <a href="https://play.google.com/store/apps/details?id=donnaipe.domino">descargar Dominó en Parejas en Google Play</a>. Espero que lo disfrutéis.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Pon a Prueba Tus Reflejos Con Rápido Don Naipe]]></title>
-    <link href="http://donnaipe.com/blog/2015/06/26/pon-a-prueba-tus-reflejos-con-rapido-don-naipe/"/>
-    <updated>2015-06-26T10:02:25+02:00</updated>
-    <id>http://donnaipe.com/blog/2015/06/26/pon-a-prueba-tus-reflejos-con-rapido-don-naipe</id>
-    <content type="html"><![CDATA[<p>Seguimos con nuevos lanzamientos: <strong>Rápido Don Naipe</strong> para Android, disponible en <a href="https://play.google.com/store/apps/details?id=donnaipe.rapido">Google Play</a>. Esta vez se trata de una conversión del juego de cartas <em>el rápido</em>. Se trata de un juego muy diferente a los anteriores que he hecho, en el que dos jugadores compiten para deshacerse de su cartas lo más rápido posible. Los jugadores no toman turnos, por lo que la rapidez y reflejos son claves para ganar a tu oponente. En cada ronda, los jugadores juegan las cartas en su mano para reducir las cartas de su montón. Tras sucesivas rondas, gana el jugador que se deshaga de todas sus cartas.</p>
-
-<p><img src="http://donnaipe.com/images/rapido/logoRapido.png" alt="Rápido Don Naipe para Android" /></p>
-
-<p>Cada jugador tiene en su mano cuatro cartas boca arriba, que puede colocar en cualquiera de los dos montones de juego. Para colocar una carta en un montón, es necesario que sea la siguiente en la secuencia por arriba o por abajo. Por ejemplo, si en un montón hay un siete, puede jugarse una sota o un seis (el palo no importa).</p>
-
-<p><a href="https://www.youtube.com/watch?v=NN0r9bS0uc0"><img src="http://img.youtube.com/vi/NN0r9bS0uc0/0.jpg" alt="Vídeo de Rápido Don Naipe para Android" /></a></p>
-
-<p>Por primera vez en mis juegos la disposición del juego es vertical en vez de apaisada. He puesto mucho cuidado en que la interacción hombre-máquina sea fluida, aprovechando las capacidades de las pantallas táctiles. De hecho, he probado el juego utilizando el ratón en el emulador de Android y resulta bastante menos divertido.</p>
-
-<p><img src="http://donnaipe.com/images/rapido/rapido1.jpeg" alt="Rápido Don Naipe para Android" /></p>
-
-<p>El oponente es un bot que es muy configurable: el parámetro básico es la rapidez, variando desde &ldquo;caracol&rdquo; hasta &ldquo;rayo&rdquo; (¡hasta nueve niveles diferentes!). También puede ajustarse la inteligencia artificial: en el nivel normal el bot intentará jugar sus cartas minimizando el tiempo de desplazamiento, mientras que en el nivel bueno el bot será mucho más taimado y tendrá en cuenta la mano del oponente.</p>
-
-<p>Creo que uno de los grandes aciertos del juego es mostrar el movimiento del bot con una mano. De esta manera puede observarse cómo reacciona y reajusta sus jugadas de acuerdo con la situación.</p>
-
-<p><img src="http://donnaipe.com/images/rapido/rapido2.jpeg" alt="Rápido Don Naipe para Android" /></p>
-
-<p>Por otra parte, <strong>Rápido Don Naipe</strong> ofrece dos variantes de juego: <em>clásica</em> y <em>normal</em>, que corresponden con las adaptaciones a la baraja española de los juegos <a href="http://www.pagat.com/patience/spit.html">Speed/Spit para baraja francesa</a> respectivamente. Además, hay dos modos de juego: <em>reto</em> y <em>supervivencia</em>. El primero es equivalente a una partida, mientras que en el modo supervivencia la rapidez del bot se incrementará con cada nivel superado.</p>
-
-<p><img src="http://donnaipe.com/images/rapido/rapido3.jpeg" alt="Rápido Don Naipe para Android" /></p>
-
-<p>¿Suena interesante? Corre a <a href="https://play.google.com/store/apps/details?id=donnaipe.rapido">descargar Rápido Don Naipe en Google Play</a>. ¡Buen verano!</p>
 ]]></content>
   </entry>
   
