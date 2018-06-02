@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Subastado | Producciones Don Naipe]]></title>
   <link href="http://donnaipe.com/blog/categorias/subastado/atom.xml" rel="self"/>
   <link href="http://donnaipe.com/"/>
-  <updated>2018-04-14T09:35:02+02:00</updated>
+  <updated>2018-06-02T09:56:44+02:00</updated>
   <id>http://donnaipe.com/</id>
   <author>
     <name><![CDATA[Don Naipe]]></name>
@@ -12,6 +12,26 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Tute Subastado Ya Está Disponible Para iOS]]></title>
+    <link href="http://donnaipe.com/blog/2018/05/30/tute-subastado-ya-esta-disponible-para-ios/"/>
+    <updated>2018-05-30T17:25:25+02:00</updated>
+    <id>http://donnaipe.com/blog/2018/05/30/tute-subastado-ya-esta-disponible-para-ios</id>
+    <content type="html"><![CDATA[<p>¡Muy buenas! Hace unas semanas presentábamos el <strong>Tute Subastado</strong> para Android. El juego está
+teniendo mucha aceptación, así que nos hemos puesto manos a la obra para portarlo a iOS. El
+App Store acaba de darnos luz verde a la publicación, así que ya está disponible para
+cualquier dispositivo iPhone, iPad y iPod con iOS 8 o superior. Podéis
+<a href="https://itunes.apple.com/in/app/tute-subastado/id1387440190?mt=8">descargar el Tute Subastado para iOS aquí</a>.</p>
+
+<p><img src="/images/subastado/subastado1.png" alt="Tute Subastado para iOS" /></p>
+
+<p>Esta versión del Tute Subastado es la misma que la de Android, así que podéis consultar <a href="/blog/2018/04/13/tute-subastado-el-nuevo-juego-de-don-naipe-para-android/">en este post</a>
+los detalles.</p>
+
+<p>Esperamos que disfrutéis mucho del Tute Subastado para iOS.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Tute Subastado: El Nuevo Juego De Don Naipe Para Android]]></title>
