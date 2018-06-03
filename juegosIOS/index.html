@@ -9,7 +9,8 @@
   <meta name="author" content="Don Naipe">
 
   
-  <meta name="description" content="Europoly
+  <meta name="description" content="Tute Subastado
+Europoly
 El Parchís
 Tute del Medio
 Dominó en Parejas
@@ -18,7 +19,7 @@ Tute
 La Pocha
 El Julepe
 Tute PRO
-La Pocha PRO Europoly Tira los dados, mueve tu &hellip;">
+La Pocha PRO Tute Subastado ¿Te &hellip;">
   
 
   <!-- http://t.co/dKP3o1e -->
@@ -96,6 +97,7 @@ La Pocha PRO Europoly Tira los dados, mueve tu &hellip;">
 <link rel="stylesheet" href="/juegos/css/blueimp-gallery-indicator.css">
 
 <ul>
+<li><a href="#subastado">Tute Subastado</a></li>
 <li><a href="#europoly">Europoly</a></li>
 <li><a href="#parchis">El Parchís</a></li>
 <li><a href="#tuteMedio">Tute del Medio</a></li>
@@ -107,6 +109,55 @@ La Pocha PRO Europoly Tira los dados, mueve tu &hellip;">
 <li><a href="#tutePro">Tute PRO</a></li>
 <li><a href="#pochaPro">La Pocha PRO</a></li>
 </ul>
+
+
+<h2></h2>
+<h1>Tute Subastado<a name="subastado"></a></h1>
+
+<p>¿Te gusta jugar al tute? Prepárate con esta popular y entretenida variante, el Tute 
+Subastado. Se juega con tres jugadores comenzando con una ronda de subasta en la que cada 
+jugador apostará el número de puntos que es capaz de ganar con sus cartas. El ganador de 
+la subasta intentará luego conseguir al menos los puntos declarados, mientras que los otros 
+dos jugadores se aliarán para impedírselo.</p>
+
+<div style="float:right;clear:right;margin-left:30px">
+<a href="https://itunes.apple.com/in/app/tute-subastado/id1387440190?mt=8"><img alt="Consíguelo en el App Store"
+       src="/juegosIOS/img/AppStoreBadge.png" /></a>
+</div>
+
+<p>El Tute Subastado contiene toda la esencia del juego original. Como siempre, la inteligencia 
+artificial la hemos cuidado al máximo y no podemos estar más satisfechos con el resultado: 
+en el nivel más alto los bots subastan con gran criterio y juegan sus cartas como los ángeles 
+(tanto al subastar como a la contra). Los bots de nivel intermedio subastan de manera algo más 
+alocada y no optimizan su juego. Por último, los bots de nivel más bajo suponen un reto menor, 
+subastando con peor criterio y jugando de manera más predecible.</p>
+
+<div id="subastado-carousel" class="blueimp-gallery blueimp-gallery-carousel">
+    <div class="slides"></div>
+    <h3 class="title"></h3>
+    <a class="prev">‹</a>
+    <a class="next">›</a>
+    <a class="play-pause"></a>
+    <ol class="indicator"></ol>
+</div>
+
+<p>En el Tute Subastado hemos incluido todos nuestros personajes legendarios: Ramona, Jero, Lucio, 
+Icecube, Manolito&#8230; Además hemos incluido un montón de frases para amenizar el juego.</p>
+
+<p>Con el Tute Subastado podrás:</p>
+<ul>
+<li>Jugar al tute subastado de tres jugadores</li>
+<li>Elegir entre nueve bots diferentes con tres niveles de dificultad</li>
+<li>Configurar el juego a tu gusto</li>
+</ul>
+
+<p>Tute Subastado está disponible para cualquier iPhone/iPad (iOS 8.0 o superior). 
+Si tienes un iPhone/iPad/iPod, descárgatelo en 
+<a href="https://itunes.apple.com/in/app/tute-subastado/id1387440190?mt=8">el App Store</a>.</p>
+
+
+<br><br>
+
 
 <h2></h2>
 <h1>Europoly<a name="europoly"></a></h1>
@@ -625,6 +676,13 @@ Si tienes un iPhone/iPad/iPod, descárgatelo en
     <a href="/images/europoly/europoly6.jpeg"></a>    
 </div>
 
+<div id="enlaces_subastado">
+    <a href="/images/subastado/subastado1.png"></a>
+    <a href="/images/subastado/subastado2.png"></a>
+    <a href="/images/subastado/subastado3.png"></a>
+    <a href="/images/subastado/subastado4.png"></a>
+    <a href="/images/subastado/subastado5.png"></a>  
+</div>
 
 <script src="/juegos/js/blueimp-helper.js"></script>
 <script src="/juegos/js/blueimp-gallery.js"></script>
@@ -711,6 +769,14 @@ blueimp.Gallery(
         carousel: true
     }
 );
+
+blueimp.Gallery(
+    document.getElementById('enlaces_subastado').getElementsByTagName('a'),
+    {
+        container: '#subastado-carousel',
+        carousel: true
+    }
+);
 </script>
 
 <script>
@@ -724,6 +790,7 @@ blueimp.Gallery(
   $("#enlaces_domino").hide();  
   $("#enlaces_parchis").hide();  
   $("#enlaces_europoly").hide();  
+  $("#enlaces_subastado").hide();  
 </script>
 
   
