@@ -1,0 +1,487 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Producciones Don Naipe]]></title>
+  <link href="http://donnaipe.com/atom.xml" rel="self"/>
+  <link href="http://donnaipe.com/"/>
+  <updated>2018-11-17T08:53:09+01:00</updated>
+  <id>http://donnaipe.com/</id>
+  <author>
+    <name><![CDATA[Don Naipe]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Entrevista en Applicantes]]></title>
+    <link href="http://donnaipe.com/blog/2018/09/20/entrevista-en-applicantes/"/>
+    <updated>2018-09-20T18:22:41+02:00</updated>
+    <id>http://donnaipe.com/blog/2018/09/20/entrevista-en-applicantes</id>
+    <content type="html"><![CDATA[<p><a href="http://applicantes.com/">Applicantes</a> ha contactado conmigo para una entrevista. El resultado de la misma está disponible aquí: <a href="http://applicantes.com/don-naipe-juegos-cartas-tute-mus-ios-android/">El desarrollador que ha llevado los juegos de cartas más famosos a las tiendas de apps</a>. En la entrevista desvelo algunos de los entresijos de los juegos de Don Naipe. Muchas gracias a Applicantes y espero que os resulte interesante.</p>
+
+<p><img src="http://donnaipe.com/images/entrevista_applicantes.jpg" alt="Imagen entrevista Applicantes" /></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Tute Subastado Ya Está Disponible Para iOS]]></title>
+    <link href="http://donnaipe.com/blog/2018/05/30/tute-subastado-ya-esta-disponible-para-ios/"/>
+    <updated>2018-05-30T17:25:25+02:00</updated>
+    <id>http://donnaipe.com/blog/2018/05/30/tute-subastado-ya-esta-disponible-para-ios</id>
+    <content type="html"><![CDATA[<p>¡Muy buenas! Hace unas semanas presentábamos el <strong>Tute Subastado</strong> para Android. El juego está
+teniendo mucha aceptación, así que nos hemos puesto manos a la obra para portarlo a iOS. El
+App Store acaba de darnos luz verde a la publicación, así que ya está disponible para
+cualquier dispositivo iPhone, iPad y iPod con iOS 8 o superior. Podéis
+<a href="https://itunes.apple.com/in/app/tute-subastado/id1387440190?mt=8">descargar el Tute Subastado para iOS aquí</a>.</p>
+
+<p><img src="http://donnaipe.com/images/subastado/subastado1.png" alt="Tute Subastado para iOS" /></p>
+
+<p>Esta versión del Tute Subastado es la misma que la de Android, así que podéis consultar <a href="http://donnaipe.com/blog/2018/04/13/tute-subastado-el-nuevo-juego-de-don-naipe-para-android/">en este post</a>
+los detalles.</p>
+
+<p>Esperamos que disfrutéis mucho del Tute Subastado para iOS.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Tute Subastado: El Nuevo Juego De Don Naipe Para Android]]></title>
+    <link href="http://donnaipe.com/blog/2018/04/13/tute-subastado-el-nuevo-juego-de-don-naipe-para-android/"/>
+    <updated>2018-04-13T18:54:31+02:00</updated>
+    <id>http://donnaipe.com/blog/2018/04/13/tute-subastado-el-nuevo-juego-de-don-naipe-para-android</id>
+    <content type="html"><![CDATA[<p>¡Volvemos a nuestros orígenes! Tenemos un nuevo juego que anunciaros: el <strong>Tute Subastado</strong>
+(también conocido como &ldquo;subastao&rdquo;), el juego de clásico de baraja española. Ya está disponible para Android en
+<a href="https://play.google.com/store/apps/details?id=donnaipe.subastado">Google Play</a> y esperamos
+que no tarde mucho la versión para dispositivos iOS.</p>
+
+<p><img src="http://donnaipe.com/images/subastado/subastado1.png" alt="Tute Subastado para Android" /></p>
+
+<p>¿No sabes de qué va el Tute Subastado? Es una variante del tute tradicional para tres jugadores
+que es tremendamente divertida. Se juega con una baraja española de 36 cartas, es decir,
+quitando los doses a la baraja clásica de 40 cartas. En cada mano se reparten todas las
+cartas, correspondiendo 12 a cada jugador, y sin marcar el pinte. La característica principal
+del tute subastado es una ronda de subasta en la que cada jugador apuesta el número de puntos
+que es capaz de ganar con sus cartas. El jugador que apueste más puntos se queda con la subasta,
+eligiendo el palo del pinte y saliendo.</p>
+
+<p><a href="https://youtu.be/Ty-VgfKqiHw"><img src="http://donnaipe.com/images/youtubevideo.jpg" alt="Vídeo de Tute Subastado para Android" /></a></p>
+
+<p>Tras la fase de subasta, el juego se desarrollará como en el tute tradicional. El subastador
+intentará conseguir al menos los puntos declarados, mientras que los otros dos jugadores se
+aliarán para impedírselo. El subastador puede cantar tras hacer baza y empezando con las 40
+si tuviera varios cánticos. El ganador de la última baza se llevará las 10 de monte.</p>
+
+<p><img src="http://donnaipe.com/images/subastado/subastado2.png" alt="Tute Subastado para Android" /></p>
+
+<p>Finalizada la ronda se realiza el recuento. Si el subastador consigue al menos los puntos
+subastados se los apuntará a su marcador. En caso contrario, los rivales se repartirán los
+puntos de la subasta. El primer jugador que alcance la puntuación objetivo gana la partida.</p>
+
+<p><img src="http://donnaipe.com/images/subastado/logo_subastado.png" alt="Tute Subastado para Android" /></p>
+
+<p>¿Suena divertido? Pues espera a probar la versión del Tute Subastado que hemos creado. No
+faltan los nueve avatares legendarios de los juegos de Don Naipe: Ramona, Manolito, Jero,
+Lucio, Icecube&hellip; que comentan con desparpajo los lances de la partida (eso sí, al final de
+cada ronda, ya que al tute siempre se juega callado).</p>
+
+<p><img src="http://donnaipe.com/images/subastado/subastado3.png" alt="Tute Subastado para Android" /></p>
+
+<p>No podemos estar más orgullos de la inteligencia artificial que hemos preparado para el juego.
+Hay tres niveles diferentes y en el nivel más alto los bots subastan con gran criterio y
+juegan sus cartas como los ángeles (tanto al subastar como a la contra). Los bots de nivel
+intermedio subastan de manera algo más alocada y no optimizan su juego. Por último, los bots
+de nivel más bajo suponen un reto menor, subastando con peor criterio y jugando de manera
+más predecible.</p>
+
+<p><img src="http://donnaipe.com/images/subastado/subastado4.png" alt="Tute Subastado para Android" /></p>
+
+<p>También hemos incluido 30 logros diferentes para exprimir el juego, además de tres marcadores
+diferentes para competir con amigos y con todos los jugadores de Tute Subastado.</p>
+
+<p><img src="http://donnaipe.com/images/subastado/subastado5.png" alt="Tute Subastado para Android" /></p>
+
+<p>No esperes más a descargártelo. Aquí está de nuevo <a href="https://play.google.com/store/apps/details?id=donnaipe.subastado">el enlace de descarga</a>
+para que no os lo paséis por alto. ¡Esperamos que paséis muy buenos ratos con el Tute Subastado!</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[El Europoly Supera El Millón De Descargas en Android]]></title>
+    <link href="http://donnaipe.com/blog/2018/03/28/el-europoly-supera-el-millon-de-descargas-en-android/"/>
+    <updated>2018-03-28T17:33:38+02:00</updated>
+    <id>http://donnaipe.com/blog/2018/03/28/el-europoly-supera-el-millon-de-descargas-en-android</id>
+    <content type="html"><![CDATA[<p>¡Estamos de enhorabuena! Uno de los juegos más populares de Don Naipe, <a href="https://play.google.com/store/apps/details?id=donnaipe.europoly">el Europoly</a>, ya ha superado el millón de descargas en Android. Poco más de dos años después de su lanzamiento, Europoly ha entrado en el selecto club de los juegos más descargados en la plataforma Android.</p>
+
+<p><img src="http://donnaipe.com/images/europoly/europoly-descargas.jpg" alt="Europoly" /></p>
+
+<p>Más allá de las descargas, Europoly cuenta con gran aceptación al alcanzar una valoración media de 4/5 entre los más de 10.000 jugadores que lo han valorado. Nuestros usuarios valoran especialmente su dinamismo y la alta dosis de diversión que ofrece.</p>
+
+<p>Si todavía no lo conoces, puedes <a href="https://play.google.com/store/apps/details?id=donnaipe.europoly">descargártelo gratis en el Play Store</a> en cualquier móvil o tableta Android. El Europoly también está <a href="https://itunes.apple.com/es/app/europoly/id1077045179?mt=8">disponible en iOS</a>, donde también está cosechando un notable éxito.</p>
+
+<p><img src="http://donnaipe.com/images/europoly/europoly-valoracion.jpg" alt="Europoly" /></p>
+
+<p>Europoly es un juego de finanzas en el que pueden participar de 2 a 4 jugadores. Cada uno de ellos dispone de una ficha con la que recorrerá Europa con el objetivo de construir su propio monopolio. Si al tirar los dados tu ficha cae en una casilla de una propiedad libre, podrás comprarla o subastarla; pero si dicha propiedad es de otro jugador, tendrás que pagar una renta al caer en ella. El objetivo del juego es amasar capital hasta que consigas llevar a la bancarrota a tus rivales.</p>
+
+<p>Podrás jugar al Europoly contra otros bots o con humanos en el mismo dispositivo. Los bots ofrecen tres niveles de dificultad diferentes y su agresividad y manera de negociar irá variando según dicho nivel.</p>
+
+<p>Europoly no ofrece sólo diversión. Con él aprenderás a manejar tus finanzas, repasarás tus conocimientos geográficos y desarrollarás tus habilidades de negociación. ¿A qué esperas para probarlo?</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Vamos a Viena a Presentar El Trebial]]></title>
+    <link href="http://donnaipe.com/blog/2017/10/01/vamos-a-viena-a-presentar-el-trebial/"/>
+    <updated>2017-10-01T19:41:53+02:00</updated>
+    <id>http://donnaipe.com/blog/2017/10/01/vamos-a-viena-a-presentar-el-trebial</id>
+    <content type="html"><![CDATA[<p>Tras mucho tiempo en silencio volvemos con una noticia estupenda: ¡Nos han aceptado una demo
+del Trebial en la conferencia más importante de Web Semántica! Se trata de la
+<a href="https://iswc2017.semanticweb.org">International Semantic Web Conference</a> (ISWC), que se celebra
+este año en Viena del 21 al 25 de octubre.</p>
+
+<p>Como sabéis, el Trebial es <a href="http://donnaipe.com/blog/2017/03/11/trebial-tu-juego-de-preguntas-y-respuestas/">nuestro último juego</a>
+y está disponible para Android en <a href="https://play.google.com/store/apps/details?id=donnaipe.trebial">Google Play</a>.
+Hemos utilizado técnicas de la Web Semántica para generar las preguntas, por lo que preparamos un artículo
+para la sesión de demos del ISWC y lo enviamos para revisión. Hemos recibido críticas muy buenas,
+por lo que nos han aceptado la demo :)</p>
+
+<p>Por si no os lo creéis, incluimos la captura y os dejamos el enlace a los
+<a href="https://iswc2017.semanticweb.org/program/accepted-papers/">artículos aceptados</a>
+en el ISWC (mirad en la pestaña de <em>Posters and demos</em>).</p>
+
+<p><img src="http://donnaipe.com/images/trebial/capturaISWC.png" alt="Trebial" /></p>
+
+<p>El artículo lo podéis descargar <a href="http://donnaipe.com/cloverquiz/2017-iswc-demo-trebial.pdf">aquí</a>. Está en inglés, por lo que hemos preparado
+<a href="http://donnaipe.com/trebial/2017-iswc-demo-trebial_es.pdf">una versión traducida en español</a> por si lo queréis leer.
+Os avisamos de que es muy técnico y está el texto muy condensado para que quepa en 4
+páginas.</p>
+
+<p>No queda tanto tiempo para la conferencia, así que empezaremos pronto a preparar el viaje.
+A la vuelta esperamos haceros un reportaje del evento. Mientras tanto os recomendamos
+seguir poniendo a prueba vuestros conocimientos del
+<a href="https://play.google.com/store/apps/details?id=donnaipe.trebial">Trebial</a>.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Trebial: Tu Juego De Preguntas Y Respuestas]]></title>
+    <link href="http://donnaipe.com/blog/2017/03/11/trebial-tu-juego-de-preguntas-y-respuestas/"/>
+    <updated>2017-03-11T04:29:22+01:00</updated>
+    <id>http://donnaipe.com/blog/2017/03/11/trebial-tu-juego-de-preguntas-y-respuestas</id>
+    <content type="html"><![CDATA[<p>Tenemos grandes noticias para compartir con vosotros: ¡ya está disponible el nuevo juego! Han sido 10 meses de intenso desarrollo, pero por fin está listo el undécimo juego de Don Naipe para Android: <a href="https://play.google.com/store/apps/details?id=donnaipe.trebial">El Trebial</a>. Se trata de un juego multijugador de preguntas y respuestas.</p>
+
+<p><img src="http://donnaipe.com/images/trebial/trebial1.png" alt="Trebial" /></p>
+
+<p>Las principales características del Trebial son las siguientes:</p>
+
+<ul>
+<li>Cientos de miles de preguntas súper entretenidas</li>
+<li>Partidas en red con amigos y otros jugadores</li>
+<li>Retos individuales temáticos</li>
+<li>Estadísticas completísimas</li>
+<li>4 marcadores diferentes</li>
+<li>56 logros diferentes</li>
+</ul>
+
+
+<p><img src="http://donnaipe.com/images/trebial/trebial2.png" alt="Trebial" /></p>
+
+<p>Aunque ya hay algunos juegos de esta categoría en Google Play, hemos dado una vuelta de tuerca al concepto y nos hemos basado en la Wikipedia para generar las preguntas. No ha sido nada fácil, pero no podemos estar más satisfechos con el resultado: las preguntas son muy variadas y súper-entretenidas. Además, tenemos muchas: cientos de miles de preguntas clasificadas por temas y ordenadas por dificultad a tu disposición. Las categorías generales son: Animales, Arte, Cine, Geografía, Libros, Música y Tecnología.</p>
+
+<p><img src="http://donnaipe.com/images/trebial/trebial3.png" alt="Trebial" /></p>
+
+<p>En cuando a la dinámica de juego, el Trebial incluye un modo multijugador y uno individual. En una partida en red compites con otro humano por turnos. Cada jugador tiene que conseguir los 8 quesitos del tablero respondiendo a preguntas de diferentes campos. El jugador con el turno seleccionará cualquiera de los quesitos que le queden y responderá a una pregunta del campo correspondiente. En caso de acierto, el jugador consigue el quesito y sigue jugando, pero en caso de fallo el turno pasará a su rival. El primer jugador que consiga los 8 quesitos podrá retar a un duelo a su rival. El jugador retado escogerá los 5 tipos de preguntas que prefiera (pista: puedes consultar las estadísticas de tu rival para elegir los temas en los que es más flojo). Cada jugador responderá en su turno a las 5 preguntas elegidas. Ganará el duelo el jugador que consiga más aciertos y en caso de empate el que responda en menos tiempo. La partida termina si el jugador que inició el reto gana el duelo. En otro caso, pierde los 8 quesitos y sigue la partida hasta que un jugador gane un duelo tras haber retado a su rival.</p>
+
+<p><img src="http://donnaipe.com/images/trebial/trebial4.png" alt="Trebial" /></p>
+
+<p>Para jugar partidas en red hace falta estar conectado a Google (pulsa el botón de abajo a la izquierda en la pantalla inicial para hacerlo). Pulsando en el botón rojo de la pantalla inicial puedes crear una partida en red. En el menú de configuración puedes escoger entre partidas rápidas contra un rival aleatorio o mandar una invitación a un amigo. Puedes elegir también el idioma de las preguntas (español o inglés). Por último, puedes elegir selección manual o automática de los temas de las preguntas: con la selección manual puedes escoger 1 de los 4 temas propuestos tras seleccionar un quesito. Ten en cuenta que cada turno tiene un tiempo máximo de 48 horas para responder, por lo que es importante atender a tus invitaciones y a las partidas en tu turno.</p>
+
+<p><img src="http://donnaipe.com/images/trebial/trebial5.png" alt="Trebial" /></p>
+
+<p>Además de partidas en red, Trebial incluye retos individuales en 8 campos diferentes: Animales, Arte, Cine, Geografía, Libros, Música, Tecnología y Todos los campos. El reto consiste en responder a 7 preguntas del campo elegido. Si respondes a todas correctamente, habrás superado el reto. Para cada campo hay 21 niveles de dificultad creciente. Inicialmente sólo está disponible el nivel 0 de cada uno de los campos. Si superas un reto de un campo, desbloquearás el siguiente nivel del mismo.</p>
+
+<p><img src="http://donnaipe.com/images/trebial/trebial6.png" alt="Trebial" /></p>
+
+<p>Esperamos que os hayáis hecho una idea del funcionamiento del Trebial, aunque hay muchísimas más cosas que contar. Un aspecto interesante es que este juego es el resultado de una investigación en el campo de la Web Semántica (también llamada Web 3.0). Así que no sólo vais a aprender mucho con el Trebial, sino que además podréis presumir de producto puntero ante vuestras amistades (aprovechad también para jugar unas partidas al Trebial con ellos).</p>
+
+<p><img src="http://donnaipe.com/images/trebial/trebial7.png" alt="Trebial" /></p>
+
+<p>Incluimos de nuevo <a href="https://play.google.com/store/apps/details?id=donnaipe.trebial">el enlace de descarga del Trebial en Google Play</a>. ¡Esperamos que lo disfrutéis!</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Tendencias De Juegos Móviles en 2017]]></title>
+    <link href="http://donnaipe.com/blog/2017/03/02/tendencias-de-juegos-moviles-en-2017/"/>
+    <updated>2017-03-02T20:39:13+01:00</updated>
+    <id>http://donnaipe.com/blog/2017/03/02/tendencias-de-juegos-moviles-en-2017</id>
+    <content type="html"><![CDATA[<p><p>Los juegos móviles están ganando cada vez más cuota de mercado dentro del sector del entretenimiento, incluso por encima de las consolas que han estado dominando la industria del videojuego durante la última década (podéis consultar los detalles en <a href="https://www.superdataresearch.com/market-data/market-brief-year-in-review/">este estudio</a>). Las previsiones son también optimistas para 2017, <a href="http://venturebeat.com/2014/07/23/mobile-games-revenue-will-double-by-2017-as-growth-spreads-worldwide-exclusive/">previendo un crecimiento sostenido en todo el mundo y en particular en Latinoamérica</a>.<p></p>
+
+<p><img src="http://donnaipe.com/images/tendencias_juegos_moviles_2017.png" alt="Tendencias juegos móviles" />
+<p>A pesar de estas cifras y de la cantidad de juegos móviles disponibles, el crecimiento no es homogéneo. La mayor parte del mercado se lo llevan las grandes producciones (<em>blockbusters</em>) como Clash Royale o Pokemon. Así, los pequeños estudios nos quedamos con una parte pequeña del pastel, aunque jugando un papel importante con títulos que llegan a un público más minoritario. Por cierto, algunos de estos juegos son muy buenos, mirad por ejemplo <a href="https://events.withgoogle.com/indie-games-contest-europe/finalists/">los ganadores del reciente concurso de juegos indie de Google Play</a>.</p>
+<p>Con este panorama, ¿qué podemos esperar en la industria de juegos móviles para 2017? Entre las tendencias más importantes podemos destacar:</p><p>&ndash; Realidad aumentada<br/>
+&ndash; Conectividad con varias pantallas, como el ordenador o la televisión<br/>
+&ndash; Realidad virtual<br/>
+&ndash; Juegos colaborativos<br/>
+&ndash; Juegos masivos online<br/>
+&ndash; Videojuegos de simulación y 3D<br/>
+</p><p>Ya estamos viendo ejemplos de juegos móviles que incorporan estas tecnologías. Y desde Don Naipe queremos también mejorar nuestra oferta atendiendo a estas tendencias, pero sin olvidar el camino que hemos recorrido hasta ahora. Así, esperamos sacar un nuevo juego en próximas fechas con el que aunemos las nuevas tecnologías del sector con la tradición y entretenimiento de los juegos de siempre.</p><p>¿Sabéis por dónde van los tiros?</p></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Tercer Aniversario]]></title>
+    <link href="http://donnaipe.com/blog/2017/02/14/tercer-aniversario/"/>
+    <updated>2017-02-14T08:36:32+01:00</updated>
+    <id>http://donnaipe.com/blog/2017/02/14/tercer-aniversario</id>
+    <content type="html"><![CDATA[<p>Hoy en Don Naipe podemos decir que somos felices. ¿Por ser 14 de febrero? ¡Por supuesto! Y nos enorgullece saber que el resto del mundo también lo celebra con nosotros, aunque quizá no por la misma razón. Hoy es un día especial y feliz para Don Naipe porque, como decía el filósofo Jean Paul Sastre, la felicidad no consiste en hacer lo que uno quiere, sino en querer lo que uno hace.</p>
+
+<p><img src="http://donnaipe.com/images/feliz_14_febrero.png" alt="Feliz tercer aniversario" /></p>
+
+<p>¿Qué hemos hecho nosotros? Cumplir tres años. Tres añitos de vida haciendo lo que más nos gusta es motivo de celebración y para estar orgullosos de lo que hemos conseguido, de la comunidad que está con nosotros pero, sobre todo, de lo que está por venir.
+Pese a llevar un año muy poco activos en las redes sociales, ha sido por una buena razón: tenemos sorpresas, novedades, ilusión y muchas ganas para 2017. Y qué mejor espaldarazo de salida para anunciar todas las novedades que el día de nuestra celebración. Un día en el que también queremos contar con todos vosotros. Porque al fin y al cabo sin vosotros, Don Naipe no sería nada más que un náufrago en la inmensidad del océano, pero gracias a vuestro tiempo, dedicación y pasión por los juegos nos sentimos arropados y que estamos construyendo algo juntos.
+Que cada uno celebre este 14 de febrero como quiera, pero que por un momento sepa que Don Naipe hace 3 años que inició su andadura y queremos seguir aquí con vosotros mucho tiempo. ¡Todo el que nos dejéis! Poco a poco iremos mostrando nuestras cartas, ¡habrá sorpresas! Esperamos que os animéis a formar parte de este proyecto en el que nos hemos embarcado.
+<strong>¡Felicidades!</strong></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[El Mus Ya Está en Red]]></title>
+    <link href="http://donnaipe.com/blog/2016/05/12/el-mus-ya-esta-en-red/"/>
+    <updated>2016-05-12T17:02:07+02:00</updated>
+    <id>http://donnaipe.com/blog/2016/05/12/el-mus-ya-esta-en-red</id>
+    <content type="html"><![CDATA[<p>Hacía bastante tiempo que no publicaba nada en el blog, y no por falta de actividad. Este principio de año he estado muy atareado renovando los recursos gráficos de mis juegos. Además, he incluido marcadores, logros y estadísticas en el Europoly, Tute Cabrón, Julepe y Dominó en Parejas.</p>
+
+<p><img src="http://donnaipe.com/images/mus/mus13.png" alt="El Mus" /></p>
+
+<p>Después de todo esto, me he puesto por fin con el modo en red de <a href="https://play.google.com/store/apps/details?id=donnaipe.mus">El Mus</a> para Android. Y tras mucho esfuerzo, por fin puedo hacer el anuncio tan esperado: <strong>¡Ya está disponible la versión multijugador de El Mus para Android!</strong>.</p>
+
+<p><img src="http://donnaipe.com/images/mus/mus17.png" alt="El Mus" /></p>
+
+<p>Pueden jugarse partidas rápidas o invitar a amigos a través de Google Play Juegos. En cualquier caso, hay una espera hasta que se monta la partida con 4 humanos. A continuación se forman los equipos, eligiendo un avatar entre los disponibles.</p>
+
+<p><img src="http://donnaipe.com/images/mus/icono_mus_red.png" alt="El Mus" /></p>
+
+<p>Ya en el juego, la mecánica es similar al juego individual, aunque pueden apreciarse algunas diferencias. En primer lugar, se muestra el <em>nick</em> en Play Juegos de los jugadores. Además, hay un tiempo limitado para realizar cada acción para que la partida sea ágil. El tiempo disponible se muestra con una barra de progreso que va decreciendo paulatinamente. Si no se completa la acción antes de que venza, el juego pasará al modo automático y responderá de manera pasiva (dándose mus, no queriendo los envites, etc.). Pulsando en la pantalla se recupera el control de nuevo.</p>
+
+<p><img src="http://donnaipe.com/images/mus/mus14.png" alt="El Mus" /></p>
+
+<p>Al final de cada ronda se habilita un chat para intercambiar mensajes entre los jugadores. Si un jugador pulsa el botón de continuar, la partida continuará a los 8 segundos. Es posible deshabilitar los mensajes de un jugador pulsando en el avatar correspondiente — pulsando de nuevo se mostrarán de nuevo sus mensajes. Esto lo he puesto para poder cortar los mensajes fuera de tono.</p>
+
+<p><img src="http://donnaipe.com/images/mus/mus16.png" alt="El Mus" /></p>
+
+<p>Una parte no desdeñable del proceso ha sido tratar los posibles problemas, como la eventual  desconexión de un jugador. Hay muchísima casuística, por lo que es posible que haya quedado algún cabo suelto. Si detectáis algún problema, por favor avisadme.</p>
+
+<p><img src="http://donnaipe.com/images/mus/mus15.png" alt="El Mus" /></p>
+
+<p>Ahora llega el momento de disfrutar del juego (si todavía no lo tenéis descargadlo de <a href="https://play.google.com/store/apps/details?id=donnaipe.mus">Google Play</a>). Aprovecho para agradecer la ayuda de Javi y sus amigos para probar el juego. ¡Nos vemos en El Mus en red!</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Renovamos El Mus Para Android]]></title>
+    <link href="http://donnaipe.com/blog/2016/03/01/renovamos-el-mus-para-android/"/>
+    <updated>2016-03-01T19:54:30+01:00</updated>
+    <id>http://donnaipe.com/blog/2016/03/01/renovamos-el-mus-para-android</id>
+    <content type="html"><![CDATA[<p>Tengo novedades muy importantes en <a href="https://play.google.com/store/apps/details?id=donnaipe.mus">El Mus</a> para Android. Aunque el juego en sí creo que es bastante entretenido, me da la sensación de que la interacción con el compañero es algo limitada. Pensando en cómo mejorar esto, se me ocurrió que los bots podrían consultar a los compañeros en determinados momentos.</p>
+
+<p><img src="http://donnaipe.com/images/mus/mus9.jpeg" alt="El Mus" /></p>
+
+<p>Así que me he puesto manos a la obra y he incluido un nuevo parámetro en los bots: la <strong>INTERACTIVIDAD</strong>. Según el valor de este parámetro, los bots serán más proclives a consultar a su compañero al cortar el mus y al valorar un órdago o una apuesta grande. Además, el jugador puede ahora consultar a su compañero si cortar el mus o no. Fijaos en las capturas adjuntas para ver el aspecto que tiene.</p>
+
+<p><img src="http://donnaipe.com/images/mus/mus10.jpeg" alt="El Mus" /></p>
+
+<p>Por otra parte, he aprovechado para realizar unos pequeños ajustes en la inteligencia artificial y en el motor del juego. Además, he preparado nuevas imágenes del tapete y la mesa. Por último, quizá lo más reseñable de esta actualización sea la inclusión de más de 100 expresiones &ldquo;musísticas&rdquo; nuevas para dar más colorido al juego.</p>
+
+<p><img src="http://donnaipe.com/images/mus/mus11.jpeg" alt="El Mus" /></p>
+
+<p>A ver si os gustan estos cambios. Espero que la siguiente actualización sea la del juego en red.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Segundo Año De Producciones Don Naipe]]></title>
+    <link href="http://donnaipe.com/blog/2016/02/14/segundo-ano-de-producciones-don-naipe/"/>
+    <updated>2016-02-14T11:03:01+01:00</updated>
+    <id>http://donnaipe.com/blog/2016/02/14/segundo-ano-de-producciones-don-naipe</id>
+    <content type="html"><![CDATA[<p>¡Segundo año de Producciones Don Naipe! Este segundo año ha sido un no parar con muchos juegos nuevos: Julepe, Rápido, Portugués, Tute Cabrón, Dominó en Parejas, Parchís y Europoly. Cada vez tenemos más jugadores y también más responsabilidad para no decepcionaros. Así que a celebrar por todo lo alto el aniversario. ¡Y feliz San Valentín a todos!</p>
+
+<p><img src="http://donnaipe.com/images/flores.jpg" alt="Flores" /></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Europoly Para iOS: El Juego De Finanzas Y Monopolios]]></title>
+    <link href="http://donnaipe.com/blog/2016/02/03/europoly-para-ios-el-juego-de-finanzas-y-monopolios/"/>
+    <updated>2016-02-03T16:55:25+01:00</updated>
+    <id>http://donnaipe.com/blog/2016/02/03/europoly-para-ios-el-juego-de-finanzas-y-monopolios</id>
+    <content type="html"><![CDATA[<p>¡Por fin está listo <strong>Europoly</strong> para iOS!: <a href="https://itunes.apple.com/es/app/europoly/id1077045179?mt=8">Europoly en el App Store</a>. Puede jugarse en dispositivos iPhone, iPad y iPod con iOS 7 o superior.</p>
+
+<p><img src="http://donnaipe.com/images/europolyIOS/europolyIOS.png" alt="Europoly para iOS" /></p>
+
+<p>Este juego es similar a la versión de <strong>Europoly</strong> para Android de <a href="http://donnaipe.com/blog/2015/11/05/europoly-el-juego-de-finanzas-y-monopolios/">este post</a>.</p>
+
+<p>Y con esto finaliza un intenso <em>sprint</em> de puesta al día del catálogo de iOS. Lamentablemente no he tenido tiempo de incluir <a href="http://donnaipe.com/blog/2015/05/11/el-portugues-un-gran-juego-de-cartas-para-android/">el Portugués</a> y <a href="http://donnaipe.com/blog/2015/06/26/pon-a-prueba-tus-reflejos-con-rapido-don-naipe/">Rápido</a>, pero espero hacerlo en el futuro.</p>
+
+<p>¡Disfrutad del Europoly!</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Llega El Parchís Al App Store]]></title>
+    <link href="http://donnaipe.com/blog/2016/01/17/llega-el-parchis-al-app-store/"/>
+    <updated>2016-01-17T09:07:44+01:00</updated>
+    <id>http://donnaipe.com/blog/2016/01/17/llega-el-parchis-al-app-store</id>
+    <content type="html"><![CDATA[<p>Una semana más, un nuevo lanzamiento. Esta vez toca <strong>El Parchís</strong>, todo un clásico: <a href="https://itunes.apple.com/es/app/el-parchis/id1071095103?mt=8">El Parchís en el App Store</a>. Puede jugarse en dispositivos iPhone, iPad y iPod con iOS 7 o superior.</p>
+
+<p><img src="http://donnaipe.com/images/parchisIOS/parchisIOS.jpg" alt="El Parchís para iOS" /></p>
+
+<p>Podéis encontrar más información del juego en la versión de <strong>El Parchís</strong> para Android de <a href="http://donnaipe.com/blog/2015/09/02/mas-clasicos-el-parchis-para-android/">este post</a>.</p>
+
+<p>Espero que lo disfrutéis.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Dominó en Parejas Por Fin en iOS]]></title>
+    <link href="http://donnaipe.com/blog/2016/01/10/domino-en-parejas-por-fin-en-ios/"/>
+    <updated>2016-01-10T08:22:25+01:00</updated>
+    <id>http://donnaipe.com/blog/2016/01/10/domino-en-parejas-por-fin-en-ios</id>
+    <content type="html"><![CDATA[<p>Seguimos poniendo al día el catálogo de iOS. Esta vez os traigo <strong>Dominó en Parejas</strong>, el juego clásico de dominó en España. Podéis descargar <a href="https://itunes.apple.com/es/app/partnership-dominoes/id1070659362?mt=8">Dominó en Parejas en el App Store</a>. Puede jugarse en dispositivos iPhone, iPad y iPod con iOS 7 o superior.</p>
+
+<p><img src="http://donnaipe.com/images/dominoIOS/dominoIOS.jpg" alt="Dominó en Parejas para iOS" /></p>
+
+<p>Esta conversión es muy similar a mi juego <strong>Dominó en Parejas</strong> para Android, así que os remito a <a href="http://donnaipe.com/blog/2015/07/31/nuevo-lanzamiento-domino-en-parejas/">este post</a> para consultar las reglas y descripción del mismo.</p>
+
+<p>Tengo otro nuevo juego para iOS a punto de salir, así que no os vayáis muy lejos.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Feliz Y Próspero Año Nuevo]]></title>
+    <link href="http://donnaipe.com/blog/2016/01/04/feliz-y-prospero-ano-nuevo/"/>
+    <updated>2016-01-04T20:44:56+01:00</updated>
+    <id>http://donnaipe.com/blog/2016/01/04/feliz-y-prospero-ano-nuevo</id>
+    <content type="html"><![CDATA[<p><img src="http://donnaipe.com/images/felicianoDonNaipe2016.png" alt="Feliz 2016" /></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Ya Está Aquí Tute en Medio Para iOS]]></title>
+    <link href="http://donnaipe.com/blog/2016/01/04/ya-esta-aqui-tute-en-medio-para-ios/"/>
+    <updated>2016-01-04T18:03:44+01:00</updated>
+    <id>http://donnaipe.com/blog/2016/01/04/ya-esta-aqui-tute-en-medio-para-ios</id>
+    <content type="html"><![CDATA[<p>Los últimos meses he estado muy ocupado sacando nuevos juegos para Android, a costa de descuidar sensiblemente el soporte para iOS. Así que he aprovechado las Navidades para poner un poco al día mi catálogo en iOS. Como resultado de este <em>sprint</em>, ya está listo el <strong>Tute en Medio</strong>. Podéis descargar <a href="https://itunes.apple.com/es/app/tute-medio/id1067332834?mt=8">Tute en Medio en el App Store</a>. Puede jugarse en dispositivos iPhone, iPad y iPod con iOS 7 o superior.</p>
+
+<p>También llamado &ldquo;Tute Cabrón&rdquo;, se trata de uno de los juegos clásicos de baraja española. Esta conversión es similar a la correspondiente en Android, así que podéis consultar las reglas y detalles del juego <a href="http://donnaipe.com/blog/2015/05/30/tute-cabron-para-android-desata-tu-lado-mas-malvado/">en este post</a>.</p>
+
+<p><img src="http://donnaipe.com/images/tuteCabronIOS/tuteCabronIOS.jpg" alt="Tute en Medio para iOS" /></p>
+
+<p>Tenía <strong>Tute en Medio</strong> preparado hace más de tres semanas, pero el lanzamiento se ha retrasado debido a un problema relacionado con el nombre: al igual que en Android, mi idea inicial era llamarlo <strong>Tute Cabrón</strong>, que es el nombre más común para este juego. Sin embargo, a los amigos del App Store no les convenció, así que me sugirieron que lo cambiara. Curiosamente, hice una consulta al App Store hace un mes acerca de la idoneidad del nombre de <strong>Tute Cabrón</strong> y no me dieron una respuesta muy clara. En fin, lo importante es que ya podéis disfrutar de <a href="https://itunes.apple.com/es/app/tute-medio/id1067332834?mt=8">Tute en Medio</a> en vuestros iPhones y iPads.</p>
+
+<p>Seguid a la escucha, porque en las próximas semanas habrá nuevos lanzamientos en iOS. ¡Que tengáis buenos reyes!</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[El Jugón Del Móvil Reseña El Europoly]]></title>
+    <link href="http://donnaipe.com/blog/2015/11/15/el-jugon-del-movil-resena-el-europoly/"/>
+    <updated>2015-11-15T09:33:30+01:00</updated>
+    <id>http://donnaipe.com/blog/2015/11/15/el-jugon-del-movil-resena-el-europoly</id>
+    <content type="html"><![CDATA[<p><a href="http://www.eljugondemovil.com/">El Jugón del Móvil</a> ha probado mi juego <a href="https://play.google.com/store/apps/details?id=donnaipe.europoly">Europoly para Android</a>, del que os he hablado <a href="http://donnaipe.com/blog/2015/11/05/europoly-el-juego-de-finanzas-y-monopolios/">aquí</a>.</p>
+
+<p>Parece que al jugón del móvil le ha gustado el Europoly. Podéis leer la reseña en <a href="http://www.eljugondemovil.com/europoly-juego-de-mesa/">este enlace</a>. Gracias al jugón por su página y por su sección de <em>indies</em>.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Actualizaciones De Tute a Cuatro Y El Mus]]></title>
+    <link href="http://donnaipe.com/blog/2015/11/14/actualizaciones-de-tute-a-cuatro-y-el-mus/"/>
+    <updated>2015-11-14T22:41:45+01:00</updated>
+    <id>http://donnaipe.com/blog/2015/11/14/actualizaciones-de-tute-a-cuatro-y-el-mus</id>
+    <content type="html"><![CDATA[<p>Estos últimos meses he estado muy ocupado preparando nuevos lanzamientos, con lo que tenía un poco descuidado mi catálogo. Así que he preparado un &ldquo;mini-sprint&rdquo; para mejorar <a href="https://play.google.com/store/apps/details?id=donnaipe.tutegratis">Tute a Cuatro</a>
+y <a href="https://play.google.com/store/apps/details?id=donnaipe.mus">El Mus</a>, mis juegos clásicos de Android.</p>
+
+<p>En el aspecto visual he introducido unas cuantas mejoras, especialmente en el reparto de cartas. También he incluido controles en el juego para ajustar la velocidad del mismo y para activar o desactivar el sonido. Además, he aprovechado para solucionar algunos errores y para hacer algunas mejoras en el rendimiento.</p>
+
+<p>Por último, una sorpresa para los jugadores de Tute a Cuatro: he incluido un nuevo nivel de dificultad (<em>Profesional</em>) en los bots. Así, podrán disputarse partidas con rivales de más calidad, mientras que el compañero contará a partir de ahora con una inteligencia artificial mejorada.</p>
+
+<p>Espero que disfrutéis estas actualizaciones.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Europoly: El Juego De Finanzas Y Monopolios]]></title>
+    <link href="http://donnaipe.com/blog/2015/11/05/europoly-el-juego-de-finanzas-y-monopolios/"/>
+    <updated>2015-11-05T16:32:35+01:00</updated>
+    <id>http://donnaipe.com/blog/2015/11/05/europoly-el-juego-de-finanzas-y-monopolios</id>
+    <content type="html"><![CDATA[<p>Tras mucho trabajo, el décimo juego de la factoría es ya una realidad. Se trata de un juego muy especial: <strong>Europoly</strong>, un juego de finanzas y monopolios que os va a encantar. De momento está disponible para Android en <a href="https://play.google.com/store/apps/details?id=donnaipe.europoly">Google Play</a>.</p>
+
+<p><img src="http://donnaipe.com/images/europoly/europoly1.jpeg" alt="Europoly para Android" /></p>
+
+<p>Europoly es un juego de tablero para 2, 3 o 4 jugadores. Cada uno tiene una ficha con la que recorrer Europa. Si la ficha de un jugador cae en una casilla de una propiedad libre, puede comprarla o subastarla. Pero si dicha propiedad es de otro jugador, tendrá que pagar la renta al caer en ella. Así, el objetivo del juego es amasar capital hasta llevar a la bancarrota a los rivales.</p>
+
+<p><a href="https://www.youtube.com/watch?v=tl4SLCW2FN4"><img src="http://donnaipe.com/images/youtubevideo.jpg" alt="Vídeo de Europoly para Android" /></a></p>
+
+<p>El tablero está dividido en 40 casillas con ciudades y aeropuertos de Europa, una autopista, un ferry, casino, tarjetas lotería y una cárcel. Se juega por turnos, tirando dos dados para moverse por el tablero. Al pasar la Salida el jugador cobrará 5.000€. Si en una tirada se saca doble, el jugador tendrá una tirada más. Si saca tres dobles seguidos, irá a la cárcel.</p>
+
+<p><img src="http://donnaipe.com/images/europoly/europoly2.jpeg" alt="Europoly para Android" /></p>
+
+<p>Las ciudades están organizadas en grupos que tienen el mismo color. El jugador que consiga todas las ciudades del grupo tendrá un monopolio y podrá construir casas, con lo que la renta a recibir será sustancialmente mayor. Las casillas de transporte no pueden mejorarse, pero la renta se incrementará según el número de ellas que se posea.</p>
+
+<p><img src="http://donnaipe.com/images/europoly/logo_europoly.png" alt="Europoly para Android" /></p>
+
+<p>Si un jugador necesita dinero, puede hacer tratos con otros jugadores, vender sus casas a la banca o hipotecar sus propiedades. En las propiedades hipotecadas no se recibe renta, pero se puede quitar una hipoteca pagándose a la banca el importe estipulado. Si un jugador no tiene dinero suficiente como para saldar sus deudas (incluso vendiendo casas e hipotecando propiedades), deberá declarar la bancarrota. Gana la partida el último jugador con saldo positivo.</p>
+
+<p><img src="http://donnaipe.com/images/europoly/europoly3.jpeg" alt="Europoly para Android" /></p>
+
+<p>Puede jugarse con otros bots o con humanos en el mismo dispositivo. Como siempre, he puesto mucho cuidado en la Inteligencia Artificial de los bots, ofreciendo tres niveles de dificultad diferentes. En el nivel más alto juegan de manera muy agresiva y son muy duros negociando. En el nivel intermedio son más relajados y te ofrecerán tratos con mejores condiciones. En el nivel más bajo son más blanditos y podrás conseguir tratos mucho más ventajosos para tus intereses.</p>
+
+<p><img src="http://donnaipe.com/images/europoly/europoly4.jpeg" alt="Europoly para Android" /></p>
+
+<p>Pues todo esto y mucho más es el Europoly. Estoy particularmente orgulloso de este juego, las partidas resultan súper-entretenidas y siempre te quedan ganas de más. Además, las partidas son muy configurables (2-4 jugadores, diferentes niveles, humanos o no, avatares y nombres), por lo que pueden ajustarse bien a los diferentes jugadores.</p>
+
+<p><img src="http://donnaipe.com/images/europoly/europoly5.jpeg" alt="Europoly para Android" /></p>
+
+<p>Y por si fuera poco, puede aprenderse mucho con este juego: finanzas, geografía, habilidades de negociación&hellip; Incluyo de nuevo <a href="https://play.google.com/store/apps/details?id=donnaipe.europoly">el enlace de descarga</a> para que no os lo paséis por alto.
+¡Espero que lo disfrutéis!</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Más Clásicos: El Parchís Para Android]]></title>
+    <link href="http://donnaipe.com/blog/2015/09/02/mas-clasicos-el-parchis-para-android/"/>
+    <updated>2015-09-02T09:38:51+02:00</updated>
+    <id>http://donnaipe.com/blog/2015/09/02/mas-clasicos-el-parchis-para-android</id>
+    <content type="html"><![CDATA[<p>El juego que os traigo hoy no necesita presentación. Se trata de <strong>El Parchís</strong> para Android, disponible en <a href="https://play.google.com/store/apps/details?id=donnaipe.parchis">Google Play</a>. Nos alejamos un poco de nuestra zona de confort, los juegos de cartas, y hacemos una pequeña incursión en los juegos de tablero.</p>
+
+<p><img src="http://donnaipe.com/images/parchis/logoParchis.png" alt="El Parchís para Android" /></p>
+
+<p><strong>El Parchís</strong> es una conversión del juego homónimo, que es especialmente popular en España. He intentado capturar la esencia del juego y permitir un grado bastante alto de configurabilidad para que pueda adaptarse a todos los paladares.</p>
+
+<p><a href="https://www.youtube.com/watch?v=4OpdQts7q8Y"><img src="http://donnaipe.com/images/youtubevideo.jpg" alt="Vídeo de El Parchís para Android" /></a></p>
+
+<p>Se incluyen 9 avatares para los jugadores y muchas frases del parchís que se presentan en los momentos del juego adecuados. Estoy contento con el resultado, que creo se asemeja bastante al de una partida con amigos en un tablero físico.</p>
+
+<p><img src="http://donnaipe.com/images/parchis/parchis1.jpeg" alt="El Parchís para Android" /></p>
+
+<p>Pero, además, es posible jugar varios humanos en el mismo dispositivo. Esta opción resultará especialmente interesante con tabletas. Hay bots para el resto de jugadores y con tres niveles de inteligencia artificial, con lo que puede ajustarse bastante bien la dificultad de la partida. En el nivel más bajo los bots juegan de manera básica; de hecho, algunas veces se les pasa comer las fichas de los adversarios. En el nivel más alto los bots juegan muy bien, y supone todo un reto ganar.</p>
+
+<p><img src="http://donnaipe.com/images/parchis/parchis2.jpeg" alt="El Parchís para Android" /></p>
+
+<p>Otra opción interesante es la de parar el dado. Ésta opción es una ayuda para los jugadores humanos y permite parar el dado pulsando en la pantalla. El dado gira rápido, así que hay que hacerlo en el momento adecuado. Si eres hábil podrás manejar la suerte a tu favor.</p>
+
+<p><img src="http://donnaipe.com/images/parchis/parchis3.jpeg" alt="El Parchís para Android" /></p>
+
+<p>El inicio de la partida también se puede configurar al gusto: modo clásico, una ficha fuera, dos fuera o dos fichas fuera con el primer 5. También puede ajustarse la velocidad general del juego y habilitar o no los sonidos. He puesto efectos de sonido nuevos, que espero que os gusten.</p>
+
+<p>Por último, puede jugarse al parchís en modo individual y cooperativo. En este último caso, gana el equipo que consigue meter sus 8 fichas en la meta. Los jugadores que terminan toman el control de las fichas del compañero para ayudarle a terminar.</p>
+
+<p><img src="http://donnaipe.com/images/parchis/parchis4.jpeg" alt="El Parchís para Android" /></p>
+
+<p>Ahora sólo falta que os guste el juego. Podéis <a href="https://play.google.com/store/apps/details?id=donnaipe.parchis">descargar El Parchís en Google Play</a>. ¡Empezad a agitar vuestros cubiletes!</p>
+
+<p><em>Bonus track</em>: fijaos en las frases de los avatares con las que introducen una cuña publicitaria.</p>
+]]></content>
+  </entry>
+  
+</feed>

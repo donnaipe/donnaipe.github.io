@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Mus | Producciones Don Naipe]]></title>
+  <link href="http://donnaipe.com/blog/categorias/mus/atom.xml" rel="self"/>
+  <link href="http://donnaipe.com/"/>
+  <updated>2018-11-17T08:53:09+01:00</updated>
+  <id>http://donnaipe.com/</id>
+  <author>
+    <name><![CDATA[Don Naipe]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[El Mus Ya Está en Red]]></title>
+    <link href="http://donnaipe.com/blog/2016/05/12/el-mus-ya-esta-en-red/"/>
+    <updated>2016-05-12T17:02:07+02:00</updated>
+    <id>http://donnaipe.com/blog/2016/05/12/el-mus-ya-esta-en-red</id>
+    <content type="html"><![CDATA[<p>Hacía bastante tiempo que no publicaba nada en el blog, y no por falta de actividad. Este principio de año he estado muy atareado renovando los recursos gráficos de mis juegos. Además, he incluido marcadores, logros y estadísticas en el Europoly, Tute Cabrón, Julepe y Dominó en Parejas.</p>
+
+<p><img src="/images/mus/mus13.png" alt="El Mus" /></p>
+
+<p>Después de todo esto, me he puesto por fin con el modo en red de <a href="https://play.google.com/store/apps/details?id=donnaipe.mus">El Mus</a> para Android. Y tras mucho esfuerzo, por fin puedo hacer el anuncio tan esperado: <strong>¡Ya está disponible la versión multijugador de El Mus para Android!</strong>.</p>
+
+<p><img src="/images/mus/mus17.png" alt="El Mus" /></p>
+
+<p>Pueden jugarse partidas rápidas o invitar a amigos a través de Google Play Juegos. En cualquier caso, hay una espera hasta que se monta la partida con 4 humanos. A continuación se forman los equipos, eligiendo un avatar entre los disponibles.</p>
+
+<p><img src="/images/mus/icono_mus_red.png" alt="El Mus" /></p>
+
+<p>Ya en el juego, la mecánica es similar al juego individual, aunque pueden apreciarse algunas diferencias. En primer lugar, se muestra el <em>nick</em> en Play Juegos de los jugadores. Además, hay un tiempo limitado para realizar cada acción para que la partida sea ágil. El tiempo disponible se muestra con una barra de progreso que va decreciendo paulatinamente. Si no se completa la acción antes de que venza, el juego pasará al modo automático y responderá de manera pasiva (dándose mus, no queriendo los envites, etc.). Pulsando en la pantalla se recupera el control de nuevo.</p>
+
+<p><img src="/images/mus/mus14.png" alt="El Mus" /></p>
+
+<p>Al final de cada ronda se habilita un chat para intercambiar mensajes entre los jugadores. Si un jugador pulsa el botón de continuar, la partida continuará a los 8 segundos. Es posible deshabilitar los mensajes de un jugador pulsando en el avatar correspondiente — pulsando de nuevo se mostrarán de nuevo sus mensajes. Esto lo he puesto para poder cortar los mensajes fuera de tono.</p>
+
+<p><img src="/images/mus/mus16.png" alt="El Mus" /></p>
+
+<p>Una parte no desdeñable del proceso ha sido tratar los posibles problemas, como la eventual  desconexión de un jugador. Hay muchísima casuística, por lo que es posible que haya quedado algún cabo suelto. Si detectáis algún problema, por favor avisadme.</p>
+
+<p><img src="/images/mus/mus15.png" alt="El Mus" /></p>
+
+<p>Ahora llega el momento de disfrutar del juego (si todavía no lo tenéis descargadlo de <a href="https://play.google.com/store/apps/details?id=donnaipe.mus">Google Play</a>). Aprovecho para agradecer la ayuda de Javi y sus amigos para probar el juego. ¡Nos vemos en El Mus en red!</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Renovamos El Mus Para Android]]></title>
+    <link href="http://donnaipe.com/blog/2016/03/01/renovamos-el-mus-para-android/"/>
+    <updated>2016-03-01T19:54:30+01:00</updated>
+    <id>http://donnaipe.com/blog/2016/03/01/renovamos-el-mus-para-android</id>
+    <content type="html"><![CDATA[<p>Tengo novedades muy importantes en <a href="https://play.google.com/store/apps/details?id=donnaipe.mus">El Mus</a> para Android. Aunque el juego en sí creo que es bastante entretenido, me da la sensación de que la interacción con el compañero es algo limitada. Pensando en cómo mejorar esto, se me ocurrió que los bots podrían consultar a los compañeros en determinados momentos.</p>
+
+<p><img src="/images/mus/mus9.jpeg" alt="El Mus" /></p>
+
+<p>Así que me he puesto manos a la obra y he incluido un nuevo parámetro en los bots: la <strong>INTERACTIVIDAD</strong>. Según el valor de este parámetro, los bots serán más proclives a consultar a su compañero al cortar el mus y al valorar un órdago o una apuesta grande. Además, el jugador puede ahora consultar a su compañero si cortar el mus o no. Fijaos en las capturas adjuntas para ver el aspecto que tiene.</p>
+
+<p><img src="/images/mus/mus10.jpeg" alt="El Mus" /></p>
+
+<p>Por otra parte, he aprovechado para realizar unos pequeños ajustes en la inteligencia artificial y en el motor del juego. Además, he preparado nuevas imágenes del tapete y la mesa. Por último, quizá lo más reseñable de esta actualización sea la inclusión de más de 100 expresiones &ldquo;musísticas&rdquo; nuevas para dar más colorido al juego.</p>
+
+<p><img src="/images/mus/mus11.jpeg" alt="El Mus" /></p>
+
+<p>A ver si os gustan estos cambios. Espero que la siguiente actualización sea la del juego en red.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Actualizaciones De Tute a Cuatro Y El Mus]]></title>
+    <link href="http://donnaipe.com/blog/2015/11/14/actualizaciones-de-tute-a-cuatro-y-el-mus/"/>
+    <updated>2015-11-14T22:41:45+01:00</updated>
+    <id>http://donnaipe.com/blog/2015/11/14/actualizaciones-de-tute-a-cuatro-y-el-mus</id>
+    <content type="html"><![CDATA[<p>Estos últimos meses he estado muy ocupado preparando nuevos lanzamientos, con lo que tenía un poco descuidado mi catálogo. Así que he preparado un &ldquo;mini-sprint&rdquo; para mejorar <a href="https://play.google.com/store/apps/details?id=donnaipe.tutegratis">Tute a Cuatro</a>
+y <a href="https://play.google.com/store/apps/details?id=donnaipe.mus">El Mus</a>, mis juegos clásicos de Android.</p>
+
+<p>En el aspecto visual he introducido unas cuantas mejoras, especialmente en el reparto de cartas. También he incluido controles en el juego para ajustar la velocidad del mismo y para activar o desactivar el sonido. Además, he aprovechado para solucionar algunos errores y para hacer algunas mejoras en el rendimiento.</p>
+
+<p>Por último, una sorpresa para los jugadores de Tute a Cuatro: he incluido un nuevo nivel de dificultad (<em>Profesional</em>) en los bots. Así, podrán disputarse partidas con rivales de más calidad, mientras que el compañero contará a partir de ahora con una inteligencia artificial mejorada.</p>
+
+<p>Espero que disfrutéis estas actualizaciones.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Torneos Y Mucho Más en El Mus Para iOS]]></title>
+    <link href="http://donnaipe.com/blog/2015/05/21/torneos-y-mucho-mas-en-el-mus-para-ios/"/>
+    <updated>2015-05-21T10:10:33+02:00</updated>
+    <id>http://donnaipe.com/blog/2015/05/21/torneos-y-mucho-mas-en-el-mus-para-ios</id>
+    <content type="html"><![CDATA[<p>Ya está lista la primera actualización de <a href="https://itunes.apple.com/es/app/mus-don-naipe/id954161061?mt=8">El Mus para iOS</a>. La lista de novedades no es pequeña, echadle un vistazo:</p>
+
+<p><img src="/images/musIOS/musIOS7.jpg" alt="El Mus en iPhone" /></p>
+
+<ul>
+<li>Torneo de mus de Don Naipe</li>
+<li>Inteligencia Artificial mejorada</li>
+<li>Se graba la última partida</li>
+<li>Pistas visuales de quién es mano y de quién corta el mus</li>
+<li>¿Tu compañero es un bocazas? Hazle callar</li>
+<li>Tutorial de El Mus con las señas</li>
+<li>Controles de volumen de sonido activados</li>
+<li>Multitud de pequeñas mejoras</li>
+</ul>
+
+
+<p><img src="/images/musIOS/musIOS9.jpg" alt="El Mus en iPhone" /></p>
+
+<p>Todavía quedan cosas por hacer, como la real, la versión de 4 reyes o el modo multijugador, pero espero que estas mejoras resulten interesantes.</p>
+
+<p><img src="/images/musIOS/musIOS6.jpg" alt="El Mus en iPhone" /></p>
+
+<p>¡Que lo disfrutéis!</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Novedades en El Mus]]></title>
+    <link href="http://donnaipe.com/blog/2015/01/31/novedades-en-el-mus/"/>
+    <updated>2015-01-31T07:36:02+01:00</updated>
+    <id>http://donnaipe.com/blog/2015/01/31/novedades-en-el-mus</id>
+    <content type="html"><![CDATA[<p>Ya está aquí la primera actualización de <a href="https://play.google.com/store/apps/details?id=donnaipe.mus">El Mus</a> para Android. He incluido una lista bien larga de mejoras, aunque algunas se han quedado pendientes para una próxima actualización. Pero vamos primero a repasar las novedades principales:</p>
+
+<ul>
+<li>Torneo: ya se puede jugar un mini-torneo con los personajes del juego. Creo que resulta bastante divertido de jugar. A destacar los mensajes de fin de torneo y el contador de torneos con números romanos.</li>
+</ul>
+
+
+<p><img src="/images/mus/torneoMus.jpeg" alt="Torneo de Mus de Don Naipe" /></p>
+
+<ul>
+<li><p>Marcadores: disponibles el &ldquo;Musómetro&rdquo; y el &ldquo;Torneómetro&rdquo;. Este último es un contador de torneos. En el &ldquo;Musómetro&rdquo; se consiguen puntos tras ganar una partida, proporcionales al número de juegos para el fin y con un bonus de ronda en los torneos.</p></li>
+<li><p>Estadísticas: incluyen estadísticas de torneos, partidas, juegos, lances, puntos, órdagos, envites&hellip; creo que son bastante completas.</p></li>
+</ul>
+
+
+<p><img src="/images/mus/estadMus.jpeg" alt="Estadísticas El Mus" /></p>
+
+<ul>
+<li>Logros: hemos tirado la casa por la ventana &ndash; ¡26 logros! He intentado que resulten divertidos y que además abran aspectos nuevos del juego. Por ejemplo, hay un logro por cada personaje para incentivar encontrar al compañero ideal. A destacar también los logros del &ldquo;superenvite&rdquo;, &ldquo;al rico órdago &rdquo; o &ldquo;tú te callas&rdquo; que son más difíciles de conseguir de lo que parece a primera vista.</li>
+</ul>
+
+
+<p><img src="/images/mus/logrosMus.jpeg" alt="Estadísticas El Mus" /></p>
+
+<ul>
+<li><p>Mejor Inteligencia Artificial: no he cambiado la mecánica, pero sí que he sintonizado mejor los parámetros de juego, especialmente en el lance de chica, que eran muy dados a tirarse a la piscina. Además, ahora juegan mucho mejor las últimas piedras y si tienen ventaja son un poco más conservadores. Por otra parte, se mantienen los personalidades de los jugadores; quiero decir que está en la genética de algunos personajes el farolear, y eso no cambia.</p></li>
+<li><p>Otras mejoras relevantes: he optimizado los <em>layouts</em> para aprovechar mejor el espacio (especialmente en teléfonos), incrementado el tamaño de los avatares y cartas, ahora se marca mejor quién es la mano, quien corta el mus tiene unas tijeras, se puede hacer callar al compañero, he ajustado la elección del jugador que responde a un envite, incluido un tutorial en condiciones, mejorado el icono del juego, incrementado ligeramente la duración de las señas, incluidas nuevas frasecillas de mus&hellip; uf, qué de cosas.</p></li>
+</ul>
+
+
+<p><img src="/images/mus/masMus.jpeg" alt="Estadísticas El Mus" /></p>
+
+<p>Aún así se han quedado unas cuantas cosas pendientes, como introducir la variante de 4 reyes -la dinámica de juego es diferente de la de 8 reyes, por lo que necesito documentarme un poco antes de cometer &ldquo;barbaridades&rdquo;. Tengo bastantes ganas de incluir el modo multijugador, pero necesito tiempo para hacerlo en condiciones. Mientras tanto, espero que estas novedades sirvan para ir abriendo boca. ¡Que lo disfrutéis!</p>
+]]></content>
+  </entry>
+  
+</feed>
