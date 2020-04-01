@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Trebial | Don Naipe]]></title>
   <link href="http://donnaipe.com/blog/categorias/trebial/atom.xml" rel="self"/>
   <link href="http://donnaipe.com/"/>
-  <updated>2020-02-13T14:20:57+01:00</updated>
+  <updated>2020-04-01T18:51:05+02:00</updated>
   <id>http://donnaipe.com/</id>
   <author>
     <name><![CDATA[Don Naipe]]></name>
@@ -12,6 +12,21 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Juego en Red No Disponible]]></title>
+    <link href="http://donnaipe.com/blog/2020/04/01/juego-en-red-no-disponible/"/>
+    <updated>2020-04-01T18:07:13+02:00</updated>
+    <id>http://donnaipe.com/blog/2020/04/01/juego-en-red-no-disponible</id>
+    <content type="html"><![CDATA[<p>Con mucho pesar tenemos que anunciar el cierre temporal de las partidas en red en nuestros juegos <a href="https://play.google.com/store/apps/details?id=donnaipe.tutegratis">Tute a Cuatro</a>, <a href="https://play.google.com/store/apps/details?id=donnaipe.mus">El Mus</a> y <a href="https://play.google.com/store/apps/details?id=donnaipe.trebial">Trebial</a>. Las partidas en red se apoyaban en los <a href="https://developers.google.com/games/services">Servicios de juegos de Google Play</a>, pero, lamentablemente, <a href="https://support.google.com/googleplay/android-developer/answer/9469745">han dejado de ofrecer soporte</a>.</p>
+
+<p>Tras mucho esfuerzo pusimos en marcha el <a href="http://donnaipe.com/blog/2014/08/23/vuelven-los-buenos-y-los-malos/">Tute a Cuatro en red</a> para Android en agosto de 2014. Continuamos con <a href="http://donnaipe.com/blog/2016/05/12/el-mus-ya-esta-en-red/">la versión en red de El Mus</a> para Android en mayo de 2016. Y en marzo de 2017 lanzamos <a href="http://donnaipe.com/blog/2017/03/11/trebial-tu-juego-de-preguntas-y-respuestas/">El Trebial</a>, desde el principio con soporte multijugador.</p>
+
+<p>Siempre nos hemos basado en los Servicios de juegos de Google Play para el juego en red. Esta plataforma cumplía razonablemente bien su cometido, pero también tenía algunos problemas de los que nos habéis informado como la falta de soporte a iOS o la imposibilidad de reengancharse a una partida tras una desconexión.</p>
+
+<p>El fin del servicio nos pilla en el momento que más se estaba usando el juego en red por el confinamiento debido al Covid-19. Vamos a ver si conseguimos una nueva solución con la que podamos reanudar el juego en red. Tardará un tiempo, pero esperamos tener éxito. Mucha paciencia a todos nuestros jugadores y cuidaos mucho.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Vamos a Viena a Presentar El Trebial]]></title>

@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Android | Don Naipe]]></title>
   <link href="http://donnaipe.com/blog/categorias/android/atom.xml" rel="self"/>
   <link href="http://donnaipe.com/"/>
-  <updated>2020-02-13T14:20:57+01:00</updated>
+  <updated>2020-04-01T18:51:05+02:00</updated>
   <id>http://donnaipe.com/</id>
   <author>
     <name><![CDATA[Don Naipe]]></name>
@@ -12,6 +12,21 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Juego en Red No Disponible]]></title>
+    <link href="http://donnaipe.com/blog/2020/04/01/juego-en-red-no-disponible/"/>
+    <updated>2020-04-01T18:07:13+02:00</updated>
+    <id>http://donnaipe.com/blog/2020/04/01/juego-en-red-no-disponible</id>
+    <content type="html"><![CDATA[<p>Con mucho pesar tenemos que anunciar el cierre temporal de las partidas en red en nuestros juegos <a href="https://play.google.com/store/apps/details?id=donnaipe.tutegratis">Tute a Cuatro</a>, <a href="https://play.google.com/store/apps/details?id=donnaipe.mus">El Mus</a> y <a href="https://play.google.com/store/apps/details?id=donnaipe.trebial">Trebial</a>. Las partidas en red se apoyaban en los <a href="https://developers.google.com/games/services">Servicios de juegos de Google Play</a>, pero, lamentablemente, <a href="https://support.google.com/googleplay/android-developer/answer/9469745">han dejado de ofrecer soporte</a>.</p>
+
+<p>Tras mucho esfuerzo pusimos en marcha el <a href="http://donnaipe.com/blog/2014/08/23/vuelven-los-buenos-y-los-malos/">Tute a Cuatro en red</a> para Android en agosto de 2014. Continuamos con <a href="http://donnaipe.com/blog/2016/05/12/el-mus-ya-esta-en-red/">la versión en red de El Mus</a> para Android en mayo de 2016. Y en marzo de 2017 lanzamos <a href="http://donnaipe.com/blog/2017/03/11/trebial-tu-juego-de-preguntas-y-respuestas/">El Trebial</a>, desde el principio con soporte multijugador.</p>
+
+<p>Siempre nos hemos basado en los Servicios de juegos de Google Play para el juego en red. Esta plataforma cumplía razonablemente bien su cometido, pero también tenía algunos problemas de los que nos habéis informado como la falta de soporte a iOS o la imposibilidad de reengancharse a una partida tras una desconexión.</p>
+
+<p>El fin del servicio nos pilla en el momento que más se estaba usando el juego en red por el confinamiento debido al Covid-19. Vamos a ver si conseguimos una nueva solución con la que podamos reanudar el juego en red. Tardará un tiempo, pero esperamos tener éxito. Mucha paciencia a todos nuestros jugadores y cuidaos mucho.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Tute Subastado: El Nuevo Juego De Don Naipe Para Android]]></title>
@@ -175,39 +190,6 @@ seguir poniendo a prueba vuestros conocimientos del
 <p><img src="/images/trebial/trebial7.png" alt="Trebial" /></p>
 
 <p>Incluimos de nuevo <a href="https://play.google.com/store/apps/details?id=donnaipe.trebial">el enlace de descarga del Trebial en Google Play</a>. ¡Esperamos que lo disfrutéis!</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[El Mus Ya Está en Red]]></title>
-    <link href="http://donnaipe.com/blog/2016/05/12/el-mus-ya-esta-en-red/"/>
-    <updated>2016-05-12T17:02:07+02:00</updated>
-    <id>http://donnaipe.com/blog/2016/05/12/el-mus-ya-esta-en-red</id>
-    <content type="html"><![CDATA[<p>Hacía bastante tiempo que no publicaba nada en el blog, y no por falta de actividad. Este principio de año he estado muy atareado renovando los recursos gráficos de mis juegos. Además, he incluido marcadores, logros y estadísticas en el Europoly, Tute Cabrón, Julepe y Dominó en Parejas.</p>
-
-<p><img src="/images/mus/mus13.png" alt="El Mus" /></p>
-
-<p>Después de todo esto, me he puesto por fin con el modo en red de <a href="https://play.google.com/store/apps/details?id=donnaipe.mus">El Mus</a> para Android. Y tras mucho esfuerzo, por fin puedo hacer el anuncio tan esperado: <strong>¡Ya está disponible la versión multijugador de El Mus para Android!</strong>.</p>
-
-<p><img src="/images/mus/mus17.png" alt="El Mus" /></p>
-
-<p>Pueden jugarse partidas rápidas o invitar a amigos a través de Google Play Juegos. En cualquier caso, hay una espera hasta que se monta la partida con 4 humanos. A continuación se forman los equipos, eligiendo un avatar entre los disponibles.</p>
-
-<p><img src="/images/mus/icono_mus_red.png" alt="El Mus" /></p>
-
-<p>Ya en el juego, la mecánica es similar al juego individual, aunque pueden apreciarse algunas diferencias. En primer lugar, se muestra el <em>nick</em> en Play Juegos de los jugadores. Además, hay un tiempo limitado para realizar cada acción para que la partida sea ágil. El tiempo disponible se muestra con una barra de progreso que va decreciendo paulatinamente. Si no se completa la acción antes de que venza, el juego pasará al modo automático y responderá de manera pasiva (dándose mus, no queriendo los envites, etc.). Pulsando en la pantalla se recupera el control de nuevo.</p>
-
-<p><img src="/images/mus/mus14.png" alt="El Mus" /></p>
-
-<p>Al final de cada ronda se habilita un chat para intercambiar mensajes entre los jugadores. Si un jugador pulsa el botón de continuar, la partida continuará a los 8 segundos. Es posible deshabilitar los mensajes de un jugador pulsando en el avatar correspondiente — pulsando de nuevo se mostrarán de nuevo sus mensajes. Esto lo he puesto para poder cortar los mensajes fuera de tono.</p>
-
-<p><img src="/images/mus/mus16.png" alt="El Mus" /></p>
-
-<p>Una parte no desdeñable del proceso ha sido tratar los posibles problemas, como la eventual  desconexión de un jugador. Hay muchísima casuística, por lo que es posible que haya quedado algún cabo suelto. Si detectáis algún problema, por favor avisadme.</p>
-
-<p><img src="/images/mus/mus15.png" alt="El Mus" /></p>
-
-<p>Ahora llega el momento de disfrutar del juego (si todavía no lo tenéis descargadlo de <a href="https://play.google.com/store/apps/details?id=donnaipe.mus">Google Play</a>). Aprovecho para agradecer la ayuda de Javi y sus amigos para probar el juego. ¡Nos vemos en El Mus en red!</p>
 ]]></content>
   </entry>
   

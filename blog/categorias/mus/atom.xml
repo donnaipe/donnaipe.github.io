@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Mus | Don Naipe]]></title>
   <link href="http://donnaipe.com/blog/categorias/mus/atom.xml" rel="self"/>
   <link href="http://donnaipe.com/"/>
-  <updated>2020-02-13T14:20:57+01:00</updated>
+  <updated>2020-04-01T18:51:05+02:00</updated>
   <id>http://donnaipe.com/</id>
   <author>
     <name><![CDATA[Don Naipe]]></name>
@@ -12,6 +12,21 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Juego en Red No Disponible]]></title>
+    <link href="http://donnaipe.com/blog/2020/04/01/juego-en-red-no-disponible/"/>
+    <updated>2020-04-01T18:07:13+02:00</updated>
+    <id>http://donnaipe.com/blog/2020/04/01/juego-en-red-no-disponible</id>
+    <content type="html"><![CDATA[<p>Con mucho pesar tenemos que anunciar el cierre temporal de las partidas en red en nuestros juegos <a href="https://play.google.com/store/apps/details?id=donnaipe.tutegratis">Tute a Cuatro</a>, <a href="https://play.google.com/store/apps/details?id=donnaipe.mus">El Mus</a> y <a href="https://play.google.com/store/apps/details?id=donnaipe.trebial">Trebial</a>. Las partidas en red se apoyaban en los <a href="https://developers.google.com/games/services">Servicios de juegos de Google Play</a>, pero, lamentablemente, <a href="https://support.google.com/googleplay/android-developer/answer/9469745">han dejado de ofrecer soporte</a>.</p>
+
+<p>Tras mucho esfuerzo pusimos en marcha el <a href="http://donnaipe.com/blog/2014/08/23/vuelven-los-buenos-y-los-malos/">Tute a Cuatro en red</a> para Android en agosto de 2014. Continuamos con <a href="http://donnaipe.com/blog/2016/05/12/el-mus-ya-esta-en-red/">la versión en red de El Mus</a> para Android en mayo de 2016. Y en marzo de 2017 lanzamos <a href="http://donnaipe.com/blog/2017/03/11/trebial-tu-juego-de-preguntas-y-respuestas/">El Trebial</a>, desde el principio con soporte multijugador.</p>
+
+<p>Siempre nos hemos basado en los Servicios de juegos de Google Play para el juego en red. Esta plataforma cumplía razonablemente bien su cometido, pero también tenía algunos problemas de los que nos habéis informado como la falta de soporte a iOS o la imposibilidad de reengancharse a una partida tras una desconexión.</p>
+
+<p>El fin del servicio nos pilla en el momento que más se estaba usando el juego en red por el confinamiento debido al Covid-19. Vamos a ver si conseguimos una nueva solución con la que podamos reanudar el juego en red. Tardará un tiempo, pero esperamos tener éxito. Mucha paciencia a todos nuestros jugadores y cuidaos mucho.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Te Enseñamos Las Señas Del Mus]]></title>
@@ -116,37 +131,6 @@ y <a href="https://play.google.com/store/apps/details?id=donnaipe.mus">El Mus</a
 <p>Por último, una sorpresa para los jugadores de Tute a Cuatro: he incluido un nuevo nivel de dificultad (<em>Profesional</em>) en los bots. Así, podrán disputarse partidas con rivales de más calidad, mientras que el compañero contará a partir de ahora con una inteligencia artificial mejorada.</p>
 
 <p>Espero que disfrutéis estas actualizaciones.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Torneos Y Mucho Más en El Mus Para iOS]]></title>
-    <link href="http://donnaipe.com/blog/2015/05/21/torneos-y-mucho-mas-en-el-mus-para-ios/"/>
-    <updated>2015-05-21T10:10:33+02:00</updated>
-    <id>http://donnaipe.com/blog/2015/05/21/torneos-y-mucho-mas-en-el-mus-para-ios</id>
-    <content type="html"><![CDATA[<p>Ya está lista la primera actualización de <a href="https://itunes.apple.com/es/app/mus-don-naipe/id954161061?mt=8">El Mus para iOS</a>. La lista de novedades no es pequeña, echadle un vistazo:</p>
-
-<p><img src="/images/musIOS/musIOS7.jpg" alt="El Mus en iPhone" /></p>
-
-<ul>
-<li>Torneo de mus de Don Naipe</li>
-<li>Inteligencia Artificial mejorada</li>
-<li>Se graba la última partida</li>
-<li>Pistas visuales de quién es mano y de quién corta el mus</li>
-<li>¿Tu compañero es un bocazas? Hazle callar</li>
-<li>Tutorial de El Mus con las señas</li>
-<li>Controles de volumen de sonido activados</li>
-<li>Multitud de pequeñas mejoras</li>
-</ul>
-
-
-<p><img src="/images/musIOS/musIOS9.jpg" alt="El Mus en iPhone" /></p>
-
-<p>Todavía quedan cosas por hacer, como la real, la versión de 4 reyes o el modo multijugador, pero espero que estas mejoras resulten interesantes.</p>
-
-<p><img src="/images/musIOS/musIOS6.jpg" alt="El Mus en iPhone" /></p>
-
-<p>¡Que lo disfrutéis!</p>
 ]]></content>
   </entry>
   
