@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: Dominó | Don Naipe]]></title>
+  <title><![CDATA[Category: Domino | Don Naipe]]></title>
   <link href="http://donnaipe.com/blog/categorias/domino/atom.xml" rel="self"/>
   <link href="http://donnaipe.com/"/>
-  <updated>2020-04-01T18:51:05+02:00</updated>
+  <updated>2020-05-03T16:57:28+02:00</updated>
   <id>http://donnaipe.com/</id>
   <author>
     <name><![CDATA[Don Naipe]]></name>
@@ -14,95 +14,63 @@
 
   
   <entry>
-    <title type="html"><![CDATA[5 Trucos Que Te Convertirán en Un Experto en El Dominó en Parejas]]></title>
-    <link href="http://donnaipe.com/blog/2020/01/07/5-trucos-que-te-convertiran-en-un-experto-en-el-domino-en-parejas/"/>
-    <updated>2020-01-07T09:51:33+01:00</updated>
-    <id>http://donnaipe.com/blog/2020/01/07/5-trucos-que-te-convertiran-en-un-experto-en-el-domino-en-parejas</id>
-    <content type="html"><![CDATA[<p>El <a href="http://donnaipe.com/blog/2015/07/31/nuevo-lanzamiento-domino-en-parejas/">dominó en parejas</a> es uno de los juegos de mesa tradicionales más practicados en España y Latinoamérica, y Don Naipe quiere enseñarte algunos trucos para que te conviertas en todo un experto.</p>
+    <title type="html"><![CDATA[Cinco Juegos De Don Naipe Para No Aburrirte en Casa]]></title>
+    <link href="http://donnaipe.com/blog/2020/05/03/cinco-juegos-de-don-naipe-para-no-aburrirte-en-casa/"/>
+    <updated>2020-05-03T16:39:13+02:00</updated>
+    <id>http://donnaipe.com/blog/2020/05/03/cinco-juegos-de-don-naipe-para-no-aburrirte-en-casa</id>
+    <content type="html"><![CDATA[<p>¿Buscas un juego con el que divertirte? Hemos seleccionado cinco del catálogo de Don Naipe para que te entretengas cómodamente desde tu casa. Siéntate, coge el teléfono o la tableta y a disfrutar.</p>
 
-<p><img src="/images/domino/trucos-domino-portada.png" alt="Tucos Dominó" /></p>
+<h2>Europoly</h2>
 
-<p>Antes de nada, es importante que conozcas en qué consiste el juego y qué tienes que hacer para ganar una partida. El <a href="https://www.youtube.com/watch?v=wnnLeopPe-4&amp;t=5s">dominó</a> está compuesto por 28 fichas, que se reparten entre cada uno de los cuatro jugadores, de tal forma que cada uno de ellos jugará con 7 fichas. Sus valores van desde el cero (ficha blanca) hasta el 6, que se combinan de todas las maneras posibles para que todas ellas sean diferentes.</p>
+<p>Si lo tuyo son las finanzas y echas de menos comprar y vender, puedes jugar al <a href="/blog/2015/11/05/europoly-el-juego-de-finanzas-y-monopolios/">Europoly</a>. Está inspirado en el juego de clásico Monopoly, pero ambientado en ciudades de Europa. Éste es uno de los juegos más populares de Don Naipe con casi dos millones de descargas.</p>
 
-<p>La dinámica del juego es muy sencilla: por turnos, cada jugador irá enlazando las fichas, de tal forma que debe colocar una que contenga el mismo valor que alguna de las dos que hay en cada extremo del tablero. En el caso de que no disponga de una ficha de tal valor, pasará turno. La ronda termina cuando alguno de ellos se deshace de todas o ya no se puedan realizar más movimientos.</p>
+<p><img src="/images/europoly/europoly5.jpeg" alt="Europoly" /></p>
 
-<p><img src="/images/domino/domino-explicacion.png" alt="Reglas Dominó" /></p>
+<p>Aunque las normas son parecidas al juego de mesa, te dejamos en <a href="/blog/2020/02/12/las-claves-del-europoly/">este post</a> unas claves para ganar y deleitarse llevando a la bancarrota a tus rivales. Negocia, gasta con cabeza, llega a acuerdos&hellip;</p>
 
-<p>Ganará la ronda la pareja en la cual uno de sus dos miembros se deshaga primero de todas las fichas y, en el caso de que no se puedan colocar más fichas, se sumará el valor de las fichas y ganará la pareja que menos puntuación sume. El valor de todas las fichas que se hayan quedado sin jugar, se suma a la puntuación de la pareja ganadora y el equipo que antes llegue a una cantidad determinada de puntos (por defecto 100) tras varias rondas es el que se lleva la partida.</p>
+<p>Os dejamos el enlace de descarga para <a href="https://play.google.com/store/apps/details?id=donnaipe.europoly">tu dispositivo Android</a> o <a href="https://apps.apple.com/es/app/europoly/id1077045179">iOS</a></p>
 
-<h3>1. Configura el juego según tu nivel</h3>
+<h2>Dominó en Parejas</h2>
 
-<p>Antes de empezar la partida, debes configurar cómo quieres que se juegue. Podrás elegir la puntuación necesaria, el tipo de puntuación (internacional o latino), quién sale, la rapidez del juego y, lo más importante, al resto de jugadores. Ten en cuenta que un bot puede jugar al dominó de manera básica (1 estrella), mediana (2 estrellas) o buena (3 estrellas). Dependiendo de los bots que elijas, la dificultad de la partida variará entre 2 y 8 estrellas.</p>
+<p>Hay muchos juegos de dominó y Don Naipe te trae el clásico de cuatro jugadores en parejas practicado en España y por toda Latinoamérica. En cada ronda cada jugador coge siete fichas y empiezan a poner fichas en la mesa por turnos siguiendo la secuencia de fichas. El vencedor de la ronda es el que coloca primero todas sus fichas, anotándose los puntos de las fichas que tengan en la mano el resto de jugadores.</p>
 
-<h3>2. Analiza tus fichas</h3>
+<p><img src="/images/domino/domino4.jpg" alt="Dominó" /></p>
 
-<p>Cuando se repartan las fichas, fíjate bien en las que te ha tocado y comprueba cuántas tienes de cada valor. Si hay varias que se repiten, eso quiere decir que el resto de jugadores tendrá menos fichas de ese valor, así que juega con ellas para limitar los movimientos de tus rivales y obligarles a pasar. También es importante que hagas el análisis al contrario para intentar adivinar con qué fichas cuentan tanto tu pareja como los rivales.</p>
+<p>En el <a href="/blog/2015/07/31/nuevo-lanzamiento-domino-en-parejas/">Dominó en Parejas de Don Naipe</a> podrás elegir al compañero y a los rivales entre los 15 personajes disponibles. Elige bien porque no lo hacen todos igual, fíjate en el número de estrellas que determina su habilidad. Revisa <a href="/blog/2020/01/07/5-trucos-que-te-convertiran-en-un-experto-en-el-domino-en-parejas/">este post</a> con unos cuantos trucos para mejorar en el juego.</p>
 
-<p><img src="/images/domino/domino4.jpg" alt="Más Dominó" /></p>
+<p>Descarga la <a href="https://play.google.com/store/apps/details?id=donnaipe.domino">aplicación en Android</a>  y <a href="https://apps.apple.com/es/app/partnership-dominoes/id1070659362">en iOS</a></p>
 
-<h3>3. Ten siempre en cuenta a la mano</h3>
+<h2>El Parchís</h2>
 
-<p>Otro de los aspectos en los que tienes que fijarte es en &ldquo;la mano&rdquo;, que es el jugador que coloca la primera ficha y el que, en consecuencia, tiene más posibilidades de ganar. En la primera ronda, la mano es el jugador que tiene el 6 doble; en las siguientes rondas, lo será el jugador que está sentado a la derecha del último en realizar un movimiento en la ronda anterior.</p>
+<p>¿Quién no recuerda haber jugado al parchís alguna vez en su vida alrededor de una mesa? <a href="/blog/2015/09/02/mas-clasicos-el-parchis-para-android/">El juego de Parchís de Don Naipe</a> ha captado fielmente la esencia y, además, puedes configurarlo a tu gusto con un diseño realmente atractivo.</p>
 
-<h3>4. No olvides que juegas en pareja</h3>
+<p><img src="/images/parchis/parchis3.jpeg" alt="Parchís" /></p>
 
-<p>Para ganar al Dominó de Don Naipe debes tener en cuenta que juegas en pareja y que, por tanto, deberás facilitar los movimientos de tu pareja para fortalecer el equipo. Para ello, como te adelantábamos en el punto 1, debes fijarte bien en sus fichas y qué estrategia está utilizando para tratar de prever qué puede hacer a continuación.</p>
+<p>Pueden jugar varias personas con el mismo dispositivo, por lo que esta opción es muy interesante si en esta cuarentena no estás solo en casa. Si prefieres jugar solo, ya sabes que nuestros bots tienen distintos niveles de inteligencia para que puedas ajustar la dificultad de la partida.</p>
 
-<h3>5. Establece una estrategia</h3>
+<p>Aunque habrás jugado muchas veces, en <a href="/blog/2019/10/11/7-recomendaciones-de-don-naipe-para-ganar-al-parchis/">este post</a> te damos unas recomendaciones para asegurarte la victoria. Recuerda que tienes una opción para parar el dado tocando la pantalla. Esto te dará ventaja si se te resiste ese ansiado cinco para sacar las fichas, pero has de ser hábil porque el dado se mueve muy rápido.</p>
 
-<p>Teniendo en cuenta todo lo que te hemos comentado, tú también debes establecer una estrategia que te permita ganar la ronda y la partida. Por ejemplo, una buena táctica puede consistir en tratar de deshacerse primero de las fichas de más valor, para que, en el caso de que no se puedan realizar más movimientos, el valor de tus fichas restantes sea el menor posible y tengas así más opciones de ganar. En cualquier caso, piensa siempre fríamente cada movimiento y evita caer en las trampas que te pongan los rivales.</p>
+<p>¡Elige tu color preferido y ¡A JUGAR! <a href="https://play.google.com/store/apps/details?id=donnaipe.parchis">Éste es el enlace de Android</a> y <a href="https://apps.apple.com/es/app/el-parch%C3%ADs/id1071095103">éste el de iOS</a>.</p>
 
-<p>Ahora ya estás listo para convertirte en un campeón del dominó. Descárgate la aplicación en la <a href="https://play.google.com/store/apps/details?id=donnaipe.domino">Play Store de Android</a> o en el <a href="https://apps.apple.com/es/app/partnership-dominoes/id1070659362">App Store si tu dispositivo es iPhone o iPad</a> y demuestra todo lo que has aprendido en este post escalando posiciones en el &ldquo;Dominómetro&rdquo;.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Dominó en Parejas Por Fin en iOS]]></title>
-    <link href="http://donnaipe.com/blog/2016/01/10/domino-en-parejas-por-fin-en-ios/"/>
-    <updated>2016-01-10T08:22:25+01:00</updated>
-    <id>http://donnaipe.com/blog/2016/01/10/domino-en-parejas-por-fin-en-ios</id>
-    <content type="html"><![CDATA[<p>Seguimos poniendo al día el catálogo de iOS. Esta vez os traigo <strong>Dominó en Parejas</strong>, el juego clásico de dominó en España. Podéis descargar <a href="https://itunes.apple.com/es/app/partnership-dominoes/id1070659362?mt=8">Dominó en Parejas en el App Store</a>. Puede jugarse en dispositivos iPhone, iPad y iPod con iOS 7 o superior.</p>
+<h2>El Mus</h2>
 
-<p><img src="/images/dominoIOS/dominoIOS.jpg" alt="Dominó en Parejas para iOS" /></p>
+<p>Si tú eres más de juegos de cartas, una de nuestras recomendaciones es el mus. ¿Quieres recordar las tardes en el bar de la universidad con tus amigos? Jugar en parejas lo hace especialmente atractivo y un elemento clave es el paso de señas al compañero, que también puedes hacer en El Mus de Don Naipe.</p>
 
-<p>Esta conversión es muy similar a mi juego <strong>Dominó en Parejas</strong> para Android, así que os remito a <a href="/blog/2015/07/31/nuevo-lanzamiento-domino-en-parejas/">este post</a> para consultar las reglas y descripción del mismo.</p>
+<p><img src="/images/mus/mus-senas.png" alt="Mus" /></p>
 
-<p>Tengo otro nuevo juego para iOS a punto de salir, así que no os vayáis muy lejos.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Nuevo Lanzamiento: Dominó en Parejas]]></title>
-    <link href="http://donnaipe.com/blog/2015/07/31/nuevo-lanzamiento-domino-en-parejas/"/>
-    <updated>2015-07-31T10:42:15+02:00</updated>
-    <id>http://donnaipe.com/blog/2015/07/31/nuevo-lanzamiento-domino-en-parejas</id>
-    <content type="html"><![CDATA[<p>Las vacaciones han sido fructíferas y tenemos un nuevo lanzamiento: <strong>Dominó en Parejas</strong> para Android, disponible en <a href="https://play.google.com/store/apps/details?id=donnaipe.domino">Google Play</a>. Esta vez nos adentramos en terreno desconocido, dejamos las cartas aparte y cogemos las fichas del dominó.</p>
+<p>Prueba a jugar con nuestros personajes y elige como compañero al que mejor se ajuste a tu modo de juego. Recuerda que cambiarán su forma de jugar dependiendo de las señas que hayan visto, como lo haría un experto jugador de mus. Algunos son más hábiles que otros&hellip; Por si quieres aprender a jugar o si no te acuerdas de las reglas, en <a href="/blog/2019/11/19/te-ensenamos-las-reglas-del-mus/">este post</a> te lo explicamos.</p>
 
-<p><img src="/images/domino/logoDomino.png" alt="Dominó en Parejas para Android" /></p>
+<p>Y si todavía no te lo has descargado, aquí te dejamos <a href="https://play.google.com/store/apps/details?id=donnaipe.mus">los enlaces de Android</a> e <a href="https://apps.apple.com/es/app/mus-don-naipe/id954161061">iOS</a>.</p>
 
-<p><strong>Dominó en Parejas</strong> es una conversión del juego clásico de dominó, tan popular en España y Latinoamérica. Para los que no lo conozcan, la dinámica es sencilla: se juega entre cuatro, formando pareja los jugadores enfrentados en la mesa. El objetivo es llegar a un número de puntos, típicamente 100, antes que la pareja contraria.</p>
+<h2>Tute a Cuatro</h2>
 
-<p><a href="https://www.youtube.com/watch?v=wnnLeopPe-4"><img src="/images/youtubevideo.jpg" alt="Vídeo de Dominó en Parejas para Android" /></a></p>
+<p>Otro de los grandes clásicos de la baraja española es sin duda el tute. En Don Naipe le tenemos un cariño especial porque nuestro primer juego fue Tute a Cuatro. Se trata de la variante más popular y entretenida de tute, la de cuatro jugadores organizados en parejas.</p>
 
-<p>En cada ronda se reparten todas las fichas, 7 por jugador. En la primera ronda sale el jugador con el 6 doble con esa ficha. En las rondas siguientes el turno pasa al jugador de la derecha, pudiendo elegir cualquier ficha como salida.</p>
+<p><img src="/images/TuteGratis/logroTute.jpg" alt="Tute" /></p>
 
-<p>El jugador con el turno colocará una ficha de su elección en cualquiera de los dos extremos, siempre que coincida el valor del extremo con el de la ficha. Si no tiene posibilidad de poner ficha, el jugador pasará y correrá el turno al siguiente jugador.</p>
+<p>Desde la primera versión a la actual, hemos mejorado mucho el juego de Tute a Cuatro. Ahora puedes elegir entre 15 personajes con diferentes niveles de dificultad. Aunque recientemente hemos tenido que desactivar el juego en red, esperamos volver a ponerlo en marcha muy pronto: ¡estad atentos!</p>
 
-<p><img src="/images/domino/domino1.jpg" alt="Dominó en Parejas para Android" /></p>
-
-<p>Un jugador gana la ronda tras colocar su última ficha en la mesa, anotándose la puntuación de las fichas sin jugar de los tres jugadores restantes. Si el juego está cerrado, es decir, ningún jugador puede poner una nueva ficha, cada pareja contará sus puntos, ganando la que   obtenga menor puntuación y anotándose los puntos de las fichas sin jugar. En caso de empate, ninguna pareja será la vencedora, corriendo el turno de salida al siguiente jugador.</p>
-
-<p><img src="/images/domino/domino2.jpg" alt="Dominó en Parejas para Android" /></p>
-
-<p>De momento sólo es posible el juego individual, pero se puede elegir al compañero y rivales entre 7 bots disponibles, cada uno con su propio avatar. Como siempre, he cuidado mucho la inteligencia artificial, disponiendo de tres niveles: básico (1 estrella), mediano (2 estrellas) y bueno (3 estrellas). Cada bot tiene asignado un nivel, con lo que la dificultad de la partida variará entre 2 y 8 estrellas, dependiendo de la disposición de bots en la mesa.</p>
-
-<p><img src="/images/domino/domino3.jpg" alt="Dominó en Parejas para Android" /></p>
-
-<p>Para la realización del juego he tenido que profundizar en el juego del dominó, que tiene más &ldquo;miga&rdquo; de lo que parece a primera vista. En este sentido me ha resultado muy útil <a href="https://sites.google.com/site/dominoarteociencia/home">la web del dominó arte o ciencia</a>. Estoy bastante satisfecho con el resultado y creo que los bots juegan bastante bien, especialmente los del nivel bueno.</p>
-
-<p><img src="/images/domino/domino4.jpg" alt="Dominó en Parejas para Android" /></p>
-
-<p><strong>Dominó en Parejas</strong> está dedicado a mi abuelo Pepe, que me enseño a jugar al dominó. Podéis <a href="https://play.google.com/store/apps/details?id=donnaipe.domino">descargar Dominó en Parejas en Google Play</a>. Espero que lo disfrutéis.</p>
+<p>Si tienes un dispositivo Android puedes <a href="https://play.google.com/store/apps/details?id=donnaipe.tutegratis">descargar Tute a Cuatro aquí</a> y también en <a href="https://apps.apple.com/us/app/tute/id853010761?l=es&amp;ls=1">este enlace para iOS</a>.</p>
 ]]></content>
   </entry>
   
