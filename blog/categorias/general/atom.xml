@@ -4,7 +4,7 @@
   <title><![CDATA[Category: General | Don Naipe]]></title>
   <link href="http://donnaipe.com/blog/categorias/general/atom.xml" rel="self"/>
   <link href="http://donnaipe.com/"/>
-  <updated>2020-05-03T16:57:28+02:00</updated>
+  <updated>2020-05-24T17:07:27+02:00</updated>
   <id>http://donnaipe.com/</id>
   <author>
     <name><![CDATA[Don Naipe]]></name>
@@ -12,6 +12,54 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Vuelve Tute a Cuatro en Red]]></title>
+    <link href="http://donnaipe.com/blog/2020/05/23/vuelve-tute-a-cuatro-en-red/"/>
+    <updated>2020-05-23T12:19:56+02:00</updated>
+    <id>http://donnaipe.com/blog/2020/05/23/vuelve-tute-a-cuatro-en-red</id>
+    <content type="html"><![CDATA[<p>Invitar a tus amigos a una partida de tute, recuperar la sensación de jugar con humanos, ganar (y perder) una partida en red&hellip; Desde hoy volvemos a disfrutar de todo esto. Vuelve <a href="https://play.google.com/store/apps/details?id=donnaipe.tutegratis">Tute a Cuatro en red</a>, y es mejor que antes.</p>
+
+<p><img src="/images/TuteGratis/tutered3.png" alt="Tute a Cuatro en red" /></p>
+
+<p>Como os contábamos hace apenas mes y medio, <a href="/blog/2020/04/01/juego-en-red-no-disponible/">la plataforma que utilizábamos para el juego en red había dejado de dar servicio</a>. Muchos de vosotros os pusisteis en contacto con nosotros para señalarnos el problema y pedirnos que volviera cuanto antes. Recibido el mensaje, hemos aprovechado el confinamiento para poner en marcha de nuevo el juego en red. No ha sido fácil: nos ha costado mucho esfuerzo de desarrollo, y aún más de pruebas, pero creemos que el resultado ha merecido la pena.</p>
+
+<p><img src="/images/TuteGratis/tutered0.png" alt="Tute a Cuatro en red" /></p>
+
+<p>La nueva plataforma es muy diferente a la que utilizábamos y además da mucho menos soporte al juego en red. A consecuencia de esto hemos tenido que hacer mucho más desarrollo propio, pero este mayor control nos ha servido para introducir dos mejoras importantes en la experiencia de juego en red respecto a la anterior plataforma:</p>
+
+<ul>
+<li><strong>Soporte a desconexiones</strong>: si sales de una partida (por ejemplo si alguien te llama por teléfono), puedes reengancharte posteriormente sin problemas.</li>
+<li><strong>Invita a tus amigos con un enlace</strong>: para invitar a tus amigos a una partida sólo tienes que pasarles un enlace. Puedes compartir dicho enlace por correo, por mensaje, dictarla&hellip; o simplemente utilizar la red social que quieras para ello.</li>
+</ul>
+
+
+<p><img src="/images/TuteGratis/tutered1.png" alt="Tute a Cuatro en red" /></p>
+
+<p>Por lo demás, hemos reajustado los mecanismos de juego en red que ya teníamos. Así, tienes un tiempo limitado para hacer tu jugada en tu turno; si te pasas de tiempo, un bot tomará los mandos y jugará por ti &mdash; para recuperar el control sólo tienes que tocar la pantalla.  Un bot también tomará el control de tus cartas si te desconectas de la partida para que el resto de jugadores pueda continuar.</p>
+
+<p><img src="/images/TuteGratis/tutered2.png" alt="Tute a Cuatro en red" /></p>
+
+<p>También hemos mantenido la configuración de las partidas en red que teníamos:</p>
+
+<ul>
+<li>Partidas al mejor de 4 juegos</li>
+<li>Doble a 100 puntos (120 cantando)</li>
+<li>Cante en baza propia o del compañero</li>
+</ul>
+
+
+<p>En las partidas individuales estos parámetros pueden configurarse al gusto, pero no en las partidas en red. Esto es por diseño para reducir las esperas al montar las partidas ya que, de otra forma, sería necesario esperar a que lleguen otros 3 jugadores con los mismos parámetros de partida. Creemos que es preferible limitar las posibilidades de configuración, aunque el compromiso está ahí.</p>
+
+<p><img src="/images/TuteGratis/tutered4.png" alt="Tute a Cuatro en red" /></p>
+
+<p>Llevábamos un tiempo ocupados con el mantenimiento de nuestro catálogo de juegos, pero sin preparar nuevas cosas. Hemos recuperado sensaciones y volvemos a sentir el cosquilleo y los nervios de un lanzamiento nuevo. Esperamos que todo el esfuerzo haya merecido la pena y que puedas disfrutar en su plenitud de las partidas en red de Tute a Cuatro.</p>
+
+<p>Te dejamos aquí <a href="https://play.google.com/store/apps/details?id=donnaipe.tutegratis">el enlace de Tute a Cuatro</a> y te recordamos que basta con un teléfono o una tableta Android para jugar con él.</p>
+
+<blockquote><p><em>We&rsquo;re back.</em></p></blockquote>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Cinco Juegos De Don Naipe Para No Aburrirte en Casa]]></title>
@@ -178,42 +226,6 @@
 <p>Teniendo en cuenta todo lo que te hemos comentado, tú también debes establecer una estrategia que te permita ganar la ronda y la partida. Por ejemplo, una buena táctica puede consistir en tratar de deshacerse primero de las fichas de más valor, para que, en el caso de que no se puedan realizar más movimientos, el valor de tus fichas restantes sea el menor posible y tengas así más opciones de ganar. En cualquier caso, piensa siempre fríamente cada movimiento y evita caer en las trampas que te pongan los rivales.</p>
 
 <p>Ahora ya estás listo para convertirte en un campeón del dominó. Descárgate la aplicación en la <a href="https://play.google.com/store/apps/details?id=donnaipe.domino">Play Store de Android</a> o en el <a href="https://apps.apple.com/es/app/partnership-dominoes/id1070659362">App Store si tu dispositivo es iPhone o iPad</a> y demuestra todo lo que has aprendido en este post escalando posiciones en el &ldquo;Dominómetro&rdquo;.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Te Enseñamos Las Señas Del Mus]]></title>
-    <link href="http://donnaipe.com/blog/2019/11/19/te-ensenamos-las-reglas-del-mus/"/>
-    <updated>2019-11-19T18:27:30+01:00</updated>
-    <id>http://donnaipe.com/blog/2019/11/19/te-ensenamos-las-reglas-del-mus</id>
-    <content type="html"><![CDATA[<p><a href="https://play.google.com/store/apps/details?id=donnaipe.mus">El mus</a> es probablemente el juego más popular de entre los que se juegan con baraja española. El hecho de que se juegue en parejas lo hace especialmente atractivo y diferenciador sobre otros juegos de apuestas como el póker. Un elemento clave en el mus es el paso de señas al compañero que, por supuesto, es posible en el mus de Don Naipe.</p>
-
-<p><img src="/images/mus/mus-senas-portada.png" alt="Las señas del mus" /></p>
-
-<p>Para jugar al mus en condiciones es muy importante conocer al menos las señas básicas y saber transmitírselas a tu pareja sin que os pillen vuestros rivales . Si no las conoces, Don Naipe te enseña las señas del mus en este post.</p>
-
-<ul>
-<li><p>DOS REYES: morderse el labio inferior. Esta seña se usa para indicar que tenemos dos reyes.</p></li>
-<li><p>DOS PITOS: sacar la punta de la lengua. La utilizaremos cuando tengamos dos ases.</p></li>
-<li><p>DUPLES: levantar las cejas. Quiere decir que tenemos dos parejas de cartas iguales (o las cuatro iguales). Por ejemplo: dos reyes y dos caballos.</p></li>
-<li><p>TRES REYES: morderse el lateral del labio inferior. Con esta seña indicaremos que tenemos 3 reyes.</p></li>
-<li><p>TRES PITOS: sacar la lengua lateralmente. La usaremos cuando tengamos tres ases.</p></li>
-<li><p>MEDIAS: torcer la boca hacia un lado con la boca cerrada. Significa que disponemos de tres cartas iguales.</p></li>
-<li><p>TREINTA Y UNA: guiñar el ojo. Se utiliza cuando el valor de nuestras cartas suma 31, el mejor juego posible.</p></li>
-<li><p>LA BONITA: lanzar un beso. En este caso tenemos en la mano una de las mejores jugadas: tres reyes y un as.</p></li>
-<li><p>CIEGO: cerrar los ojos. Si no llevas pares ni juego se lo puedes indicar así a tu compañero.</p></li>
-</ul>
-
-
-<p><img src="/images/mus/mus-senas.png" alt="Las señas del mus" /></p>
-
-<p>Estas señas son las más comunes y las que podrás utilizar en el mus de Don Naipe, pero dependiendo de la zona de España donde se juegue pueden variar. Por lo tanto, si juegas una partida física, asegúrate de dejar claras las normas al comienzo. Lo que no está permitido en ningún caso es utilizar señas falsas para engañar a los contrincantes, ni mentir cuando nos han pillado la seña y no queremos reconocerlo. En el caso de que no se respeten estas normas, los tramposos perderán el juego completo.</p>
-
-<p>Como ya te hemos comentado, las señas son muy útiles para comunicarse con tu compañero en el juego pero, ¡cuidado!, tus rivales pueden también pillarte una seña. De hecho, en el juego de mus de Don Naipe los bots cambiarán su manera de jugar dependiendo de las señas que hayan cazado (como haría un jugador experto de mus). Así, si haces la seña de ciego, es más probable que tu compañero se dé mus. Otro ejemplo, si tu rival te pilla haciendo la seña de treinta y una, no entrará al juego si le superas.</p>
-
-<p>Ten en cuenta también que la visión panorámica de los bots es limitada, por lo que detectan más fácilmente las señas de su compañero y tienen más dificultades para ver las señas de los rivales. Además, algunos bots tienen mayor habilidad para cazar señas que otros, lo que garantiza que cada partida sea completamente diferente a la anterior.</p>
-
-<p>Así que apréndete bien estas nueve señas básicas del mus y prepárate para muchas horas de diversión con Don Naipe. Si todavía no te has descargado la app, aquí tienes los enlaces para hacerlo en tu <a href="https://play.google.com/store/apps/details?id=donnaipe.mus">dispositivo Android</a> o <a href="https://apps.apple.com/es/app/mus-don-naipe/id954161061">iOS</a>. Recuerda que la versión 2.0 del juego ya está disponible con el modo red para que puedas disputar partidas de mus al mejor de dos juegos con otros tres humanos, tanto en partidas rápidas como con tus amigos (mediante invitaciones).</p>
 ]]></content>
   </entry>
   

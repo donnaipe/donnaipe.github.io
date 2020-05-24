@@ -4,7 +4,7 @@
   <title><![CDATA[Don Naipe]]></title>
   <link href="http://donnaipe.com/atom.xml" rel="self"/>
   <link href="http://donnaipe.com/"/>
-  <updated>2020-05-03T16:57:28+02:00</updated>
+  <updated>2020-05-24T17:07:27+02:00</updated>
   <id>http://donnaipe.com/</id>
   <author>
     <name><![CDATA[Don Naipe]]></name>
@@ -12,6 +12,54 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Vuelve Tute a Cuatro en Red]]></title>
+    <link href="http://donnaipe.com/blog/2020/05/23/vuelve-tute-a-cuatro-en-red/"/>
+    <updated>2020-05-23T12:19:56+02:00</updated>
+    <id>http://donnaipe.com/blog/2020/05/23/vuelve-tute-a-cuatro-en-red</id>
+    <content type="html"><![CDATA[<p>Invitar a tus amigos a una partida de tute, recuperar la sensación de jugar con humanos, ganar (y perder) una partida en red&hellip; Desde hoy volvemos a disfrutar de todo esto. Vuelve <a href="https://play.google.com/store/apps/details?id=donnaipe.tutegratis">Tute a Cuatro en red</a>, y es mejor que antes.</p>
+
+<p><img src="http://donnaipe.com/images/TuteGratis/tutered3.png" alt="Tute a Cuatro en red" /></p>
+
+<p>Como os contábamos hace apenas mes y medio, <a href="http://donnaipe.com/blog/2020/04/01/juego-en-red-no-disponible/">la plataforma que utilizábamos para el juego en red había dejado de dar servicio</a>. Muchos de vosotros os pusisteis en contacto con nosotros para señalarnos el problema y pedirnos que volviera cuanto antes. Recibido el mensaje, hemos aprovechado el confinamiento para poner en marcha de nuevo el juego en red. No ha sido fácil: nos ha costado mucho esfuerzo de desarrollo, y aún más de pruebas, pero creemos que el resultado ha merecido la pena.</p>
+
+<p><img src="http://donnaipe.com/images/TuteGratis/tutered0.png" alt="Tute a Cuatro en red" /></p>
+
+<p>La nueva plataforma es muy diferente a la que utilizábamos y además da mucho menos soporte al juego en red. A consecuencia de esto hemos tenido que hacer mucho más desarrollo propio, pero este mayor control nos ha servido para introducir dos mejoras importantes en la experiencia de juego en red respecto a la anterior plataforma:</p>
+
+<ul>
+<li><strong>Soporte a desconexiones</strong>: si sales de una partida (por ejemplo si alguien te llama por teléfono), puedes reengancharte posteriormente sin problemas.</li>
+<li><strong>Invita a tus amigos con un enlace</strong>: para invitar a tus amigos a una partida sólo tienes que pasarles un enlace. Puedes compartir dicho enlace por correo, por mensaje, dictarla&hellip; o simplemente utilizar la red social que quieras para ello.</li>
+</ul>
+
+
+<p><img src="http://donnaipe.com/images/TuteGratis/tutered1.png" alt="Tute a Cuatro en red" /></p>
+
+<p>Por lo demás, hemos reajustado los mecanismos de juego en red que ya teníamos. Así, tienes un tiempo limitado para hacer tu jugada en tu turno; si te pasas de tiempo, un bot tomará los mandos y jugará por ti &mdash; para recuperar el control sólo tienes que tocar la pantalla.  Un bot también tomará el control de tus cartas si te desconectas de la partida para que el resto de jugadores pueda continuar.</p>
+
+<p><img src="http://donnaipe.com/images/TuteGratis/tutered2.png" alt="Tute a Cuatro en red" /></p>
+
+<p>También hemos mantenido la configuración de las partidas en red que teníamos:</p>
+
+<ul>
+<li>Partidas al mejor de 4 juegos</li>
+<li>Doble a 100 puntos (120 cantando)</li>
+<li>Cante en baza propia o del compañero</li>
+</ul>
+
+
+<p>En las partidas individuales estos parámetros pueden configurarse al gusto, pero no en las partidas en red. Esto es por diseño para reducir las esperas al montar las partidas ya que, de otra forma, sería necesario esperar a que lleguen otros 3 jugadores con los mismos parámetros de partida. Creemos que es preferible limitar las posibilidades de configuración, aunque el compromiso está ahí.</p>
+
+<p><img src="http://donnaipe.com/images/TuteGratis/tutered4.png" alt="Tute a Cuatro en red" /></p>
+
+<p>Llevábamos un tiempo ocupados con el mantenimiento de nuestro catálogo de juegos, pero sin preparar nuevas cosas. Hemos recuperado sensaciones y volvemos a sentir el cosquilleo y los nervios de un lanzamiento nuevo. Esperamos que todo el esfuerzo haya merecido la pena y que puedas disfrutar en su plenitud de las partidas en red de Tute a Cuatro.</p>
+
+<p>Te dejamos aquí <a href="https://play.google.com/store/apps/details?id=donnaipe.tutegratis">el enlace de Tute a Cuatro</a> y te recordamos que basta con un teléfono o una tableta Android para jugar con él.</p>
+
+<blockquote><p><em>We&rsquo;re back.</em></p></blockquote>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Cinco Juegos De Don Naipe Para No Aburrirte en Casa]]></title>
@@ -587,21 +635,6 @@ Que cada uno celebre este 14 de febrero como quiera, pero que por un momento sep
 <p>Y con esto finaliza un intenso <em>sprint</em> de puesta al día del catálogo de iOS. Lamentablemente no he tenido tiempo de incluir <a href="http://donnaipe.com/blog/2015/05/11/el-portugues-un-gran-juego-de-cartas-para-android/">el Portugués</a> y <a href="http://donnaipe.com/blog/2015/06/26/pon-a-prueba-tus-reflejos-con-rapido-don-naipe/">Rápido</a>, pero espero hacerlo en el futuro.</p>
 
 <p>¡Disfrutad del Europoly!</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Llega El Parchís Al App Store]]></title>
-    <link href="http://donnaipe.com/blog/2016/01/17/llega-el-parchis-al-app-store/"/>
-    <updated>2016-01-17T09:07:44+01:00</updated>
-    <id>http://donnaipe.com/blog/2016/01/17/llega-el-parchis-al-app-store</id>
-    <content type="html"><![CDATA[<p>Una semana más, un nuevo lanzamiento. Esta vez toca <strong>El Parchís</strong>, todo un clásico: <a href="https://itunes.apple.com/es/app/el-parchis/id1071095103?mt=8">El Parchís en el App Store</a>. Puede jugarse en dispositivos iPhone, iPad y iPod con iOS 7 o superior.</p>
-
-<p><img src="http://donnaipe.com/images/parchisIOS/parchisIOS.jpg" alt="El Parchís para iOS" /></p>
-
-<p>Podéis encontrar más información del juego en la versión de <strong>El Parchís</strong> para Android de <a href="http://donnaipe.com/blog/2015/09/02/mas-clasicos-el-parchis-para-android/">este post</a>.</p>
-
-<p>Espero que lo disfrutéis.</p>
 ]]></content>
   </entry>
   

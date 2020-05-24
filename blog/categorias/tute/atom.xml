@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Tute | Don Naipe]]></title>
   <link href="http://donnaipe.com/blog/categorias/tute/atom.xml" rel="self"/>
   <link href="http://donnaipe.com/"/>
-  <updated>2020-05-03T16:57:28+02:00</updated>
+  <updated>2020-05-24T17:07:27+02:00</updated>
   <id>http://donnaipe.com/</id>
   <author>
     <name><![CDATA[Don Naipe]]></name>
@@ -12,6 +12,54 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Vuelve Tute a Cuatro en Red]]></title>
+    <link href="http://donnaipe.com/blog/2020/05/23/vuelve-tute-a-cuatro-en-red/"/>
+    <updated>2020-05-23T12:19:56+02:00</updated>
+    <id>http://donnaipe.com/blog/2020/05/23/vuelve-tute-a-cuatro-en-red</id>
+    <content type="html"><![CDATA[<p>Invitar a tus amigos a una partida de tute, recuperar la sensación de jugar con humanos, ganar (y perder) una partida en red&hellip; Desde hoy volvemos a disfrutar de todo esto. Vuelve <a href="https://play.google.com/store/apps/details?id=donnaipe.tutegratis">Tute a Cuatro en red</a>, y es mejor que antes.</p>
+
+<p><img src="/images/TuteGratis/tutered3.png" alt="Tute a Cuatro en red" /></p>
+
+<p>Como os contábamos hace apenas mes y medio, <a href="/blog/2020/04/01/juego-en-red-no-disponible/">la plataforma que utilizábamos para el juego en red había dejado de dar servicio</a>. Muchos de vosotros os pusisteis en contacto con nosotros para señalarnos el problema y pedirnos que volviera cuanto antes. Recibido el mensaje, hemos aprovechado el confinamiento para poner en marcha de nuevo el juego en red. No ha sido fácil: nos ha costado mucho esfuerzo de desarrollo, y aún más de pruebas, pero creemos que el resultado ha merecido la pena.</p>
+
+<p><img src="/images/TuteGratis/tutered0.png" alt="Tute a Cuatro en red" /></p>
+
+<p>La nueva plataforma es muy diferente a la que utilizábamos y además da mucho menos soporte al juego en red. A consecuencia de esto hemos tenido que hacer mucho más desarrollo propio, pero este mayor control nos ha servido para introducir dos mejoras importantes en la experiencia de juego en red respecto a la anterior plataforma:</p>
+
+<ul>
+<li><strong>Soporte a desconexiones</strong>: si sales de una partida (por ejemplo si alguien te llama por teléfono), puedes reengancharte posteriormente sin problemas.</li>
+<li><strong>Invita a tus amigos con un enlace</strong>: para invitar a tus amigos a una partida sólo tienes que pasarles un enlace. Puedes compartir dicho enlace por correo, por mensaje, dictarla&hellip; o simplemente utilizar la red social que quieras para ello.</li>
+</ul>
+
+
+<p><img src="/images/TuteGratis/tutered1.png" alt="Tute a Cuatro en red" /></p>
+
+<p>Por lo demás, hemos reajustado los mecanismos de juego en red que ya teníamos. Así, tienes un tiempo limitado para hacer tu jugada en tu turno; si te pasas de tiempo, un bot tomará los mandos y jugará por ti &mdash; para recuperar el control sólo tienes que tocar la pantalla.  Un bot también tomará el control de tus cartas si te desconectas de la partida para que el resto de jugadores pueda continuar.</p>
+
+<p><img src="/images/TuteGratis/tutered2.png" alt="Tute a Cuatro en red" /></p>
+
+<p>También hemos mantenido la configuración de las partidas en red que teníamos:</p>
+
+<ul>
+<li>Partidas al mejor de 4 juegos</li>
+<li>Doble a 100 puntos (120 cantando)</li>
+<li>Cante en baza propia o del compañero</li>
+</ul>
+
+
+<p>En las partidas individuales estos parámetros pueden configurarse al gusto, pero no en las partidas en red. Esto es por diseño para reducir las esperas al montar las partidas ya que, de otra forma, sería necesario esperar a que lleguen otros 3 jugadores con los mismos parámetros de partida. Creemos que es preferible limitar las posibilidades de configuración, aunque el compromiso está ahí.</p>
+
+<p><img src="/images/TuteGratis/tutered4.png" alt="Tute a Cuatro en red" /></p>
+
+<p>Llevábamos un tiempo ocupados con el mantenimiento de nuestro catálogo de juegos, pero sin preparar nuevas cosas. Hemos recuperado sensaciones y volvemos a sentir el cosquilleo y los nervios de un lanzamiento nuevo. Esperamos que todo el esfuerzo haya merecido la pena y que puedas disfrutar en su plenitud de las partidas en red de Tute a Cuatro.</p>
+
+<p>Te dejamos aquí <a href="https://play.google.com/store/apps/details?id=donnaipe.tutegratis">el enlace de Tute a Cuatro</a> y te recordamos que basta con un teléfono o una tableta Android para jugar con él.</p>
+
+<blockquote><p><em>We&rsquo;re back.</em></p></blockquote>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Cinco Juegos De Don Naipe Para No Aburrirte en Casa]]></title>
@@ -119,42 +167,6 @@ y <a href="https://play.google.com/store/apps/details?id=donnaipe.mus">El Mus</a
 <p>Por último, una sorpresa para los jugadores de Tute a Cuatro: he incluido un nuevo nivel de dificultad (<em>Profesional</em>) en los bots. Así, podrán disputarse partidas con rivales de más calidad, mientras que el compañero contará a partir de ahora con una inteligencia artificial mejorada.</p>
 
 <p>Espero que disfrutéis estas actualizaciones.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Tute Cabrón Para Android: Desata Tu Lado Más Malvado]]></title>
-    <link href="http://donnaipe.com/blog/2015/05/30/tute-cabron-para-android-desata-tu-lado-mas-malvado/"/>
-    <updated>2015-05-30T17:59:33+02:00</updated>
-    <id>http://donnaipe.com/blog/2015/05/30/tute-cabron-para-android-desata-tu-lado-mas-malvado</id>
-    <content type="html"><![CDATA[<p>Volvemos a la carga con un bombazo: el <strong>Tute Cabrón</strong> para Android. Como seguramente ya sepáis, se trata de una conocida variante del tute que es todo un clásico de los juegos de baraja española. Podéis descargar <a href="https://play.google.com/store/apps/details?id=donnaipe.cabron">Tute Cabrón en Google Play</a>.</p>
-
-<p><img src="/images/tuteCabron/logoCabron.png" alt="Tute Cabrón para Android" /></p>
-
-<p>También llamado <em>tute pierde en medio</em>, se juega con una baraja española de 36 cartas (quitando los doses a la clásica de 40), disputándose un número indefinido de rondas hasta que haya un perdedor. En cada ronda se reparten todas las cartas y se juega con las reglas del tute. Al final de la ronda se hace un recuento y se penaliza con un tanto al jugador que obtuvo una puntuación intermedia. La partida termina cuando un jugador llega a un número predeterminado de tantos.</p>
-
-<p><img src="/images/tuteCabron/tuteCabron1.jpeg" alt="Tute Cabrón para Android" /></p>
-
-<p>Aunque la regla general es que pierde la ronda el jugador con la puntuación intermedia, hay tres notables excepciones:</p>
-
-<ol>
-<li>Si un jugador no hace baza, pierde</li>
-<li>Si un jugador hace más de 100 puntos, pierde (con la salvedad anterior)</li>
-<li>Si dos jugadores empatan, pierden (con las salvedades anteriores)</li>
-</ol>
-
-
-<p><img src="/images/tuteCabron/tuteCabron2.jpeg" alt="Tute Cabrón para Android" /></p>
-
-<p>Otra particularidad del tute cabrón es que se canta en mesa, es decir, al coincidir el rey y el caballo del mismo palo  en una baza. El primer cante se corresponderá con las cuarenta y a partir de ese momento será triunfo el palo del cante. Los siguientes cantes serán de veinte puntos. Los cantes es uno de los aspectos que añaden más interés al juego, ya que pueden hacer que se pase de puntos un jugador que va a más.</p>
-
-<p><img src="/images/tuteCabron/tuteCabron3.jpeg" alt="Tute Cabrón para Android" /></p>
-
-<p>De momento, sólo puede jugarse en modo individual, aunque la inteligencia artificial ha quedado muy lograda: los <em>bots</em> son unos auténticos cabronazos en el nivel de dificultad más alto&hellip;</p>
-
-<p><img src="/images/tuteCabron/tuteCabron4.jpeg" alt="Tute Cabrón para Android" /></p>
-
-<p>¡A disfrutar del juego del verano!</p>
 ]]></content>
   </entry>
   
