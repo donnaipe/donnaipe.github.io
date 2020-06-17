@@ -4,7 +4,7 @@
   <title><![CDATA[Don Naipe]]></title>
   <link href="http://donnaipe.com/atom.xml" rel="self"/>
   <link href="http://donnaipe.com/"/>
-  <updated>2020-05-24T17:07:27+02:00</updated>
+  <updated>2020-06-17T16:33:18+02:00</updated>
   <id>http://donnaipe.com/</id>
   <author>
     <name><![CDATA[Don Naipe]]></name>
@@ -12,6 +12,46 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Actualizamos Nuestro Dominó en Parejas Para Android]]></title>
+    <link href="http://donnaipe.com/blog/2020/06/17/actualizamos-nuestro-domino-en-parejas-para-android/"/>
+    <updated>2020-06-17T16:21:16+02:00</updated>
+    <id>http://donnaipe.com/blog/2020/06/17/actualizamos-nuestro-domino-en-parejas-para-android</id>
+    <content type="html"><![CDATA[<p>El dominó es un clásico entre los clásicos, con muchas variantes de juego practicadas en todo el mundo. En el catálogo de Don Naipe tenemos <a href="https://play.google.com/store/apps/details?id=donnaipe.domino">Dominó en Parejas</a>, la conversión del juego de dominó más común en España y Latinoamérica. Posiblemente éste sea nuestro juego más popular, por lo que recibimos muchos comentarios, peticiones y sugerencias por parte de nuestros queridos usuarios. Así que <a href="http://donnaipe.com/blog/2020/05/23/vuelve-tute-a-cuatro-en-red/">después de restablecer el modo en red de Tute a Cuatro</a>, nos hemos puesto manos a la obra con Dominó en Parejas.</p>
+
+<p><img src="http://donnaipe.com/images/domino/dominoNuevo.png" alt="Dominó en Parejas mejorado" /></p>
+
+<p>¡Y el resultado ya está disponible! Hemos preparado una doble actualización de Dominó en Parejas para Android (incluye las versiones 1.6 y 1.7) con muchas mejoras:</p>
+
+<ul>
+<li>Inteligencia artificial mejorada</li>
+<li>Modo de análisis de la ronda</li>
+<li>Posibilidad de colorear las fichas</li>
+<li>Nueva opción en la salida</li>
+<li>Duración de la pensada ajustada</li>
+<li>Ajustes en los sonidos</li>
+<li>Nuevo personaje: Kiriko</li>
+</ul>
+
+
+<p>Lo que más trabajo nos ha llevado ha sido <strong>la revisión de la inteligencia artificial</strong>. Recordad que podéis elegir a vuestro compañero y rivales entre 16 personajes y que cada uno tiene un nivel representados con 1, 2 o 3 estrellas. Esta mejora de la inteligencia artificial era necesaria ya que muchos usuarios nos habían reportado unos cuantos problemas con los bots de 3⭐: análisis mejorable de las situaciones de cierre, tendencia excesiva a mantener los dobles en la mano, mala gestión de las situaciones de fin de ronda. Nos hemos remangado y hemos sido bastante concienzudos en su tratamiento. Nuestra sensación es que la mejora es notable, por lo que hemos subido un poco el nivel de los bots de 2⭐ para que no haya tanto salto con respecto a los de 3⭐. Los bots de 1⭐ siguen jugando igual, teniendo en cuenta sólo las fichas en su mano.</p>
+
+<p><img src="http://donnaipe.com/images/domino/dominoPlayback.png" alt="Dominó en Parejas mejorado" /></p>
+
+<p>Vamos con el <strong>modo de análisis de la ronda</strong>. Esta funcionalidad nos la habíais pedido muchas veces y por fin la hemos incluido. Completada una ronda, el jugador puede seleccionar el análisis de la misma o continuar con la partida. Tras elegir el modo de análisis, se muestran las fichas de todos los jugadores y se incluyen controles para rebobinar la ronda, ir un paso atrás, otro adelante o dar autoplay. Esta capacidad de revisión nos ha sido muy útil para ajustar la inteligencia artificial. También nos parece muy importante para mejorar nuestro juego del dominó al poder detectar qué jugadas fueron bien y qué alternativas hubieran sido preferibles.</p>
+
+<p><strong>La opción de colorear las fichas</strong> permite ver fácilmente qué jugador ha puesto cada ficha en la mesa. Esta característica no está disponible en el dominó original, por lo que su uso puede ser controvertido. Nuestra visión es que colorear las fichas es útil para los jugadores más noveles, por lo que puede activarse o no esta opción en el menú de configuración de la partida.</p>
+
+<p><img src="http://donnaipe.com/images/domino/dominoFlee.png" alt="Dominó en Parejas mejorado" /></p>
+
+<p>El resto de mejoras las tratamos un poco más rápidamente. Hemos incluido una nueva opción en la salida, consistente en sacar una ficha del montón para decidir qué jugador empieza. Éste es el procedimiento oficial del reglamento del dominó internacional, por lo que nos ha parecido conveniente incluirlo. También hemos aumentado la duración de la pensada para que sea más fácilmente apreciable por el jugador —la pensada es una seña que se hace en el dominó, consistente en hacer una pausa más o menos larga antes de jugar una ficha; si sólo hay una opción la jugada debe hacerse rápida y si hay varias puede jugarse más lento (hacer la pensada). De los sonidos, hemos incluido unos efectos mejores para el pase y el turno del humano. Y kikirikiiii&hellip; ¡hemos incorporado a nuestro gallo Kiriko a la lista de personajes!</p>
+
+<p>Muchas gracias a nuestros usuarios por ayudarnos a preparar esta doble actualización. Una mención especial aquí a Lester, que nos ha dado una realimentación muy valiosa para la mejora de la inteligencia artificial, el ajuste de la pensada y la incorporación de la nueva opción de salida.</p>
+
+<p>Si aún no lo tenéis, <a href="https://play.google.com/store/apps/details?id=donnaipe.domino">éste es el enlace de descarga de Dominó en Parejas para móviles y tabletas Android</a>. Que lo disfrutéis.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Vuelve Tute a Cuatro en Red]]></title>
@@ -618,23 +658,6 @@ Que cada uno celebre este 14 de febrero como quiera, pero que por un momento sep
     <content type="html"><![CDATA[<p>¡Segundo año de Producciones Don Naipe! Este segundo año ha sido un no parar con muchos juegos nuevos: Julepe, Rápido, Portugués, Tute Cabrón, Dominó en Parejas, Parchís y Europoly. Cada vez tenemos más jugadores y también más responsabilidad para no decepcionaros. Así que a celebrar por todo lo alto el aniversario. ¡Y feliz San Valentín a todos!</p>
 
 <p><img src="http://donnaipe.com/images/flores.jpg" alt="Flores" /></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Europoly Para iOS: El Juego De Finanzas Y Monopolios]]></title>
-    <link href="http://donnaipe.com/blog/2016/02/03/europoly-para-ios-el-juego-de-finanzas-y-monopolios/"/>
-    <updated>2016-02-03T16:55:25+01:00</updated>
-    <id>http://donnaipe.com/blog/2016/02/03/europoly-para-ios-el-juego-de-finanzas-y-monopolios</id>
-    <content type="html"><![CDATA[<p>¡Por fin está listo <strong>Europoly</strong> para iOS!: <a href="https://itunes.apple.com/es/app/europoly/id1077045179?mt=8">Europoly en el App Store</a>. Puede jugarse en dispositivos iPhone, iPad y iPod con iOS 7 o superior.</p>
-
-<p><img src="http://donnaipe.com/images/europolyIOS/europolyIOS.png" alt="Europoly para iOS" /></p>
-
-<p>Este juego es similar a la versión de <strong>Europoly</strong> para Android de <a href="http://donnaipe.com/blog/2015/11/05/europoly-el-juego-de-finanzas-y-monopolios/">este post</a>.</p>
-
-<p>Y con esto finaliza un intenso <em>sprint</em> de puesta al día del catálogo de iOS. Lamentablemente no he tenido tiempo de incluir <a href="http://donnaipe.com/blog/2015/05/11/el-portugues-un-gran-juego-de-cartas-para-android/">el Portugués</a> y <a href="http://donnaipe.com/blog/2015/06/26/pon-a-prueba-tus-reflejos-con-rapido-don-naipe/">Rápido</a>, pero espero hacerlo en el futuro.</p>
-
-<p>¡Disfrutad del Europoly!</p>
 ]]></content>
   </entry>
   

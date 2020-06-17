@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Android | Don Naipe]]></title>
   <link href="http://donnaipe.com/blog/categorias/android/atom.xml" rel="self"/>
   <link href="http://donnaipe.com/"/>
-  <updated>2020-05-24T17:07:27+02:00</updated>
+  <updated>2020-06-17T16:33:18+02:00</updated>
   <id>http://donnaipe.com/</id>
   <author>
     <name><![CDATA[Don Naipe]]></name>
@@ -12,6 +12,46 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Actualizamos Nuestro Dominó en Parejas Para Android]]></title>
+    <link href="http://donnaipe.com/blog/2020/06/17/actualizamos-nuestro-domino-en-parejas-para-android/"/>
+    <updated>2020-06-17T16:21:16+02:00</updated>
+    <id>http://donnaipe.com/blog/2020/06/17/actualizamos-nuestro-domino-en-parejas-para-android</id>
+    <content type="html"><![CDATA[<p>El dominó es un clásico entre los clásicos, con muchas variantes de juego practicadas en todo el mundo. En el catálogo de Don Naipe tenemos <a href="https://play.google.com/store/apps/details?id=donnaipe.domino">Dominó en Parejas</a>, la conversión del juego de dominó más común en España y Latinoamérica. Posiblemente éste sea nuestro juego más popular, por lo que recibimos muchos comentarios, peticiones y sugerencias por parte de nuestros queridos usuarios. Así que <a href="/blog/2020/05/23/vuelve-tute-a-cuatro-en-red/">después de restablecer el modo en red de Tute a Cuatro</a>, nos hemos puesto manos a la obra con Dominó en Parejas.</p>
+
+<p><img src="/images/domino/dominoNuevo.png" alt="Dominó en Parejas mejorado" /></p>
+
+<p>¡Y el resultado ya está disponible! Hemos preparado una doble actualización de Dominó en Parejas para Android (incluye las versiones 1.6 y 1.7) con muchas mejoras:</p>
+
+<ul>
+<li>Inteligencia artificial mejorada</li>
+<li>Modo de análisis de la ronda</li>
+<li>Posibilidad de colorear las fichas</li>
+<li>Nueva opción en la salida</li>
+<li>Duración de la pensada ajustada</li>
+<li>Ajustes en los sonidos</li>
+<li>Nuevo personaje: Kiriko</li>
+</ul>
+
+
+<p>Lo que más trabajo nos ha llevado ha sido <strong>la revisión de la inteligencia artificial</strong>. Recordad que podéis elegir a vuestro compañero y rivales entre 16 personajes y que cada uno tiene un nivel representados con 1, 2 o 3 estrellas. Esta mejora de la inteligencia artificial era necesaria ya que muchos usuarios nos habían reportado unos cuantos problemas con los bots de 3⭐: análisis mejorable de las situaciones de cierre, tendencia excesiva a mantener los dobles en la mano, mala gestión de las situaciones de fin de ronda. Nos hemos remangado y hemos sido bastante concienzudos en su tratamiento. Nuestra sensación es que la mejora es notable, por lo que hemos subido un poco el nivel de los bots de 2⭐ para que no haya tanto salto con respecto a los de 3⭐. Los bots de 1⭐ siguen jugando igual, teniendo en cuenta sólo las fichas en su mano.</p>
+
+<p><img src="/images/domino/dominoPlayback.png" alt="Dominó en Parejas mejorado" /></p>
+
+<p>Vamos con el <strong>modo de análisis de la ronda</strong>. Esta funcionalidad nos la habíais pedido muchas veces y por fin la hemos incluido. Completada una ronda, el jugador puede seleccionar el análisis de la misma o continuar con la partida. Tras elegir el modo de análisis, se muestran las fichas de todos los jugadores y se incluyen controles para rebobinar la ronda, ir un paso atrás, otro adelante o dar autoplay. Esta capacidad de revisión nos ha sido muy útil para ajustar la inteligencia artificial. También nos parece muy importante para mejorar nuestro juego del dominó al poder detectar qué jugadas fueron bien y qué alternativas hubieran sido preferibles.</p>
+
+<p><strong>La opción de colorear las fichas</strong> permite ver fácilmente qué jugador ha puesto cada ficha en la mesa. Esta característica no está disponible en el dominó original, por lo que su uso puede ser controvertido. Nuestra visión es que colorear las fichas es útil para los jugadores más noveles, por lo que puede activarse o no esta opción en el menú de configuración de la partida.</p>
+
+<p><img src="/images/domino/dominoFlee.png" alt="Dominó en Parejas mejorado" /></p>
+
+<p>El resto de mejoras las tratamos un poco más rápidamente. Hemos incluido una nueva opción en la salida, consistente en sacar una ficha del montón para decidir qué jugador empieza. Éste es el procedimiento oficial del reglamento del dominó internacional, por lo que nos ha parecido conveniente incluirlo. También hemos aumentado la duración de la pensada para que sea más fácilmente apreciable por el jugador —la pensada es una seña que se hace en el dominó, consistente en hacer una pausa más o menos larga antes de jugar una ficha; si sólo hay una opción la jugada debe hacerse rápida y si hay varias puede jugarse más lento (hacer la pensada). De los sonidos, hemos incluido unos efectos mejores para el pase y el turno del humano. Y kikirikiiii&hellip; ¡hemos incorporado a nuestro gallo Kiriko a la lista de personajes!</p>
+
+<p>Muchas gracias a nuestros usuarios por ayudarnos a preparar esta doble actualización. Una mención especial aquí a Lester, que nos ha dado una realimentación muy valiosa para la mejora de la inteligencia artificial, el ajuste de la pensada y la incorporación de la nueva opción de salida.</p>
+
+<p>Si aún no lo tenéis, <a href="https://play.google.com/store/apps/details?id=donnaipe.domino">éste es el enlace de descarga de Dominó en Parejas para móviles y tabletas Android</a>. Que lo disfrutéis.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Vuelve Tute a Cuatro en Red]]></title>
@@ -157,40 +197,6 @@ para que no os lo paséis por alto. ¡Esperamos que paséis muy buenos ratos con
 <p>Podrás jugar al Europoly contra otros bots o con humanos en el mismo dispositivo. Los bots ofrecen tres niveles de dificultad diferentes y su agresividad y manera de negociar irá variando según dicho nivel.</p>
 
 <p>Europoly no ofrece sólo diversión. Con él aprenderás a manejar tus finanzas, repasarás tus conocimientos geográficos y desarrollarás tus habilidades de negociación. ¿A qué esperas para probarlo?</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Vamos a Viena a Presentar El Trebial]]></title>
-    <link href="http://donnaipe.com/blog/2017/10/01/vamos-a-viena-a-presentar-el-trebial/"/>
-    <updated>2017-10-01T19:41:53+02:00</updated>
-    <id>http://donnaipe.com/blog/2017/10/01/vamos-a-viena-a-presentar-el-trebial</id>
-    <content type="html"><![CDATA[<p>Tras mucho tiempo en silencio volvemos con una noticia estupenda: ¡Nos han aceptado una demo
-del Trebial en la conferencia más importante de Web Semántica! Se trata de la
-<a href="https://iswc2017.semanticweb.org">International Semantic Web Conference</a> (ISWC), que se celebra
-este año en Viena del 21 al 25 de octubre.</p>
-
-<p>Como sabéis, el Trebial es <a href="/blog/2017/03/11/trebial-tu-juego-de-preguntas-y-respuestas/">nuestro último juego</a>
-y está disponible para Android en <a href="https://play.google.com/store/apps/details?id=donnaipe.trebial">Google Play</a>.
-Hemos utilizado técnicas de la Web Semántica para generar las preguntas, por lo que preparamos un artículo
-para la sesión de demos del ISWC y lo enviamos para revisión. Hemos recibido críticas muy buenas,
-por lo que nos han aceptado la demo :)</p>
-
-<p>Por si no os lo creéis, incluimos la captura y os dejamos el enlace a los
-<a href="https://iswc2017.semanticweb.org/program/accepted-papers/">artículos aceptados</a>
-en el ISWC (mirad en la pestaña de <em>Posters and demos</em>).</p>
-
-<p><img src="/images/trebial/capturaISWC.png" alt="Trebial" /></p>
-
-<p>El artículo lo podéis descargar <a href="/cloverquiz/2017-iswc-demo-trebial.pdf">aquí</a>. Está en inglés, por lo que hemos preparado
-<a href="/trebial/2017-iswc-demo-trebial_es.pdf">una versión traducida en español</a> por si lo queréis leer.
-Os avisamos de que es muy técnico y está el texto muy condensado para que quepa en 4
-páginas.</p>
-
-<p>No queda tanto tiempo para la conferencia, así que empezaremos pronto a preparar el viaje.
-A la vuelta esperamos haceros un reportaje del evento. Mientras tanto os recomendamos
-seguir poniendo a prueba vuestros conocimientos del
-<a href="https://play.google.com/store/apps/details?id=donnaipe.trebial">Trebial</a>.</p>
 ]]></content>
   </entry>
   
