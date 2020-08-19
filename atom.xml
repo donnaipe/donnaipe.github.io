@@ -4,7 +4,7 @@
   <title><![CDATA[Don Naipe]]></title>
   <link href="http://donnaipe.com/atom.xml" rel="self"/>
   <link href="http://donnaipe.com/"/>
-  <updated>2020-07-31T10:51:14+02:00</updated>
+  <updated>2020-08-19T17:33:30+02:00</updated>
   <id>http://donnaipe.com/</id>
   <author>
     <name><![CDATA[Don Naipe]]></name>
@@ -12,6 +12,21 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Europoly Recomendado en GamesKeys]]></title>
+    <link href="http://donnaipe.com/blog/2020/08/19/europoly-recomendado-en-gameskeys/"/>
+    <updated>2020-08-19T17:12:32+02:00</updated>
+    <id>http://donnaipe.com/blog/2020/08/19/europoly-recomendado-en-gameskeys</id>
+    <content type="html"><![CDATA[<p>Europoly es uno de nuestros juegos más populares del catálogo de Don Naipe. Está disponible en <a href="https://play.google.com/store/apps/details?id=donnaipe.europoly">Google Play</a> y <a href="https://apps.apple.com/us/app/europoly/id1077045179">App Store</a> desde noviembre de 2015 y febrero de 2016 respectivamente. En el portal especializado en juegos <a href="https://gameskeys.net/">GamesKeys</a>, han incluido a nuestro Europoly en <a href="https://gameskeys.net/underrated-board-games-to-play-on-ios/#Europoly">un listado de grandes juegos de tablero para iOS</a>. Damos las gracias a GamesKeys por hacernos ese honor.</p>
+
+<p><img src="http://donnaipe.com/images/europoly/europoly1.jpeg" alt="Europoly" /></p>
+
+<p>Y ya que hablamos del Europoly, aprovechamos para comentar que hemos actualizado recientemente la versión para iOS. Seguimos con nuestro plan de poner al día nuestro catálogo de juegos para esta plataforma: en breve estará lista la actualización de <a href="https://apps.apple.com/es/app/partnership-dominoes/id1070659362">Dominó en Parejas</a> y seguiremos paulatinamente con el resto de juegos pendientes.</p>
+
+<p>¡Disfrutad del verano!</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Actualización De El Parchís]]></title>
@@ -660,27 +675,6 @@ Que cada uno celebre este 14 de febrero como quiera, pero que por un momento sep
 <p><img src="http://donnaipe.com/images/mus/mus15.png" alt="El Mus" /></p>
 
 <p>Ahora llega el momento de disfrutar del juego (si todavía no lo tenéis descargadlo de <a href="https://play.google.com/store/apps/details?id=donnaipe.mus">Google Play</a>). Aprovecho para agradecer la ayuda de Javi y sus amigos para probar el juego. ¡Nos vemos en El Mus en red!</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Renovamos El Mus Para Android]]></title>
-    <link href="http://donnaipe.com/blog/2016/03/01/renovamos-el-mus-para-android/"/>
-    <updated>2016-03-01T19:54:30+01:00</updated>
-    <id>http://donnaipe.com/blog/2016/03/01/renovamos-el-mus-para-android</id>
-    <content type="html"><![CDATA[<p>Tengo novedades muy importantes en <a href="https://play.google.com/store/apps/details?id=donnaipe.mus">El Mus</a> para Android. Aunque el juego en sí creo que es bastante entretenido, me da la sensación de que la interacción con el compañero es algo limitada. Pensando en cómo mejorar esto, se me ocurrió que los bots podrían consultar a los compañeros en determinados momentos.</p>
-
-<p><img src="http://donnaipe.com/images/mus/mus9.jpeg" alt="El Mus" /></p>
-
-<p>Así que me he puesto manos a la obra y he incluido un nuevo parámetro en los bots: la <strong>INTERACTIVIDAD</strong>. Según el valor de este parámetro, los bots serán más proclives a consultar a su compañero al cortar el mus y al valorar un órdago o una apuesta grande. Además, el jugador puede ahora consultar a su compañero si cortar el mus o no. Fijaos en las capturas adjuntas para ver el aspecto que tiene.</p>
-
-<p><img src="http://donnaipe.com/images/mus/mus10.jpeg" alt="El Mus" /></p>
-
-<p>Por otra parte, he aprovechado para realizar unos pequeños ajustes en la inteligencia artificial y en el motor del juego. Además, he preparado nuevas imágenes del tapete y la mesa. Por último, quizá lo más reseñable de esta actualización sea la inclusión de más de 100 expresiones &ldquo;musísticas&rdquo; nuevas para dar más colorido al juego.</p>
-
-<p><img src="http://donnaipe.com/images/mus/mus11.jpeg" alt="El Mus" /></p>
-
-<p>A ver si os gustan estos cambios. Espero que la siguiente actualización sea la del juego en red.</p>
 ]]></content>
   </entry>
   
