@@ -4,7 +4,7 @@
   <title><![CDATA[Don Naipe]]></title>
   <link href="http://donnaipe.com/atom.xml" rel="self"/>
   <link href="http://donnaipe.com/"/>
-  <updated>2020-08-19T18:41:17+02:00</updated>
+  <updated>2022-01-29T11:22:47+01:00</updated>
   <id>http://donnaipe.com/</id>
   <author>
     <name><![CDATA[Don Naipe]]></name>
@@ -12,6 +12,20 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Reseña De Europoly en Free Apps for Me]]></title>
+    <link href="http://donnaipe.com/blog/2022/01/29/resena-de-europoly-en-free-apps-for-me/"/>
+    <updated>2022-01-29T11:12:54+01:00</updated>
+    <id>http://donnaipe.com/blog/2022/01/29/resena-de-europoly-en-free-apps-for-me</id>
+    <content type="html"><![CDATA[<p>Muy buenas. Hacía tiempo que no publicaba nada, pido disculpas por ello. El portal especializado en juegos <a href="https://freeappsforme.com/">Free Apps For Me</a>
+ha publicado <a href="https://freeappsforme.com/europoly-app-review/">esta reseña de mi juego Europoly</a>. Muchísimas gracias por la recomendación.
+Para los que no lo lo conozcan, Europoly está disponible en <a href="https://play.google.com/store/apps/details?id=donnaipe.europoly">Google Play</a>
+y <a href="https://apps.apple.com/us/app/europoly/id1077045179">App Store</a>.</p>
+
+<p><img src="http://donnaipe.com/images/europoly/europoly2.jpeg" alt="Europoly" /></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Europoly Recomendado en GamesKeys]]></title>
@@ -642,39 +656,6 @@ seguir poniendo a prueba vuestros conocimientos del
 Pese a llevar un año muy poco activos en las redes sociales, ha sido por una buena razón: tenemos sorpresas, novedades, ilusión y muchas ganas para 2017. Y qué mejor espaldarazo de salida para anunciar todas las novedades que el día de nuestra celebración. Un día en el que también queremos contar con todos vosotros. Porque al fin y al cabo sin vosotros, Don Naipe no sería nada más que un náufrago en la inmensidad del océano, pero gracias a vuestro tiempo, dedicación y pasión por los juegos nos sentimos arropados y que estamos construyendo algo juntos.
 Que cada uno celebre este 14 de febrero como quiera, pero que por un momento sepa que Don Naipe hace 3 años que inició su andadura y queremos seguir aquí con vosotros mucho tiempo. ¡Todo el que nos dejéis! Poco a poco iremos mostrando nuestras cartas, ¡habrá sorpresas! Esperamos que os animéis a formar parte de este proyecto en el que nos hemos embarcado.
 <strong>¡Felicidades!</strong></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[El Mus Ya Está en Red]]></title>
-    <link href="http://donnaipe.com/blog/2016/05/12/el-mus-ya-esta-en-red/"/>
-    <updated>2016-05-12T17:02:07+02:00</updated>
-    <id>http://donnaipe.com/blog/2016/05/12/el-mus-ya-esta-en-red</id>
-    <content type="html"><![CDATA[<p>Hacía bastante tiempo que no publicaba nada en el blog, y no por falta de actividad. Este principio de año he estado muy atareado renovando los recursos gráficos de mis juegos. Además, he incluido marcadores, logros y estadísticas en el Europoly, Tute Cabrón, Julepe y Dominó en Parejas.</p>
-
-<p><img src="http://donnaipe.com/images/mus/mus13.png" alt="El Mus" /></p>
-
-<p>Después de todo esto, me he puesto por fin con el modo en red de <a href="https://play.google.com/store/apps/details?id=donnaipe.mus">El Mus</a> para Android. Y tras mucho esfuerzo, por fin puedo hacer el anuncio tan esperado: <strong>¡Ya está disponible la versión multijugador de El Mus para Android!</strong>.</p>
-
-<p><img src="http://donnaipe.com/images/mus/mus17.png" alt="El Mus" /></p>
-
-<p>Pueden jugarse partidas rápidas o invitar a amigos a través de Google Play Juegos. En cualquier caso, hay una espera hasta que se monta la partida con 4 humanos. A continuación se forman los equipos, eligiendo un avatar entre los disponibles.</p>
-
-<p><img src="http://donnaipe.com/images/mus/icono_mus_red.png" alt="El Mus" /></p>
-
-<p>Ya en el juego, la mecánica es similar al juego individual, aunque pueden apreciarse algunas diferencias. En primer lugar, se muestra el <em>nick</em> en Play Juegos de los jugadores. Además, hay un tiempo limitado para realizar cada acción para que la partida sea ágil. El tiempo disponible se muestra con una barra de progreso que va decreciendo paulatinamente. Si no se completa la acción antes de que venza, el juego pasará al modo automático y responderá de manera pasiva (dándose mus, no queriendo los envites, etc.). Pulsando en la pantalla se recupera el control de nuevo.</p>
-
-<p><img src="http://donnaipe.com/images/mus/mus14.png" alt="El Mus" /></p>
-
-<p>Al final de cada ronda se habilita un chat para intercambiar mensajes entre los jugadores. Si un jugador pulsa el botón de continuar, la partida continuará a los 8 segundos. Es posible deshabilitar los mensajes de un jugador pulsando en el avatar correspondiente — pulsando de nuevo se mostrarán de nuevo sus mensajes. Esto lo he puesto para poder cortar los mensajes fuera de tono.</p>
-
-<p><img src="http://donnaipe.com/images/mus/mus16.png" alt="El Mus" /></p>
-
-<p>Una parte no desdeñable del proceso ha sido tratar los posibles problemas, como la eventual  desconexión de un jugador. Hay muchísima casuística, por lo que es posible que haya quedado algún cabo suelto. Si detectáis algún problema, por favor avisadme.</p>
-
-<p><img src="http://donnaipe.com/images/mus/mus15.png" alt="El Mus" /></p>
-
-<p>Ahora llega el momento de disfrutar del juego (si todavía no lo tenéis descargadlo de <a href="https://play.google.com/store/apps/details?id=donnaipe.mus">Google Play</a>). Aprovecho para agradecer la ayuda de Javi y sus amigos para probar el juego. ¡Nos vemos en El Mus en red!</p>
 ]]></content>
   </entry>
   
