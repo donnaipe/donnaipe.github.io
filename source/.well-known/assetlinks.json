@@ -1,0 +1,15 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls",
+      "delegate_permission/common.get_login_creds"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "donnaipe.tutegratis",
+      "sha256_cert_fingerprints": [
+        "C0:A4:15:2F:4A:DE:28:0B:C2:C7:65:35:11:4F:D0:37:CC:BC:8E:B9:BA:45:47:B4:E2:4E:BF:25:6C:66:8F:3F"
+      ]
+    }
+  }
+]
