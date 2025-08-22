@@ -12,5 +12,19 @@
 	"49:69:0B:38:51:E9:55:EE:CF:1D:01:03:52:D4:D8:A9:9F:43:AE:5C:38:96:F8:04:4C:50:FA:D2:EC:B9:AA:F6"
       ]
     }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls",
+      "delegate_permission/common.get_login_creds"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "donnaipe.tutepro",
+      "sha256_cert_fingerprints": [
+        "C0:A4:15:2F:4A:DE:28:0B:C2:C7:65:35:11:4F:D0:37:CC:BC:8E:B9:BA:45:47:B4:E2:4E:BF:25:6C:66:8F:3F",
+        "49:69:0B:38:51:E9:55:EE:CF:1D:01:03:52:D4:D8:A9:9F:43:AE:5C:38:96:F8:04:4C:50:FA:D2:EC:B9:AA:F6"
+      ]
+    }
   }
 ]
